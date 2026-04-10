@@ -1,0 +1,542 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>English Grammar System</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      background: #ededed;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      color: #1f2f4a;
+    }
+
+    .board {
+      position: relative;
+      width: 1536px;
+      height: 1160px;
+      margin: 0 auto;
+      background: #ededed;
+      overflow: hidden;
+    }
+
+    .project-header {
+      height: 150px;
+      padding-top: 20px;
+      text-align: center;
+    }
+
+    .project-header h1 {
+      margin: 0;
+      font-size: 28px;
+      font-weight: 700;
+      color: #8f63c0;
+    }
+
+    .project-header h2 {
+      margin: 8px 0 0;
+      font-size: 22px;
+      font-weight: 600;
+      color: #e38b33;;
+    }
+
+    .project-header .program {
+      margin: 2px 0 0;
+      font-size: 16px;
+      font-weight: 500;
+      color: #8f63c0;
+    }
+
+    .project-header .platform {
+      margin: 6px 0 0;
+      font-size: 14px;
+      color: #4a6fa5;
+    }
+
+    .diagram-area {
+      position: relative;
+      top: 0;
+      left: 0;
+    }
+
+    .node {
+      position: absolute;
+      z-index: 2;
+    }
+
+    .line {
+      position: absolute;
+      z-index: 1;
+      background: #3f79bf;
+      border-radius: 3px;
+    }
+
+    .line.green { background: #6aa46d; }
+    .line.orange { background: #e38b33; }
+    .line.purple { background: #8f63c0; }
+    .line.cyan { background: #39a7bf; }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      padding: 10px 28px;
+      min-height: 52px;
+      border-radius: 14px;
+      color: #ffffff;
+      font-weight: 700;
+      font-size: 22px;
+      line-height: 1;
+      text-align: center;
+      white-space: nowrap;
+      box-shadow:
+        inset 0 1px 0 rgba(255,255,255,0.35),
+        0 1px 2px rgba(0,0,0,0.08);
+    }
+
+    .pill.small {
+      min-height: 44px;
+      padding: 8px 22px;
+      font-size: 18px;
+      border-radius: 12px;
+    }
+
+    .blue-pill {
+      background: linear-gradient(180deg, #68a3de 0%, #4b87cc 100%);
+      border: 2px solid #2f69aa;
+    }
+
+    .green-pill {
+      background: linear-gradient(180deg, #74bb7a 0%, #56a15e 100%);
+      border: 2px solid #47894d;
+    }
+
+    .orange-pill {
+      background: linear-gradient(180deg, #f0aa57 0%, #df8a33 100%);
+      border: 2px solid #cb7826;
+    }
+
+    .purple-pill {
+      background: linear-gradient(180deg, #b289dd 0%, #9468c2 100%);
+      border: 2px solid #7d52af;
+    }
+
+    .cyan-pill {
+      background: linear-gradient(180deg, #58b8cd 0%, #3ca6bc 100%);
+      border: 2px solid #27879d;
+    }
+
+    .box {
+      border-radius: 14px;
+      padding: 14px 18px;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.45);
+      font-size: 16px;
+      line-height: 1.45;
+    }
+
+    .blue-box {
+      background: #dbe4ef;
+      color: #202f49;
+    }
+
+    .green-box {
+      background: #dde4db;
+      color: #223628;
+    }
+
+    .orange-box {
+      background: #f1e0d1;
+      color: #53331f;
+    }
+
+    .purple-box {
+      background: #ddd2e8;
+      color: #3f3154;
+    }
+
+    .cyan-box {
+      background: #d9e9ee;
+      color: #21434f;
+    }
+
+    .box ul {
+      margin: 0;
+      padding-left: 22px;
+    }
+
+    .box li {
+      margin: 4px 0;
+    }
+
+    .mini-label {
+      display: block;
+      width: 100%;
+      background: rgba(255,255,255,0.38);
+      color: inherit;
+      text-align: center;
+      font-weight: 700;
+      border-radius: 8px;
+      padding: 8px 10px;
+      margin-bottom: 10px;
+    }
+
+    .main-center {
+      width: 352px;
+      height: 118px;
+      border-radius: 22px;
+      border: 3px solid #3e79bf;
+      background: #d8e3ee;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      color: #203a6f;
+      font-size: 29px;
+      font-weight: 800;
+      line-height: 1.25;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.5);
+    }
+
+    /* Top title and line */
+    .verb-title { top: 48px; left: 647px; }
+    .top-v { top: 101px; left: 766px; width: 4px; height: 16px; }
+    .top-h { top: 115px; left: 373px; width: 675px; height: 4px; }
+
+    .drop-past { top: 115px; left: 373px; width: 4px; height: 22px; }
+    .drop-present { top: 115px; left: 647px; width: 4px; height: 22px; }
+    .drop-future { top: 115px; left: 1046px; width: 4px; height: 22px; }
+
+    .past-title { top: 141px; left: 298px; }
+    .present-title { top: 141px; left: 567px; }
+    .future-title { top: 141px; left: 973px; }
+
+    .past-box { top: 198px; left: 257px; width: 252px; min-height: 124px; }
+    .present-box { top: 198px; left: 530px; width: 210px; min-height: 126px; }
+    .future-box { top: 198px; left: 959px; width: 202px; min-height: 89px; }
+
+    .past-down { top: 330px; left: 379px; width: 4px; height: 58px; }
+    .present-down { top: 329px; left: 675px; width: 4px; height: 60px; }
+    .future-down { top: 287px; left: 1060px; width: 4px; height: 101px; }
+
+    .top-bottom-h { top: 387px; left: 379px; width: 683px; height: 4px; }
+    .to-center-left { top: 387px; left: 744px; width: 4px; height: 40px; }
+    .to-center-right { top: 387px; left: 784px; width: 4px; height: 40px; }
+
+    /* Left clause */
+    .clause-title { top: 387px; left: 84px; }
+    .clause-line { top: 423px; left: 323px; width: 233px; height: 3px; }
+
+    .independent-box { top: 459px; left: 50px; width: 245px; min-height: 250px; }
+    .dependent-box { top: 459px; left: 307px; width: 243px; min-height: 222px; }
+
+    /* Center */
+    .center-node { top: 405px; left: 577px; }
+
+    /* Right punctuation */
+    .punct-title { top: 387px; left: 1151px; }
+    .punct-line { top: 423px; left: 947px; width: 205px; height: 3px; }
+
+    .punct-box-1 { top: 460px; left: 960px; width: 205px; min-height: 80px; }
+    .punct-box-2 { top: 458px; left: 1178px; width: 304px; min-height: 82px; }
+    .punct-box-3 { top: 549px; left: 960px; width: 203px; min-height: 76px; }
+    .punct-box-4 { top: 549px; left: 1178px; width: 304px; min-height: 76px; }
+
+    /* Down to conjunctions */
+    .main-down-purple { top: 525px; left: 746px; width: 4px; height: 72px; }
+    .main-down-cyan { top: 525px; left: 783px; width: 4px; height: 72px; }
+
+    /* Conjunctions */
+    .conj-title { top: 596px; left: 646px; }
+    .fanboys-box { top: 662px; left: 566px; width: 193px; min-height: 112px; }
+    .subordinating-box { top: 662px; left: 778px; width: 193px; min-height: 112px; }
+
+    /* Bottom branch */
+    .bottom-v-left { top: 774px; left: 747px; width: 3px; height: 24px; }
+    .bottom-v-right { top: 774px; left: 784px; width: 3px; height: 24px; }
+    .bottom-h { top: 796px; left: 351px; width: 831px; height: 3px; }
+
+    .bottom-drop-1 { top: 796px; left: 350px; width: 3px; height: 29px; }
+    .bottom-drop-2 { top: 796px; left: 649px; width: 3px; height: 29px; }
+    .bottom-drop-3 { top: 796px; left: 875px; width: 3px; height: 29px; }
+    .bottom-drop-4 { top: 796px; left: 1179px; width: 3px; height: 29px; }
+
+    .trans-title { top: 828px; left: 227px; }
+    .contrast-title { top: 828px; left: 540px; }
+    .cause-title { top: 828px; left: 784px; }
+    .example-title { top: 828px; left: 1075px; }
+
+    .trans-box-1 { top: 886px; left: 161px; width: 173px; min-height: 115px; }
+    .trans-box-2 { top: 886px; left: 349px; width: 139px; min-height: 115px; }
+    .contrast-box { top: 884px; left: 512px; width: 248px; min-height: 112px; }
+    .cause-box { top: 886px; left: 773px; width: 247px; min-height: 114px; }
+    .example-box { top: 886px; left: 1045px; width: 275px; min-height: 115px; }
+
+    @media (max-width: 1560px) {
+      body {
+        overflow-x: auto;
+      }
+    }
+  </style>
+</head>
+  <body>
+  <div class="board">
+
+    <div class="project-header">
+      <h1>Advanced Grammar & Punctuation Project</h1>
+      <h2>University of California, Irvine</h2>
+      <p class="program">International Programs</p>
+      <p class="platform">Offered through Coursera</p>
+    </div>
+
+    <div class="diagram-area">
+
+      <!-- Top: Verb Tenses -->
+      <div class="node verb-title">
+        <div class="pill purple-pill">Verb Tenses</div>
+      </div>
+
+      <div class="line top-v"></div>
+      <div class="line top-h"></div>
+      <div class="line drop-past"></div>
+      <div class="line drop-present"></div>
+      <div class="line drop-future"></div>
+
+      <div class="node past-title">
+        <div class="pill small blue-pill">Past</div>
+      </div>
+
+      <div class="node present-title">
+        <div class="pill small blue-pill">Present</div>
+      </div>
+
+      <div class="node future-title">
+        <div class="pill small blue-pill">Future</div>
+      </div>
+
+      <div class="node past-box">
+        <div class="box blue-box">
+          <ul>
+            <li>Simple Past</li>
+            <li>Past Perfect</li>
+            <li>Past Progressive</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="node present-box">
+        <div class="box blue-box">
+          <ul>
+            <li>Simple Present</li>
+            <li>Present Perfect</li>
+            <li>Present Progressive</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="node future-box">
+        <div class="box blue-box">
+          <ul>
+            <li>Will</li>
+            <li>Future Perfect</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="line past-down"></div>
+      <div class="line present-down"></div>
+      <div class="line future-down"></div>
+      <div class="line top-bottom-h"></div>
+      <div class="line to-center-left"></div>
+      <div class="line to-center-right"></div>
+
+      <!-- Left -->
+      <div class="node clause-title">
+        <div class="pill green-pill">Clause Structures</div>
+      </div>
+      <div class="line green clause-line"></div>
+
+      <div class="node independent-box">
+        <div class="box green-box">
+          <span class="mini-label">Independent Clause</span>
+          <ul>
+            <li>Adverb Clauses</li>
+            <li>Time</li>
+            <li>Cause</li>
+            <li>Condition</li>
+            <li><strong>Reduced Clauses</strong></li>
+            <li>V-ing</li>
+            <li>Having + V3</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="node dependent-box">
+        <div class="box green-box">
+          <span class="mini-label">Dependent Clause</span>
+          <ul>
+            <li>Time</li>
+            <li>Cause</li>
+            <li>Contrast</li>
+            <li>Condition</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Center -->
+      <div class="node center-node">
+        <div class="main-center">
+          ENGLISH<br />
+          GRAMMAR SYSTEM
+        </div>
+      </div>
+
+      <!-- Right -->
+      <div class="node punct-title">
+        <div class="pill orange-pill">Punctuation</div>
+      </div>
+      <div class="line orange punct-line"></div>
+
+      <div class="node punct-box-1">
+        <div class="box orange-box">
+          <ul>
+            <li>Comma</li>
+            <li>Semicolon (:)</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="node punct-box-2">
+        <div class="box orange-box">
+          <ul>
+            <li>Comma</li>
+            <li>Lists, clauses, FANBOYS</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="node punct-box-3">
+        <div class="box orange-box">
+          <ul>
+            <li>Colon</li>
+            <li>Introduce list</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="node punct-box-4">
+        <div class="box orange-box">
+          <ul>
+            <li>Period</li>
+            <li>End sentence</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Conjunctions -->
+      <div class="line purple main-down-purple"></div>
+      <div class="line cyan main-down-cyan"></div>
+
+      <div class="node conj-title">
+        <div class="pill purple-pill">Conjunctions</div>
+      </div>
+
+      <div class="node fanboys-box">
+        <div class="box purple-box">
+          <span class="mini-label">FANBOYS</span>
+          <ul>
+            <li>For, And, Nor,</li>
+            <li>But, Or, Yet, So</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="node subordinating-box">
+        <div class="box purple-box">
+          <span class="mini-label">Subordinating</span>
+          <ul>
+            <li>because, if</li>
+          </ul>
+        </div>
+      </div>
+
+      <!-- Bottom -->
+      <div class="line purple bottom-v-left"></div>
+      <div class="line cyan bottom-v-right"></div>
+      <div class="line cyan bottom-h"></div>
+      <div class="line cyan bottom-drop-1"></div>
+      <div class="line purple bottom-drop-2"></div>
+      <div class="line purple bottom-drop-3"></div>
+      <div class="line cyan bottom-drop-4"></div>
+
+      <div class="node trans-title">
+        <div class="pill cyan-pill">Transitions</div>
+      </div>
+
+      <div class="node contrast-title">
+        <div class="pill purple-pill">Contrast</div>
+      </div>
+
+      <div class="node cause-title">
+        <div class="pill cyan-pill">Cause/Effect</div>
+      </div>
+
+      <div class="node example-title">
+        <div class="pill cyan-pill">Example</div>
+      </div>
+
+      <div class="node trans-box-1">
+        <div class="box cyan-box">
+          <ul>
+            <li>Addition</li>
+            <li>In addition, Moreover</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="node trans-box-2">
+        <div class="box cyan-box">
+          <ul>
+            <li>Contrast</li>
+            <li>In contrast</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="node contrast-box">
+        <div class="box purple-box">
+          <ul>
+            <li>However,</li>
+            <li>In contrast</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="node cause-box">
+        <div class="box cyan-box">
+          <ul>
+            <li>Therefore, As a result</li>
+            <li>Therefore</li>
+            <li>As a result</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="node example-box">
+        <div class="box cyan-box">
+          <ul>
+            <li>For example, Such as</li>
+            <li>For example,</li>
+            <li>Such as</li>
+          </ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</body>
+</html>
