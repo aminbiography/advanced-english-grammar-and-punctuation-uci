@@ -324,4 +324,220 @@ Subordinating conjunction + subject + verb
 
 ---
 
+# Advanced Grammar & Punctuation Reference System
 
+A comprehensive structured reference documenting English tense systems, clause structures, conjunctions, punctuation, and advanced grammar rules.
+
+---
+
+## Part 1: The 12 Affirmative Tense Structures
+
+| Tense | Core Function | Tense Verb Phrase | Complete Pattern | Professional Example |
+|------|-------------|------------------|------------------|----------------------|
+| Simple Past | Completed action | Subject + past verb | Subject + past verb + object | I documented the results yesterday. |
+| Past Progressive | Action in progress | Subject + was/were + V-ing | Subject + was/were + V-ing | We were updating the system at noon. |
+| Past Perfect | Completed before past | Subject + had + V3 | Subject + had + V3 | They had finished the report before the deadline. |
+| Past Perfect Progressive | Duration before past | Subject + had been + V-ing | Subject + had been + V-ing | I had been waiting for two hours before the call started. |
+| Simple Present | Facts/routines | Subject + base verb | Subject + base verb | The program runs automatically. |
+| Present Progressive | Happening now | Subject + am/is/are + V-ing | Subject + am/is/are + V-ing | I am working on the proposal now. |
+| Present Perfect | Past with relevance | Subject + have/has + V3 | Subject + have/has + V3 | We have launched the new feature. |
+| Present Perfect Progressive | Duration to now | Subject + have/has been + V-ing | Subject + have/has been + V-ing | She has been leading the team since 2024. |
+| Simple Future | Predictions | Subject + will + base verb | Subject + will + verb | I will send the invoice tomorrow. |
+| Going to Future | Planned action | Subject + going to + verb | Subject + going to + verb | We are going to deploy the update tonight. |
+| Future Progressive | Ongoing future | Subject + will be + V-ing | Subject + will be + V-ing | He will be traveling all day Tuesday. |
+| Future Perfect | Completed before future | Subject + will have + V3 | Subject + will have + V3 | I will have completed tasks by Friday. |
+
+---
+
+## Negatives and Interrogatives
+
+### Negatives
+Subject + Helping Verb + not + Main Verb  
+Example: They are not working
+
+### Interrogatives
+Helping Verb + Subject + Main Verb?  
+Example: Have you finished?
+
+---
+
+## Part 2: Helping Verbs
+
+| Helping Verb | Use Case | Example |
+|-------------|---------|---------|
+| Do / Does | Present questions | Does he know? |
+| Did | Past questions | Did you call? |
+| Am / Is / Are | Present progressive | I am going |
+| Was / Were | Past progressive | They were talking |
+| Have / Has | Present perfect | She has arrived |
+| Had | Past perfect | We had left |
+| Will | Future | I will stay |
+
+---
+
+## Part 3: Irregular Verbs
+
+| Base | Past | Past Participle |
+|------|------|----------------|
+| Go | Went | Gone |
+| Eat | Ate | Eaten |
+| Write | Wrote | Written |
+| Take | Took | Taken |
+| Give | Gave | Given |
+| Know | Knew | Known |
+| Break | Broke | Broken |
+| Choose | Chose | Chosen |
+
+---
+
+## Part 4: Stative Verbs
+
+| Category | Examples | Correct Usage |
+|---------|----------|--------------|
+| Mental | know, believe | I understand |
+| Emotion | love, want | I want coffee |
+| Possession | have, own | I have a car |
+| Senses | see, hear | You seem tired |
+| Measurement | cost, weigh | It costs $10 |
+
+---
+
+## Mixing English Tenses
+
+| Situation | Rule | Example |
+|----------|------|--------|
+| Future clause | No "will" | When I finish, I will start |
+| Future perfect | Before future | I will have finished |
+| Past cause | Explains present | I feel tired because I worked |
+| Since | Past clause | I have lived here since 2020 |
+| Past before past | Use past perfect | I had finished before meeting |
+
+---
+
+## Conjunctions (FANBOYS)
+
+| Conjunction | Meaning | Example |
+|------------|--------|--------|
+| And | Addition | I read and watched |
+| But | Contrast | It is hot, but room is cold |
+| Or | Choice | Stay or go |
+| So | Result | I forgot, so I bought |
+| Yet | Contrast | She is young, yet smart |
+| For | Reason | I stayed home, for I was tired |
+| Nor | Negative | Nor do I drink soda |
+
+---
+
+## Punctuation
+
+| Mark | Name | Function |
+|------|------|---------|
+| . | Period | Ends sentence |
+| , | Comma | Separates clauses |
+| ; | Semicolon | Connects clauses |
+| : | Colon | Introduces list |
+| ' | Apostrophe | Possession |
+| — | Em Dash | Emphasis |
+| ? | Question | Ends question |
+| ! | Exclamation | Emotion |
+
+---
+
+## Prepositional Connectives
+
+| Phrase | Function |
+|--------|----------|
+| because of | cause |
+| despite | contrast |
+| in addition to | addition |
+| similar to | similarity |
+
+---
+
+## Transitions vs Prepositions
+
+| Transitions | Prepositions |
+|------------|-------------|
+| however | in contrast to |
+| therefore | due to |
+| for example | such as |
+
+---
+
+## Transition Patterns
+
+| Transition | Pattern |
+|-----------|--------|
+| Therefore | . Therefore, |
+| Consequently | ; consequently, |
+| As a result | Subject, result |
+| However | Sentence, however |
+
+---
+
+## Subordinating Conjunctions
+
+| Category | Examples |
+|---------|---------|
+| Time | after, before, when |
+| Condition | if, unless |
+| Cause | because, since |
+| Contrast | although, though |
+| Purpose | so that |
+
+---
+
+## Adverb Clause Rules
+
+| Rule | Example |
+|-----|--------|
+| Beginning → comma | Because she was tired, she slept |
+| End → no comma | She slept because she was tired |
+| Middle → commas | She, although tired, worked |
+
+---
+
+## Common Errors
+
+| Error | Correction |
+|------|-----------|
+| Missing comma | Add comma |
+| Wrong conjunction | Use correct meaning |
+| Fragment | Attach clause |
+| Double conjunction | Remove extra |
+
+---
+
+## Reduced Adverb Clauses
+
+### Rules
+- Same subject required  
+- Remove subject and conjunction  
+- Use V-ing or having + V3  
+
+### Examples
+- After she finished → After finishing  
+- Because she was tired → Being tired  
+- Because she had finished → Having finished  
+
+---
+
+## Noun Clauses
+
+| Function | Example |
+|---------|--------|
+| Subject | That he left surprised me |
+| Object | I know that he left |
+| Complement | My concern is whether he left |
+
+---
+
+## Final Technical Summary
+
+1. Use correct tense structure  
+2. Memorize irregular verbs  
+3. Avoid progressive with stative verbs  
+4. Match clause relationships  
+5. Use reduced clauses for clarity  
+
+---
