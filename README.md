@@ -570,521 +570,6194 @@ Example: Have you finished?
 
 
 
-**Communications Project: Tense Logic & Professional Syntax**
+**[Communications Project: Tense Logic & Professional
+Syntax]{.underline}**
 
 **Project Lead: Amein**
 
 **Organization: idol wave**
 
-**Objective: To establish a technically accurate and professionally clear framework for English tense usage in business communications.**
+**Objective: To establish a technically accurate and professionally
+clear framework for English tense usage in business communications.**
 
 **Part 1: The 12 Affirmative Tense Structures**
 
-| Tense | Core Function | Tense Verb Phrase | Complete Professional Sentence Pattern (Recommended) | Professional Example |
-| --- | --- | --- | --- | --- |
-| Simple Past | Completed action at a definite past time | Subject + past tense verb | Subject + past tense verb + (object/complement) + (time/place) + (optional second clause) | I documented the results yesterday. |
-| Past Progressive | Action in progress at a specific past time | Subject + was/were + present participle (-ing) | Subject + was/were + V-ing + (object/complement) + (time/place) + (optional second clause) | We were updating the system at noon. |
-| Past Perfect | Completed before another past action | Subject + had + past participle | Subject + had + V3 + (object/complement) + (before/when/by + past time or clause) | They had finished the report before the deadline. |
-| Past Perfect Progressive | Duration before a past point | Subject + had been + V-ing | Subject + had been + V-ing + (object/complement) + (for/since) + (until/by + past point) | I had been waiting for two hours before the call started. |
-| Simple Present | Facts, routines, stative conditions | Subject + base verb (add -s/-es for third-person singular) | Subject + base verb + (object/complement) + (frequency/condition) + (optional second clause) | The program runs automatically. |
-| Present Progressive | Happening now / temporary | Subject + am/is/are + V-ing | Subject + am/is/are + V-ing + (object/complement) + (now/currently/this week) + (optional second clause) | I am working on the proposal now. |
-| Present Perfect | Past with present relevance | Subject + have/has + past participle | Subject + have/has + V3 + (object/complement) + (already/just/yet) or (time-to-now marker) | We have launched the new feature. |
-| Present Perfect Progressive | Duration up to now | Subject + have/has been + V-ing | Subject + have/has been + V-ing + (object/complement) + (for/since) + (up to now) | She has been leading the team since 2024. |
-| Simple Future (will) | Decisions, promises, predictions | Subject + will + base verb | Subject + will + base verb + (object/complement) + (future time) + (optional second clause) | I will send the invoice tomorrow. |
-| Future (going to) | Plans / strong evidence | Subject + am/is/are going to + base verb | Subject + am/is/are going to + base verb + (object/complement) + (future time) + (optional second clause) | We are going to deploy the update tonight. |
-| Future Progressive | Ongoing in the future | Subject + will be + V-ing | Subject + will be + V-ing + (object/complement) + (during/at + future time) + (optional second clause) | He will be traveling all day Tuesday. |
-| Future Perfect | Completed before a future point | Subject + will have + past participle | Subject + will have + V3 + (object/complement) + (by/before + future time or clause) | I will have completed the tasks by Friday. |
-| Future Perfect Progressive | Duration up to a future point | Subject + will have been + V-ing | Subject + will have been + V-ing + (object/complement) + (for/since) + (by + future point) | By June, I will have been working here for a year. |
+  -------------------------------------------------------------------------------------
+  **Tense**     **Core        **Tense Verb   **Complete Professional   **Professional
+                Function**    Phrase**       Sentence Pattern          Example**
+                                             (Recommended)**           
+  ------------- ------------- -------------- ------------------------- ----------------
+  Simple Past   Completed     Subject + past Subject + past tense      I documented the
+                action at a   tense verb     verb +                    results
+                definite past                (object/complement) +     yesterday.
+                time                         (time/place) + (optional  
+                                             second clause)            
+
+  Past          Action in     Subject +      Subject + was/were +      We were updating
+  Progressive   progress at a was/were +     V-ing +                   the system at
+                specific past present        (object/complement) +     noon.
+                time          participle     (time/place) + (optional  
+                              (-ing)         second clause)            
+
+  Past Perfect  Completed     Subject +      Subject + had + V3 +      They had
+                before        had + past     (object/complement) +     finished the
+                another past  participle     (before/when/by + past    report before
+                action                       time or clause)           the deadline.
+
+  Past Perfect  Duration      Subject + had  Subject + had been +      I had been
+  Progressive   before a past been + V-ing   V-ing +                   waiting for two
+                point                        (object/complement) +     hours before the
+                                             (for/since) + (until/by + call started.
+                                             past point)               
+
+  Simple        Facts,        Subject + base Subject + base verb +     The program runs
+  Present       routines,     verb (add      (object/complement) +     automatically.
+                stative       -s/-es for     (frequency/condition) +   
+                conditions    third-person   (optional second clause)  
+                              singular)                                
+
+  Present       Happening now Subject +      Subject + am/is/are +     I am working on
+  Progressive   / temporary   am/is/are +    V-ing +                   the proposal
+                              V-ing          (object/complement) +     now.
+                                             (now/currently/this       
+                                             week) + (optional second  
+                                             clause)                   
+
+  Present       Past with     Subject +      Subject + have/has + V3 + We have launched
+  Perfect       present       have/has +     (object/complement) +     the new feature.
+                relevance     past           (already/just/yet) or     
+                              participle     (time-to-now marker)      
+
+  Present       Duration up   Subject +      Subject + have/has been + She has been
+  Perfect       to now        have/has       V-ing +                   leading the team
+  Progressive                 been + V-ing   (object/complement) +     since 2024.
+                                             (for/since) + (up to now) 
+
+  Simple Future Decisions,    Subject +      Subject + will + base     I will send the
+  (will)        promises,     will + base    verb +                    invoice
+                predictions   verb           (object/complement) +     tomorrow.
+                                             (future time) + (optional 
+                                             second clause)            
+
+  Future (going Plans /       Subject +      Subject + am/is/are going We are going to
+  to)           strong        am/is/are      to + base verb +          deploy the
+                evidence      going to +     (object/complement) +     update tonight.
+                              base verb      (future time) + (optional 
+                                             second clause)            
+
+  Future        Ongoing in    Subject + will Subject + will be +       He will be
+  Progressive   the future    be + V-ing     V-ing +                   traveling all
+                                             (object/complement) +     day Tuesday.
+                                             (during/at + future       
+                                             time) + (optional second  
+                                             clause)                   
+
+  Future        Completed     Subject + will Subject + will have +     I will have
+  Perfect       before a      have + past    V3 +                      completed the
+                future point  participle     (object/complement) +     tasks by Friday.
+                                             (by/before + future time  
+                                             or clause)                
+
+  Future        Duration up   Subject + will Subject + will have       By June, I will
+  Perfect       to a future   have been +    been + V-ing +            have been
+  Progressive   point         V-ing          (object/complement) +     working here for
+                                             (for/since) + (by +       a year.
+                                             future point)             
+  -------------------------------------------------------------------------------------
 
 **Note on Negatives & Interrogatives (Questions):**
 
-**Negatives:** To make a sentence negative, add "not" to the first helping verb.
+**Negatives:** To make a sentence negative, add \"not\" to the first
+helping verb.
 
 **Rule:** \[Subject\] + \[Helping Verb\] + {not} + \[Main Verb\]
 
-**Example (Continuous):** "They are working." => "They are **not** working."
+**Example (Continuous):** \"They are working.\" =\> \"They are **not**
+working.\"
 
-**Interrogatives (Questions):** To make an Interrogative (question), move the first helping verb to the front (before the subject).
+**Interrogatives (Questions):** To make an Interrogative (question),
+move the first helping verb to the front (before the subject).
 
 **Rule:** \[Helping Verb\] + \[Subject\] + \[Main Verb\] + ?
 
-**Example (Perfect):** "You have finished." => "**Have** you finished?"
+**Example (Perfect):** \"You have finished.\" =\> \"**Have** you
+finished?\"
 
 **Part 2: Helping Verbs (Auxiliaries)**
 
-Helping verbs are the "engines" of tenses. They determine the time and state of the action.
+Helping verbs are the \"engines\" of tenses. They determine the time and
+state of the action.
 
-| Helping Verb | Primary Use Cases | Examples |
-| --- | --- | --- |
-| Do / Does | Simple Present (Negative/Question) | "I do not agree." / "Does he know?" |
-| Did | Simple Past (Negative/Question) | "We did not see it." / "Did you call?" |
-| Am / Is / Are | Present Progressive | "I am going." / "He is coming." |
-| Was / Were | Past Progressive | "They were talking." / "It was raining." |
-| Have / Has | Present Perfect | "She has arrived." / "I have tried." |
-| Had | Past Perfect | "We had left." / "He had eaten." |
-| Will | All Future Tenses | "I will stay." / "They will have gone." |
+  ------------------------------------------------------------------------
+  **Helping    **Primary Use Cases**        **Examples**
+  Verb**                                    
+  ------------ ---------------------------- ------------------------------
+  **Do /       Simple Present               \"I **do** not agree.\" /
+  Does**       (Negative/Question)          \"**Does** he know?\"
+
+  **Did**      Simple Past                  \"We **did** not see it.\" /
+               (Negative/Question)          \"**Did** you call?\"
+
+  **Am / Is /  Present Progressive          \"I **am** going.\" / \"He
+  Are**                                     **is** coming.\"
+
+  **Was /      Past Progressive             \"They **were** talking.\" /
+  Were**                                    \"It **was** raining.\"
+
+  **Have /     Present Perfect              \"She **has** arrived.\" / \"I
+  Has**                                     **have** tried.\"
+
+  **Had**      Past Perfect                 \"We **had** left.\" / \"He
+                                            **had** eaten.\"
+
+  **Will**     All Future Tenses            \"I **will** stay.\" / \"They
+                                            **will** have gone.\"
+  ------------------------------------------------------------------------
 
 **Part 3: Irregular Verbs**
 
-Unlike regular verbs that just add "-ed," irregular verbs change completely in their **Past Form** and **Past Participle**.
+Unlike regular verbs that just add \"-ed,\" irregular verbs change
+completely in their **Past Form** and **Past Participle**.
 
-| Base Form (V1​) | Past Form (V2​) (Simple Past) | Past Participle (V3​) (Perfect Tenses) |
-| --- | --- | --- |
-| Buy | Bought | Bought |
-| Sell | Sold | Sold |
-| Spend | Spent | Spent |
-| Cost | Cost | Cost |
-| Bring | Brought | Brought |
-| Go | Went | Gone |
-| Eat | Ate | Eaten |
-| Write | Wrote | Written |
-| See | Saw | Seen |
-| Take | Took | Taken |
-| Give | Gave | Given |
-| Become | Became | Become |
-| Speak | Spoke | Spoken |
-| Know | Knew | Known |
-| Break | Broke | Broken |
-| Choose | Chose | Chosen |
-| Build | Built | Built |
+  ------------------------------------------------------------------------
+  **Base Form     **Past Form (V2​) (Simple  **Past Participle (V3​)
+  (V1​)**          Past)**                   (Perfect Tenses)**
+  --------------- ------------------------- ------------------------------
+  **Buy**         Bought                    Bought
 
-**Part 4: Stative Verbs (The "No -ing" Rule)**
+  **Sell**        Sold                      Sold
 
-Stative verbs describe a state, not a physical action. Technically, these should **not** be used in Progressive (-ing) tenses.
+  **Spend**       Spent                     Spent
 
-| Category | Examples | Correct Usage (Simple/Perfect) |
-| --- | --- | --- |
-| Mental States | Know, Believe, Understand, Remember | "I understand." (Not: ~~I am understanding~~) |
-| Emotions | Love, Hate, Like, Prefer, Want | "I want coffee." (Not: ~~I am wanting~~) |
-| Possession | Have, Own, Belong, Possess | "I have a car." (Not: ~~I am having a car~~) |
-| Senses | See, Hear, Smell, Taste, Seem | "You seem tired." (Not: ~~You are seeming~~) |
-| Measurement | Weigh, Cost, Contain, Measure | "It costs $10." (Not: ~~It is costing~~) |
+  **Cost**        Cost                      Cost
+
+  **Bring**       Brought                   Brought
+
+  **Go**          Went                      Gone
+
+  **Eat**         Ate                       Eaten
+
+  **Write**       Wrote                     Written
+
+  **See**         Saw                       Seen
+
+  **Take**        Took                      Taken
+
+  **Give**        Gave                      Given
+
+  **Become**      Became                    Become
+
+  **Speak**       Spoke                     Spoken
+
+  **Know**        Knew                      Known
+
+  **Break**       Broke                     Broken
+
+  **Choose**      Chose                     Chosen
+
+  **Build**       Built                     Built
+  ------------------------------------------------------------------------
+
+**Part 4: Stative Verbs (The \"No -ing\" Rule)**
+
+Stative verbs describe a state, not a physical action. Technically,
+these should **not** be used in Progressive (-ing) tenses.
+
+  -----------------------------------------------------------------------------
+  **Category**      **Examples**                **Correct Usage
+                                                (Simple/Perfect)**
+  ----------------- --------------------------- -------------------------------
+  **Mental States** Know, Believe, Understand,  \"I **understand**.\" (Not:
+                    Remember                    \~\~I am understanding\~\~)
+
+  **Emotions**      Love, Hate, Like, Prefer,   \"I **want** coffee.\" (Not:
+                    Want                        \~\~I am wanting\~\~)
+
+  **Possession**    Have, Own, Belong, Possess  \"I **have** a car.\" (Not:
+                                                \~\~I am having a car\~\~)
+
+  **Senses**        See, Hear, Smell, Taste,    \"You **seem** tired.\" (Not:
+                    Seem                        \~\~You are seeming\~\~)
+
+  **Measurement**   Weigh, Cost, Contain,       \"It **costs** \$10.\" (Not:
+                    Measure                     \~\~It is costing\~\~)
+  -----------------------------------------------------------------------------
 
 **Final Technical Summary**
 
-1.  **Affirmative:** Uses the main verb form (Past or Base) or a combination of Helping Verb + Main Verb.
-2.  **Irregularity:** Memorize the Past Participle for perfect tenses (e.g., _I have_ **_driven_**, not _I have drived_).
-3.  **State vs. Action:** Use Simple or Perfect forms for mental states (e.g., _I have_ **_known_** _him for a year_, not _I have been knowing_).
+1.  **Affirmative:** Uses the main verb form (Past or Base) or a
+    combination of Helping Verb + Main Verb.
 
-To practice our master tense rules, let’s imagine a situation at **idol wave** in 2026. I am sending a status update to a client regarding their new web platform and marketing rollout.
+2.  **Irregularity:** Memorize the Past Participle for perfect tenses
+    (e.g., *I have **driven***, not *I have drived*).
+
+3.  **State vs. Action:** Use Simple or Perfect forms for mental states
+    (e.g., *I have **known** him for a year*, not *I have been
+    knowing*).
+
+To practice our master tense rules, let's imagine a situation at **idol
+wave** in 2026. I am sending a status update to a client regarding their
+new web platform and marketing rollout.
 
 **Mixing English Tenses (Rule-Based):**
 
-| Situation / Purpose | Main Clause Tense | Subordinate Clause Tense | Key Rule to Remember | Example |
-| --- | --- | --- | --- | --- |
-| Future time clause (when, before, after, by the time, as soon as) | Future (will / will be / will have) | Present (simple or progressive) | Never use “will” in future time clauses | When I finish, I will start the project. |
-| Future perfect deadline | Future perfect (will have + PP) | Simple present | Action completed before a future point | By the time she arrives, I will have finished. |
-| Parallel future actions | Future progressive | Present progressive | Use present progressive for ongoing time windows | I will be working while he is sleeping. |
-| Present result, past cause (because / since / as) | Simple present | Simple past | Past event explains current state | I feel tired because I worked late. |
-| Present result, recent/ongoing cause | Simple present | Present perfect / perfect progressive | Cause started earlier; effect still relevant | I am tired because I have been working. |
-| Future result, present/past cause | Future (will / going to) | Present / past | Cause tense reflects real time, not future | I will resign because the company changed policy. |
-| SINCE (core pattern) | Present perfect / perfect progressive | Simple past | Since-clause is always past | I have lived here since I moved in 2020. / Since I moved in 2020, I have lived here. |
-| Action started in past, still true now | Present perfect | — | Time period not finished | I have studied cybersecurity for five years. |
-| Ongoing action from past to now | Present perfect progressive | — | Emphasizes duration/activity | I have been studying all morning. |
-| Earlier past before another past | Past perfect | Simple past | “Past before past” | I had finished before the meeting started. |
-| Completed past (time finished) | Simple past | — | Time is clearly over | I read all morning yesterday. |
-| General truth despite time difference (even though / although) | Any logical tense | Any logical tense | Contrast ignores time matching | I will continue even though it has been difficult. |
+  ---------------------------------------------------------------------------------------
+  **Situation /    **Main Clause   **Subordinate    **Key Rule to       **Example**
+  Purpose**        Tense**         Clause Tense**   Remember**          
+  ---------------- --------------- ---------------- ------------------- -----------------
+  **Future time    Future (will /  **Present        **Never use "will"  When I
+  clause** (when,  will be / will  (simple or       in future time      **finish**, I
+  before, after,   have)           progressive)**   clauses**           **will start**
+  by the time, as                                                       the project.
+  soon as)                                                              
+
+  **Future perfect Future perfect  Simple present   Action completed    By the time she
+  deadline**       (will have +                     **before a future   **arrives**, I
+                   PP)                              point**             **will have
+                                                                        finished**.
+
+  **Parallel       Future          Present          Use present         I **will be
+  future actions** progressive     progressive      progressive for     working** while
+                                                    ongoing time        he **is
+                                                    windows             sleeping**.
+
+  **Present        Simple present  Simple past      Past event explains I **feel** tired
+  result, past                                      current state       because I
+  cause** (because                                                      **worked** late.
+  / since / as)                                                         
+
+  **Present        Simple present  Present perfect  Cause started       I **am tired**
+  result,                          / perfect        earlier; effect     because I **have
+  recent/ongoing                   progressive      still relevant      been working**.
+  cause**                                                               
+
+  **Future result, Future (will /  Present / past   Cause tense         I **will resign**
+  present/past     going to)                        reflects **real     because the
+  cause**                                           time**, not future  company
+                                                                        **changed**
+                                                                        policy.
+
+  **SINCE (core    **Present       **Simple past**  Since-clause is     I **have lived**
+  pattern)**       perfect /                        always past         here since I
+                   perfect                                              **moved** in
+                   progressive**                                        2020. / Since I
+                                                                        moved in 2020, I
+                                                                        have lived here.
+
+  **Action started Present perfect ---              Time period not     I **have
+  in past, still                                    finished            studied**
+  true now**                                                            cybersecurity for
+                                                                        five years.
+
+  **Ongoing action Present perfect ---              Emphasizes          I **have been
+  from past to     progressive                      duration/activity   studying** all
+  now**                                                                 morning.
+
+  **Earlier past   Past perfect    Simple past      "Past before past"  I **had
+  before another                                                        finished** before
+  past**                                                                the meeting
+                                                                        **started**.
+
+  **Completed past Simple past     ---              Time is clearly     I **read** all
+  (time                                             over                morning
+  finished)**                                                           yesterday.
+
+  **General truth  Any logical     Any logical      Contrast ignores    I **will
+  despite time     tense           tense            time matching       continue** even
+  difference**                                                          though it **has
+  (even though /                                                        been difficult**.
+  although)                                                             
+  ---------------------------------------------------------------------------------------
 
 **Random short Algorithm:**
 
 1.  **Choose the anchor time** (past / present / future).
-2.  Ask: Is the second clause time, cause, or contrast?
+
+2.  Ask: *Is the second clause time, cause, or contrast?*
+
 3.  Apply the rule:
-    *   **Time clause → present form**
-    *   **Since → main perfect + past**
-    *   **Cause → real time of the cause**
-    *   **Perfect → relevance or deadline**
 
-**Advanced Grammar and Punctuation – Blending Tenses**
+    -   **Time clause → present form**
 
-| Topic | Key Concept | Explanation | Example |
-| --- | --- | --- | --- |
-| Conjunction | Definition | A conjunction is a word that connects clauses, phrases, or words in a sentence. | I ate a muffin, and I drank tea. |
-| Coordinating Conjunctions | FANBOYS | There are seven coordinating conjunctions: For, And, Nor, But, Or, Yet, So. They connect equal grammatical structures. | She studied hard, so she passed the exam. |
-| Compound Sentence | Sentence Structure | When two independent clauses are connected by a coordinating conjunction, they form a compound sentence. A comma usually appears before the conjunction. | I like coffee, but I prefer tea. |
-| Meaning of “And” | Addition | Used to add similar information or actions. | I read a book, and I watched a movie. |
-| Meaning of “But” | Contrast | Shows contrast or unexpected results between two ideas. | It is hot outside, but the room is cold. |
-| Meaning of “Or” | Choice | Indicates options where only one may be chosen. | You can stay home, or you can go out. |
-| Meaning of “So” | Cause and Effect | Shows a result or consequence of an action. | I forgot my lunch, so I bought food. |
-| Meaning of “Yet” | Unexpected Contrast | Similar to “but,” but emphasizes surprise or contradiction. | She is young, yet she solves complex math problems. |
-| Meaning of “For” | Reason | Used to show a reason similar to “because.” | I stayed home, for I was tired. |
-| Meaning of “Nor” | Negative Addition | Connects two negative clauses and uses inverted word order in the second clause. | I do not drink coffee, nor do I drink soda. |
-| Parallel Structure | Equal Grammatical Form | Elements connected by conjunctions must have the same grammatical form. | I enjoy swimming and running. |
-| Parallel Errors | Structure Mismatch | When sentence elements are not grammatically similar, the sentence becomes incorrect. | Incorrect: She likes swimming and to run. |
-| Oxford Comma | Optional Comma | A comma before the final conjunction in a list. It helps avoid ambiguity. | I bought apples, oranges, and bananas. |
-| Correlative Conjunctions | Paired Conjunctions | Conjunctions that appear in pairs to connect equal sentence parts. | Examples: both…and, either…or, neither…nor, not only…but also |
-| Both…And | Two Positive Elements | Emphasizes two elements that are both true. | Both grammar and vocabulary are important. |
-| Either…Or | Choice Between Two Options | Indicates one option out of two possibilities. | You can either study now or later. |
-| Neither…Nor | Two Negative Elements | Connects two negative ideas without using a negative verb. | Neither John nor Mary attended the meeting. |
-| Not Only…But Also | Emphasis | Adds emphasis by highlighting two related ideas. | She is not only intelligent but also hardworking. |
-| Punctuations’ |
-| --- |
-| Mark | Name | Primary Function | Related Conjunctions / Connectors |
-| . | Period | Ends a complete sentence or statement. | None (signals a full stop before a new sentence). |
-| , | Comma | Separates items, phrases, or clauses within a sentence. | Coordinating Conjunctions – FANBOYS (For, And, Nor, But, Or, Yet, So) when joining independent clauses. |
-| ; | Semicolon | Connects closely related independent clauses. | Conjunctive Adverbs – However, Therefore, Moreover, Consequently, Nevertheless. |
-| : | Colon | Introduces a list, explanation, example, or quotation. | Namely, For example, Specifically, To illustrate. |
-| ' | Apostrophe | Indicates possession or omitted letters in contractions. | None (used for possession and contractions). |
-| — | Em Dash | Shows emphasis, interruption, or a sudden break in thought. | None (used stylistically rather than with specific conjunctions). |
-| ? | Question Mark | Ends a direct question. | Interrogative words – Who, What, When, Where, Why, How. |
-| ! | Exclamation Mark | Expresses strong emotion, warning, or emphasis. | None (expressive punctuation). |
-| ( ) | Parentheses | Adds additional or explanatory information. | In other words, That is, For instance. |
-| - | Hyphen | Connects words to form compound terms. | None (used in word formation). |
-| Prepositional Phrases as Connectives |
-| --- |
-| Connective Phrase(s) | Function | Logical Relationship |
-| because of / due to | Cause | Indicates the reason why something happened. |
-| in spite of / despite | Unexpected Result | Shows a concession or a result that occurs regardless of an obstacle. |
-| in contrast to | Contrast | Highlights the differences between two subjects or ideas. |
-| similar to | Similarity | Indicates a likeness or commonality between things. |
-| in addition to | Addition | Adds more information or items to a previous statement. |
-| Transitions and Prepositions by Function |
-| --- |
-| Chronology | Spatial Description | Causation | Unexpected Result |
-| AfterBeforePrior tosince | on top ofunderabovenext tobehindto the leftto the right | because ofdue toon account of | in spite ofdespite |
-| Example | Contrast | Similarity | Addition |
-| such as | in contrast toinstead ofdifferent fromunlike | Likesimilar to | in addition to |
-| Transitions vs. Prepositions |
-| --- |
-| TRANSITIONS | PREPOSITIONS |
-| AFTER THAT | AFTER |
-| AT FIRST | BEFORE |
-| AS A RESULT | DUE TO |
-| FURTHERMORE | INSTEAD OF |
-| IN CONTRAST | SIMILAR TO |
-| HOWEVER | IN CONTRAST TO |
-| IN ADDITION | IN SPITE OF |
-| FOR EXAMPLE | IN ADDITION TO |
-| IN FACT | SUCH AS |
-| ON THE OTHER HAND | DESPITE |
-| FOR INSTANCE | AS A RESULT OF |
-| Transition Punctuation Patterns |
-| --- |
-| Transition | Pattern |
-| Therefore | . Transition, |
-| Consequently | ; transition, |
-| As a result | Subject, transition, verb. |
-| However | Sentence, transition. |
-| On the other hand | Sentence, transition. |
-| In contrast | Sentence, transition. |
-| For example | Sentence, transition. |
-| In fact | Sentence, transition. |
-| Rules for Using Transitions |
-| --- |
-| Transitions | Allowed Structure | Not Allowed |
-| In addition | . Transition, | Subject, transition, verb. |
-| Moreover | ; transition, | Sentence, transition. |
-| Furthermore | . Transition, | Subject, transition, verb. |
-| Thus | ; transition, | Sentence, transition. |
-| Hence | ; transition, | Sentence, transition. |
-| In conclusion | . Transition, | Subject, transition, verb. |
-| First | . Transition, | Subject, transition, verb. |
-| Second | . Transition, | Subject, transition, verb. |
-| To illustrate | . Transition, | Subject, transition, verb. |
-| Subordinating Conjunctions to Introduce Adverb Clauses |
-| --- |
-| Category | Subordinating Conjunctions |
-| Time | after, as, as soon as, before, by the time, every time, since, until, when, whenever, while, the first time |
-| Condition | (only, even) if, unless, in case, provided that, in the event that |
-| Unexpected Result (Concession) | although, even though, though |
-| Cause | because, now that, since |
-| Place | where, wherever |
-| Direct Contrast | while, whereas |
-| Purpose | so that, in order that |
-| Adverb Clauses: Punctuation and Usage Rules |
-| --- |
-| Topic | Rule / Definition | Example |
-| Adverb Clause | A dependent clause that functions as an adverb and begins with a subordinating conjunction. | Because their eyes are small, they cannot see well. |
-| Subordinating Conjunction | A word used to introduce an adverb clause and connect it to the main clause. | because, although, even though, though, while, whereas |
-| Adverb Clause at the Beginning | When an adverb clause comes at the beginning of a sentence, it is followed by a comma. | Because their eyes are small, they cannot see well. |
-| Adverb Clause at the End | When an adverb clause comes at the end of a sentence, usually no comma is needed. | They cannot see well because their eyes are small. |
-| Adverb Clause in the Middle | When an adverb clause appears in the middle of a sentence, use two commas (one before and one after). | My brother, although he is tired, continues working. |
-| Whereas (Contrast) | When whereas shows direct contrast, a comma is always used. | I prefer tea, whereas she prefers coffee. |
-| While Showing Contrast | When while shows contrast, a comma is used. | I walk to work, while my brother drives. |
-| While Showing Time | When while shows a time relationship, no comma is needed. | I did my homework while I listened to music. |
-| Adverb Clause Showing Cause | Explains why something happens. | Emily asks for Jake’s help because she does not want to hurt her feelings. |
-| Adverb Clause Showing Unexpected Result | Shows a result opposite to expectation using conjunctions like although, even though, though. | Even though Jake lacks cooking skills, Emily asks for her help. |
-| Using Two Adverb Clauses | When a sentence has two adverb clauses, it is common to place one at the beginning and one at the end. | Even though Jake lacks skills in the kitchen, Emily asks for her help because she does not want to hurt her feelings. |
-| Subordinating Conjunctions - Avoiding Common Mistakes |
-| --- |
-| Mistake No. | Topic | Rule / Explanation | Incorrect Example | Correct Example |
-| 1 | Comma placement | When a dependent clause starts the sentence, use a comma. When the independent clause comes first, do not use a comma. | Because Jake is clumsy in the kitchen Emily doesn't want her help. / Emily doesn't want her help, because Jake is clumsy in the kitchen. | Because Jake is clumsy in the kitchen, Emily doesn't want her help. / Emily doesn't want her help because Jake is clumsy in the kitchen. |
-| 2(A) | Wrong conjunction | Use the conjunction that correctly shows the relationship (cause, contrast, time, etc.). | Because I'm not good at dancing, I like dancing. | Although I'm not good at dancing, I like dancing. |
-| 2(B) | Wrong time relationship | The order of actions must match the conjunction (before/after). | Before I woke up, I brushed my teeth. | After I woke up, I brushed my teeth. |
-| 3 | Incomplete clause | After a subordinating conjunction, use a complete clause (subject + verb). | I like the food Emily cooks because delicious. | I like the food Emily cooks because it's delicious. |
-| 4 | Sentence fragment | A dependent clause cannot stand alone as a sentence. | Emily won't ask Jake to help her cook in the future. Unless Jake takes a cooking class. | Emily won't ask Jake to help her cook in the future unless Jake takes a cooking class. |
-| 5 | Extra conjunction | Do not combine subordinating and coordinating conjunctions together. | Although Emily is a good cook, but Jake is not. | Although Emily is a good cook, Jake is not. / Emily is a good cook, but Jake is not. |
-| 6(A) | Conjunction vs transition | A subordinating conjunction is not a transition word. Do not use a comma after it. | Jake put a pie in the oven. After, the pie shrunk. | Jake put a pie in the oven. After that, the pie shrunk. / Jake put a pie in the oven after the pie shrunk. |
-| 6(B) | Conjunction misuse | Do not separate a subordinating conjunction clause with a period. | Emily didn't want Jake to help. Although, Jake wanted to help. | Emily didn't want Jake to help although Jake wanted to help. |
+    -   **Since → main perfect + past**
+
+    -   **Cause → real time of the cause**
+
+    -   **Perfect → relevance or deadline**
+
+**Advanced Grammar and Punctuation -- Blending Tenses**
+
+  -----------------------------------------------------------------------------------
+  **Topic**           **Key          **Explanation**                 **Example**
+                      Concept**                                      
+  ------------------- -------------- ------------------------------- ----------------
+  **Conjunction**     Definition     A conjunction is a word that    *I ate a muffin,
+                                     connects clauses, phrases, or   and I drank
+                                     words in a sentence.            tea.*
+
+  **Coordinating      FANBOYS        There are seven coordinating    *She studied
+  Conjunctions**                     conjunctions: **For, And, Nor,  hard, so she
+                                     But, Or, Yet, So**. They        passed the
+                                     connect equal grammatical       exam.*
+                                     structures.                     
+
+  **Compound          Sentence       When two independent clauses    *I like coffee,
+  Sentence**          Structure      are connected by a coordinating but I prefer
+                                     conjunction, they form a        tea.*
+                                     compound sentence. A comma      
+                                     usually appears before the      
+                                     conjunction.                    
+
+  **Meaning of        Addition       Used to add similar information *I read a book,
+  "And"**                            or actions.                     and I watched a
+                                                                     movie.*
+
+  **Meaning of        Contrast       Shows contrast or unexpected    *It is hot
+  "But"**                            results between two ideas.      outside, but the
+                                                                     room is cold.*
+
+  **Meaning of "Or"** Choice         Indicates options where only    *You can stay
+                                     one may be chosen.              home, or you can
+                                                                     go out.*
+
+  **Meaning of "So"** Cause and      Shows a result or consequence   *I forgot my
+                      Effect         of an action.                   lunch, so I
+                                                                     bought food.*
+
+  **Meaning of        Unexpected     Similar to "but," but           *She is young,
+  "Yet"**             Contrast       emphasizes surprise or          yet she solves
+                                     contradiction.                  complex math
+                                                                     problems.*
+
+  **Meaning of        Reason         Used to show a reason similar   *I stayed home,
+  "For"**                            to "because."                   for I was
+                                                                     tired.*
+
+  **Meaning of        Negative       Connects two negative clauses   *I do not drink
+  "Nor"**             Addition       and uses inverted word order in coffee, nor do I
+                                     the second clause.              drink soda.*
+
+  **Parallel          Equal          Elements connected by           *I enjoy
+  Structure**         Grammatical    conjunctions must have the same swimming and
+                      Form           grammatical form.               running.*
+
+  **Parallel Errors** Structure      When sentence elements are not  Incorrect: *She
+                      Mismatch       grammatically similar, the      likes swimming
+                                     sentence becomes incorrect.     and to run.*
+
+  **Oxford Comma**    Optional Comma A comma before the final        *I bought
+                                     conjunction in a list. It helps apples, oranges,
+                                     avoid ambiguity.                and bananas.*
+
+  **Correlative       Paired         Conjunctions that appear in     Examples:
+  Conjunctions**      Conjunctions   pairs to connect equal sentence **both...and,
+                                     parts.                          either...or,
+                                                                     neither...nor,
+                                                                     not only...but
+                                                                     also**
+
+  **Both...And**      Two Positive   Emphasizes two elements that    *Both grammar
+                      Elements       are both true.                  and vocabulary
+                                                                     are important.*
+
+  **Either...Or**     Choice Between Indicates one option out of two *You can either
+                      Two Options    possibilities.                  study now or
+                                                                     later.*
+
+  **Neither...Nor**   Two Negative   Connects two negative ideas     *Neither John
+                      Elements       without using a negative verb.  nor Mary
+                                                                     attended the
+                                                                     meeting.*
+
+  **Not Only...But    Emphasis       Adds emphasis by highlighting   *She is not only
+  Also**                             two related ideas.              intelligent but
+                                                                     also
+                                                                     hardworking.*
+  -----------------------------------------------------------------------------------
+
+  -------------------------------------------------------------------------------------------
+  **Punctuations'**                                        
+  ------------------- ------------- ---------------------- ----------------------------------
+  **Mark**            **Name**      **Primary Function**   **Related Conjunctions /
+                                                           Connectors**
+
+  .                   Period        Ends a complete        None (signals a full stop before a
+                                    sentence or statement. new sentence).
+
+  ,                   Comma         Separates items,       Coordinating Conjunctions --
+                                    phrases, or clauses    FANBOYS (For, And, Nor, But, Or,
+                                    within a sentence.     Yet, So) when joining independent
+                                                           clauses.
+
+  ;                   Semicolon     Connects closely       Conjunctive Adverbs -- However,
+                                    related independent    Therefore, Moreover, Consequently,
+                                    clauses.               Nevertheless.
+
+  :                   Colon         Introduces a list,     Namely, For example, Specifically,
+                                    explanation, example,  To illustrate.
+                                    or quotation.          
+
+  \'                  Apostrophe    Indicates possession   None (used for possession and
+                                    or omitted letters in  contractions).
+                                    contractions.          
+
+  ---                 Em Dash       Shows emphasis,        None (used stylistically rather
+                                    interruption, or a     than with specific conjunctions).
+                                    sudden break in        
+                                    thought.               
+
+  ?                   Question Mark Ends a direct          Interrogative words -- Who, What,
+                                    question.              When, Where, Why, How.
+
+  !                   Exclamation   Expresses strong       None (expressive punctuation).
+                      Mark          emotion, warning, or   
+                                    emphasis.              
+
+  ( )                 Parentheses   Adds additional or     In other words, That is, For
+                                    explanatory            instance.
+                                    information.           
+
+  \-                  Hyphen        Connects words to form None (used in word formation).
+                                    compound terms.        
+  -------------------------------------------------------------------------------------------
+
+  ------------------------------------------------------------------------------
+  **Prepositional                    
+  Phrases as                         
+  Connectives**                      
+  ----------------- ---------------- -------------------------------------------
+  **Connective      **Function**     **Logical Relationship**
+  Phrase(s)**                        
+
+  **because of** /  **Cause**        Indicates the reason why something
+  **due to**                         happened.
+
+  **in spite of** / **Unexpected     Shows a concession or a result that occurs
+  **despite**       Result**         regardless of an obstacle.
+
+  **in contrast     **Contrast**     Highlights the differences between two
+  to**                               subjects or ideas.
+
+  **similar to**    **Similarity**   Indicates a likeness or commonality between
+                                     things.
+
+  **in addition     **Addition**     Adds more information or items to a
+  to**                               previous statement.
+  ------------------------------------------------------------------------------
+
++------------+--------------------+--------------+--------------------+
+| **T        |                    |              |                    |
+| ransitions |                    |              |                    |
+| and        |                    |              |                    |
+| Pr         |                    |              |                    |
+| epositions |                    |              |                    |
+| by         |                    |              |                    |
+| Function** |                    |              |                    |
++============+====================+==============+====================+
+| **Ch       | **Spatial          | *            | **Unexpected       |
+| ronology** | Description**      | *Causation** | Result**           |
++------------+--------------------+--------------+--------------------+
+| After      | on top of          | because of   | in spite of        |
+|            |                    |              |                    |
+| Before     | under              | due to       | despite            |
+|            |                    |              |                    |
+| Prior to   | above              | on account   |                    |
+|            |                    | of           |                    |
+| since      | next to            |              |                    |
+|            |                    |              |                    |
+|            | behind             |              |                    |
+|            |                    |              |                    |
+|            | to the left        |              |                    |
+|            |                    |              |                    |
+|            | to the right       |              |                    |
++------------+--------------------+--------------+--------------------+
+| Example    | Contrast           | Similarity   | Addition           |
++------------+--------------------+--------------+--------------------+
+| such as    | in contrast to     | Like         | in addition to     |
+|            |                    |              |                    |
+|            | instead of         | similar to   |                    |
+|            |                    |              |                    |
+|            | different from     |              |                    |
+|            |                    |              |                    |
+|            | unlike             |              |                    |
++------------+--------------------+--------------+--------------------+
+
+  -----------------------------------------------------------------------
+  **Transitions vs. Prepositions**        
+  --------------------------------------- -------------------------------
+  **TRANSITIONS**                         **PREPOSITIONS**
+
+  AFTER THAT                              AFTER
+
+  AT FIRST                                BEFORE
+
+  AS A RESULT                             DUE TO
+
+  FURTHERMORE                             INSTEAD OF
+
+  IN CONTRAST                             SIMILAR TO
+
+  HOWEVER                                 IN CONTRAST TO
+
+  IN ADDITION                             IN SPITE OF
+
+  FOR EXAMPLE                             IN ADDITION TO
+
+  IN FACT                                 SUCH AS
+
+  ON THE OTHER HAND                       DESPITE
+
+  FOR INSTANCE                            AS A RESULT OF
+  -----------------------------------------------------------------------
+
+  -----------------------------------------------------------------------
+  **Transition Punctuation       
+  Patterns**                     
+  ------------------------------ ----------------------------------------
+  **Transition**                 **Pattern**
+
+  Therefore                      . Transition,
+
+  Consequently                   ; transition,
+
+  As a result                    Subject, transition, verb.
+
+  However                        Sentence, transition.
+
+  On the other hand              Sentence, transition.
+
+  In contrast                    Sentence, transition.
+
+  For example                    Sentence, transition.
+
+  In fact                        Sentence, transition.
+  -----------------------------------------------------------------------
+
+  ------------------------------------------------------------------------
+  **Rules for Using                         
+  Transitions**                             
+  ----------------- ----------------------- ------------------------------
+  **Transitions**   **Allowed Structure**   **Not Allowed**
+
+  In addition       . Transition,           Subject, transition, verb.
+
+  Moreover          ; transition,           Sentence, transition.
+
+  Furthermore       . Transition,           Subject, transition, verb.
+
+  Thus              ; transition,           Sentence, transition.
+
+  Hence             ; transition,           Sentence, transition.
+
+  In conclusion     . Transition,           Subject, transition, verb.
+
+  First             . Transition,           Subject, transition, verb.
+
+  Second            . Transition,           Subject, transition, verb.
+
+  To illustrate     . Transition,           Subject, transition, verb.
+  ------------------------------------------------------------------------
+
+  -----------------------------------------------------------------------
+  **Subordinating    
+  Conjunctions to    
+  Introduce Adverb   
+  Clauses**          
+  ------------------ ----------------------------------------------------
+  **Category**       **Subordinating Conjunctions**
+
+  **Time**           after, as, as soon as, before, by the time, every
+                     time, since, until, when, whenever, while, the first
+                     time
+
+  **Condition**      (only, even) if, unless, in case, provided that, in
+                     the event that
+
+  **Unexpected       although, even though, though
+  Result             
+  (Concession)**     
+
+  **Cause**          because, now that, since
+
+  **Place**          where, wherever
+
+  **Direct           while, whereas
+  Contrast**         
+
+  **Purpose**        so that, in order that
+  -----------------------------------------------------------------------
+
+  -------------------------------------------------------------------------
+  **Adverb Clauses:                             
+  Punctuation and                               
+  Usage Rules**                                 
+  ----------------- --------------------------- ---------------------------
+  **Topic**         **Rule / Definition**       **Example**
+
+  **Adverb Clause** A **dependent clause** that Because their eyes are
+                    functions as an **adverb**  small, they cannot see
+                    and begins with a           well.
+                    **subordinating             
+                    conjunction**.              
+
+  **Subordinating   A word used to introduce an because, although, even
+  Conjunction**     adverb clause and connect   though, though, while,
+                    it to the main clause.      whereas
+
+  **Adverb Clause   When an adverb clause comes Because their eyes are
+  at the            **at the beginning of a     small, they cannot see
+  Beginning**       sentence**, it is followed  well.
+                    by a **comma**.             
+
+  **Adverb Clause   When an adverb clause comes They cannot see well
+  at the End**      **at the end of a           because their eyes are
+                    sentence**, **usually no    small.
+                    comma is needed**.          
+
+  **Adverb Clause   When an adverb clause       My brother, although he is
+  in the Middle**   appears **in the middle of  tired, continues working.
+                    a sentence**, use **two     
+                    commas** (one before and    
+                    one after).                 
+
+  **Whereas         When **whereas** shows      I prefer tea, whereas she
+  (Contrast)**      **direct contrast**, a      prefers coffee.
+                    **comma is always used**.   
+
+  **While Showing   When **while** shows        I walk to work, while my
+  Contrast**        **contrast**, a **comma is  brother drives.
+                    used**.                     
+
+  **While Showing   When **while** shows a      I did my homework while I
+  Time**            **time relationship**, **no listened to music.
+                    comma is needed**.          
+
+  **Adverb Clause   Explains **why something    Emily asks for Jake's help
+  Showing Cause**   happens**.                  because she does not want
+                                                to hurt her feelings.
+
+  **Adverb Clause   Shows a result **opposite   Even though Jake lacks
+  Showing           to expectation** using      cooking skills, Emily asks
+  Unexpected        conjunctions like           for her help.
+  Result**          **although, even though,    
+                    though**.                   
+
+  **Using Two       When a sentence has **two   Even though Jake lacks
+  Adverb Clauses**  adverb clauses**, it is     skills in the kitchen,
+                    common to place **one at    Emily asks for her help
+                    the beginning and one at    because she does not want
+                    the end**.                  to hurt her feelings.
+  -------------------------------------------------------------------------
+
+  ----------------------------------------------------------------------------------------
+  **Subordinating                                                        
+  Conjunctions -                                                         
+  Avoiding Common                                                        
+  Mistakes**                                                             
+  ----------------- -------------- ------------------- ----------------- -----------------
+  **Mistake No.**   **Topic**      **Rule /            **Incorrect       **Correct
+                                   Explanation**       Example**         Example**
+
+  1                 Comma          When a **dependent  Because Jake is   Because Jake is
+                    placement      clause starts the   clumsy in the     clumsy in the
+                                   sentence**, use a   kitchen Emily     kitchen, Emily
+                                   comma. When the     doesn\'t want her doesn\'t want her
+                                   **independent       help. / Emily     help. / Emily
+                                   clause comes        doesn\'t want her doesn\'t want her
+                                   first**, do **not** help, because     help because Jake
+                                   use a comma.        Jake is clumsy in is clumsy in the
+                                                       the kitchen.      kitchen.
+
+  2(A)              Wrong          Use the conjunction Because I\'m not  Although I\'m not
+                    conjunction    that correctly      good at dancing,  good at dancing,
+                                   shows the           I like dancing.   I like dancing.
+                                   relationship                          
+                                   (cause, contrast,                     
+                                   time, etc.).                          
+
+  2(B)              Wrong time     The order of        Before I woke up, After I woke up,
+                    relationship   actions must match  I brushed my      I brushed my
+                                   the conjunction     teeth.            teeth.
+                                   (before/after).                       
+
+  3                 Incomplete     After a             I like the food   I like the food
+                    clause         subordinating       Emily cooks       Emily cooks
+                                   conjunction, use a  because           because it\'s
+                                   **complete clause** delicious.        delicious.
+                                   (subject + verb).                     
+
+  4                 Sentence       A **dependent       Emily won\'t ask  Emily won\'t ask
+                    fragment       clause cannot stand Jake to help her  Jake to help her
+                                   alone** as a        cook in the       cook in the
+                                   sentence.           future. Unless    future unless
+                                                       Jake takes a      Jake takes a
+                                                       cooking class.    cooking class.
+
+  5                 Extra          Do **not combine    Although Emily is Although Emily is
+                    conjunction    subordinating and   a good cook, but  a good cook, Jake
+                                   coordinating        Jake is not.      is not. / Emily
+                                   conjunctions**                        is a good cook,
+                                   together.                             but Jake is not.
+
+  6(A)              Conjunction vs A **subordinating   Jake put a pie in Jake put a pie in
+                    transition     conjunction is not  the oven. After,  the oven. After
+                                   a transition        the pie shrunk.   that, the pie
+                                   word**. Do not use                    shrunk. / Jake
+                                   a comma after it.                     put a pie in the
+                                                                         oven after the
+                                                                         pie shrunk.
+
+  6(B)              Conjunction    Do not separate a   Emily didn\'t     Emily didn\'t
+                    misuse         subordinating       want Jake to      want Jake to help
+                                   conjunction clause  help. Although,   although Jake
+                                   with a period.      Jake wanted to    wanted to help.
+                                                       help.             
+  ----------------------------------------------------------------------------------------
 
 **So, finally:**
 
-| Blending Tenses - Adverb Clauses |
-| --- |
-| Topic | Definition / Rule | Key Words / Structure | Example |
-| Clause | A group of words that contains a subject and a verb. | Subject + Verb | She studies every night. |
-| Independent Clause | A clause with a subject and verb that expresses a complete thought and can stand alone. | Complete sentence | Gymnasts are amazing athletes. |
-| Dependent Clause | A clause with a subject and verb but does not express a complete thought and must be connected to an independent clause. | Subordinating conjunction + clause | Because she was tired |
-| Complex Sentence | A sentence that contains one independent clause and one dependent clause. | Independent clause + dependent clause | She stayed home because she was sick. |
-| Adverb Clause | A dependent clause that functions as an adverb and gives information about time, reason, condition, place, contrast, or purpose. | Subordinating conjunction + subject + verb | I fell when I tried to stand on my hands. |
-| Subordinating Conjunction | A word used to connect a dependent clause to an independent clause. | because, although, if, when, since | She left because she was tired. |
-| Time Relationship | Shows when something happens. | after, before, when, whenever, while, until, since | I called her after I finished work. |
-| Condition | Shows a condition that must happen first. | if, even if, unless, provided that, in case | I will go if it stops raining. |
-| Cause | Shows reason or cause. | because, since, now that | She stayed home because she was sick. |
-| Unexpected Result (Concession) | Shows contrast or unexpected results. | although, though, even though | Although it was raining, we went outside. |
-| Place | Shows location. | where, wherever | Sit wherever you like. |
-| Direct Contrast | Shows contrast between two ideas. | while, whereas | I walk to work whereas he drives. |
-| Purpose | Shows intention or purpose. | so that, in order that | He studies hard so that he can pass. |
-| Adverb Clause at Beginning | When an adverb clause starts a sentence, a comma is used after it. | Dependent clause + comma + main clause | Because she was tired, she went to bed. |
-| Adverb Clause at End | When the adverb clause comes at the end, usually no comma is used. | Main clause + dependent clause | She went to bed because she was tired. |
-| Adverb Clause in Middle | When the clause appears in the middle, commas appear before and after it. | Main clause, clause, main clause | Elephants, although it may surprise you, are intelligent. |
-| Special Rule (Whereas / While) | When used to show contrast, a comma is used. | whereas, while | I walk to work, whereas he drives. |
-| Multiple Adverb Clauses | A sentence may contain more than one adverb clause. | Clause + main clause + clause | Even though Jake lacks cooking skills, Emily asked for help because she did not want to hurt his feelings. |
-| Missing Comma Error | A comma is required when the adverb clause begins the sentence. | Because + clause | Because Jake is clumsy, Emily does not want help. |
-| Wrong Conjunction Error | Using the wrong conjunction changes the meaning of the sentence. | because vs although | Although I am not good at dancing, I like dancing. |
-| Incomplete Clause Error | The clause after a subordinating conjunction must contain a subject and verb. | because + subject + verb | I like this food because it is delicious. |
-| Sentence Fragment Error | A dependent clause cannot stand alone as a sentence. | unless + clause | Emily will not ask Jake for help unless he learns cooking. |
-| Extra Conjunction Error | Do not use both a subordinating conjunction and a coordinating conjunction together. | although + but (incorrect) | Although Emily is a good cook, Jake is not. |
-| Transition Confusion | Subordinating conjunctions should not be used as sentence transitions with commas. | after vs after that | After that, the pie shrunk. |
-| Reduced Adverb Clauses |
-| --- |
-| Principal Rules:The subject must be the same in both clauses.Remove the subject and conjunction.For present meaning, use V-ing.For past meaning, use having + past participle.In many cases, while, when, since, and because can be omitted completely.Although usually remains to preserve contrast meaning. Rule: Although + clause, main clause (contrast)Before and after usually remains / must stay.Multiple reduced forms can have the same meaning but different style. |
-| Section | Topic | Explanation | Example |
-| 1 | Definition | A Reduced Adverb Clause is a shortened form of an adverb clause that functions like an adverb. It does not contain both a subject and a verb and often appears as a participial phrase. | Before you complete this lesson → Before completing this lesson |
-| 2 | Alternative Names | Reduced adverb clauses are also called participial phrases or modifying participial phrases. | After you finish the course → After finishing the course |
-| 3 | Purpose | Used to make writing more concise, varied, and cohesive. | After she finished the assignment, she submitted it → After finishing the assignment, she submitted it |
-| 4 | Adverb Clause vs Reduced Clause | An adverb clause contains subject + verb, while a reduced clause removes the subject and often uses the -ing form of the verb. | After she finished the work → After finishing the work |
-| 5 | Important Rule | Reduction is only possible when the subject in the adverb clause and the main clause is the same. | After Polly rolled in the mud, she was dirty → After rolling in the mud, Polly was dirty |
-| 6 | Incorrect Reduction | If the subjects are different, reduction is not allowed because it would create confusion. | After Polly rolled in the mud, Pablo laughed (cannot reduce) |
-| 7 | Types of Clauses That Can Be Reduced | Generally clauses expressing time, cause, or contrast can be reduced. | After you finish the course → After finishing the course |
-| 8 | Time Subordinators | Common time subordinators include after, before, when, while, since. | After you finish the lesson → After finishing the lesson |
-| 9 | Cause Subordinators | Cause relationships often use because, since, as. | Because she was tired, she went home early → Being tired, she went home early |
-| 10 | Contrast Subordinators | Contrast relationships often use although, though, while. | Though the exam was difficult, she passed → Though difficult, the exam was manageable |
-| 11 | Step 1 (Reduction Rule) | Remove the subject from the adverb clause. | before she talked → before talked |
-| 12 | Step 2 (Reduction Rule) | Remove the verb “be” if it appears in the clause. | while she was working → while working |
-| 13 | Step 3 (Reduction Rule) | If there is no be verb, change the main verb to present participle (-ing). | before she talked → before talking |
-| 14 | Example Reduction | Apply all reduction steps to shorten the clause correctly. | Before she talked to Jake → Before talking to Jake |
-| 15 | Reduction with “When” | Clauses with when may also be reduced using upon. | When Emily entered the room → Upon entering the room |
-| 16 | Position - Beginning | Reduced clauses often appear at the beginning of a sentence, followed by a comma. | While doing homework, you should not watch TV |
-| 17 | Position - End | Reduced clauses can appear at the end of a sentence, usually without a comma. | You should not watch TV while doing homework |
-| 18 | Position - Middle | Reduced clauses may appear in the middle, with commas before and after. | Emily, while walking into the room, struck a pose |
-| 19 | Pronoun Clarity | Ensure the sentence remains clear after removing the subject. Sometimes the proper noun must replace the pronoun. | When Emily walked into the room, she struck a pose → When walking into the room, Emily struck a pose |
-| 20 | Common Structures | Common reduced structures include after + V-ing, before + V-ing, while + V-ing, when + V-ing, upon + V-ing. | After you complete the course → After completing the course |
-| 21 | Advantages | Reduced clauses improve conciseness, clarity, sentence flow, and writing style. | After she finished the lesson, she practiced → After finishing the lesson, she practiced |
-| 22 | Type 2 Reduction | In this lesson, the clause is reduced even further so that it starts directly with the -ing verb. | While sitting in the office, she saw Emily → Sitting in the office, she saw Emily |
-| 23 | Special Rule for while | For a time clause with while meaning “at the same time,” we can drop while, the subject, and the be verb. | While Emily was working quietly at her desk, she was thinking about her hair → Working quietly at her desk, she was thinking about her hair |
-| 24 | Only while Allows This Time Reduction | Among time clauses, only clauses beginning with while can be reduced by completely removing the subordinator and starting with -ing. | While Jake was sitting in the office, she saw Emily → Sitting in the office, she saw Emily |
-| 25 | Before Cannot Be Dropped | With before, we may reduce the clause, but we must keep before. We cannot begin directly with the -ing verb. | Before Judy bought a house, she looked at many homes → Before buying a house, Judy looked at many homes |
-| 26 | Incorrect Time Reduction with before | Dropping before makes the sentence incorrect. | Before Jake cut her hair, she was sad → Not: Cutting her hair, she was sad |
-| 27 | Cause-and-Effect Type 2 Reduction | In because and since clauses expressing cause, delete the conjunction and the subject, then change the verb to -ing. | Because Jake has short hair, she was unrecognizable → Having short hair, Jake was unrecognizable |
-| 28 | Do Not Keep because in Type 2 | In this reduction type, because must be removed. | Because she was tired, she went home early → Not: Because being tired, she went home early |
-| 29 | Since as Cause | Since can be reduced this way only when it means because, not when it means time. | Since Jake wants to look like Emily, she decided to cut her hair too → Wanting to look like Emily, Jake decided to cut her hair too |
-| 30 | Present/General Cause Form | For present or general meaning, use verb + ing after removing the conjunction and subject. | Since Jake wants to look like Emily, Jake decided to cut her hair too → Wanting to look like Emily, Jake decided to cut her hair too |
-| 31 | Past Cause Form | If the original cause clause is in a past perfect form, use having + past participle. | Because Jake had cut her hair, Jake was unrecognizable → Having cut her hair, Jake was unrecognizable |
-| 32 | Meaning of having + past participle | Having + past participle shows a past cause or earlier completed action. | Having stayed up late last night, Molly has been tired all day today |
-| 33 | Same Subject Still Required | Type 2 reduction is only possible when both clauses have the same subject. | Because Jake had cut her hair, Emily did not recognize her → cannot reduce |
-| 34 | Pronoun Clarity in Type 2 | After reduction, it is often better to repeat the noun instead of using an unclear pronoun. | Having short hair, Jake was unrecognizable |
-| 35 | Style Difference | The full clause, reduced clause with subordinator, and shortest reduced clause may have the same meaning; the difference is mainly style. | While sitting in the office, she saw Emily = Sitting in the office, she saw Emily |
-| 36 | Type 3 Overview | Type 3 reduction is used for past meaning, especially with because or after, and often begins with having + past participle. | Because Jake got a haircut, she felt confident → Having gotten a haircut, she felt confident |
-| 37 | Past Meaning Rule | When the reduced clause expresses a past cause or earlier completed action, use having + past participle. | Because I drank 3 cups of coffee, I felt anxious → Having drunk 3 cups of coffee, I felt anxious |
-| 38 | Simple Past and Past Perfect | Both simple past and past perfect clauses may reduce to the same having + past participle form. | Because Jake had cut her hair, she was unrecognizable → Having cut her hair, Jake was unrecognizable |
-| 39 | Present vs Past Contrast | Use verb + ing for present/general cause, but use having + past participle for past cause. | Because I want to improve, I practice daily → Wanting to improve, I practice daily |
-| 40 | Be Verb in Past Reduction | If the original clause uses be in the past, it may reduce to having been + complement. | Because Emily was unable to recognize Jake, she was surprised → Having been unable to recognize Jake, Emily was surprised |
-| 41 | Further Reduction with Be | A clause with having been may sometimes be reduced further to being. | Having been unable to recognize Jake, Emily was surprised → Being unable to recognize Jake, Emily was surprised |
-| 42 | Shortest Style with Be | In some cases, the reduced clause can begin directly with an adjective or complement. | Being unable to recognize Jake, Emily was surprised → Unable to recognize Jake, Emily was surprised |
-| 43 | Same Meaning, Different Style | Full clause, reduced clause, and further reduced clause can keep the same meaning; the difference is mainly stylistic. | Because Emily was unable to recognize Jake, she was surprised = Having been unable to recognize Jake, Emily was surprised = Unable to recognize Jake, Emily was surprised |
-| 44 | After + Past Meaning | Clauses beginning with after and referring to past action may also reduce to having + past participle. | After the teacher had started class, he assigned a project → Having started class, the teacher assigned a project |
-| 45 | Two Valid Reductions with After | A past after clause may reduce either to after + V-ing or to having + past participle. | After the teacher started class, he assigned a project → After starting class, the teacher assigned a project / Having started class, the teacher assigned a project |
-| 46 | Meaning of Having Form | Having + past participle shows that the action in the reduced clause happened earlier than the main clause. | Having finished the report, she submitted it |
-| 47 | Subject Rule Still Applies | Type 3 reduction is only correct when the reduced clause and the main clause have the same subject. | Because Jake had cut her hair, Emily did not recognize her → cannot reduce |
-| 48 | Type 3 with Because | In past because clauses, remove because and the subject, then use having + past participle. | Because Jake got a haircut, she felt confident → Having gotten a haircut, she felt confident |
-| 49 | Type 3 with After | In past after clauses, reduction may begin with having + past participle to emphasize completed prior action. | After the meeting ended, we left → Having ended the meeting, we left |
-| 50 | Practical Summary | Use V-ing for present/general cause, and having + past participle for past cause or earlier completed past action. | Wanting to improve, I study daily / Having studied all night, I felt tired |
-| Identifying Noun Clauses Part - 01 |
-| --- |
-| Priority | Rule | Purpose | Definition + Example |
-| Primary | Function test | Does it act as subject / object / complement? | Subject: performs action / main topic → That he left early surprised me. Object: receives action → I know that he left early. Complement: completes meaning (after linking verb) → My concern was whether he left early. |
-| Primary | Replace test | Can you replace it with “it”? | Subject: That he left early → It surprised meObject: I know that he left early → I know itComplement: My concern was whether he left early → My concern was it |
-| Secondary | Question test | Does it answer What? / Who? | Subject: What surprised me? → That he left earlyObject: I know what? → that he left earlyComplement: My concern was what? → whether he left early |
-| Support | Introducer words | Only a clue, not proof | Words like that, whether, if signal a clause → I think that he is right |
-| Support | Dependency | Not decisive (all clauses can be dependent) | All noun clauses are dependent → does not determine function |
-| Identifying Noun Clauses part - 02 (WH) |
-| --- |
-| 1 | whowherewhatwhyhowwhenwhich | Ex. Do you know where I put my pencil?subject + verbEx. Yeah, I know where you put your pencil. | = Noun Clause |
-| 2 | Independent clause + Wh + Subject + Helping verb + Verb = Noun Clause (Dependent clause) |
-| 3 | Wh + Subject + Helping verb + Verb = Noun Clause (Dependent clause) + Independent clause |
-| Identifying Noun Clauses part - 03 (Yes/No) |
-| --- |
-| Concept | Rule | Yes/No Question | Example |
-| Purpose | Used for yes/no embedded questions | Is he coming? | She wonders if he is coming. |
-| Clause Type | Functions as a noun (subject/object) | Will he come? | Whether he comes is unclear. |
-| If vs Whether | Same meaning; whether = more formal | Do you agree? | Tell me whether you agree. |
-| Word Order | Use statement order (no inversion) | Is it raining? | if it is raining |
-| Auxiliary Rule | No “do/did” in noun clause | Did she find it? | if she found it |
-| With “or not” | Optional; all forms acceptable | Do, Does, Did … | whether (or not) / if (or not) |
-| As Object | After verbs (know, wonder, ask) | Was it ready? | She asked if it was ready. |
-| As Subject | Clause at sentence start | Will he win? | Whether he wins matters. |
-| Incorrect Pattern | No question structure allowed | if is it raining | if is it raining (No) |
-| Identifying Noun Clauses part - 04 (That) |
-| --- |
-| Function | Sentence Structure | Examples | Key Rules |
-| Object of a Verb | Subject + Verb + (that) + Clause | I believe (that) you will find them. | In spoken English, "that" is optional. In formal writing, it is preferred. |
-| Subject of a Sentence | That + Clause + Verb | That she has forgotten is my belief. | "That" is required if it starts the sentence. This structure is rare in casual speech. |
-| Natural Subject | The fact that + Clause + Verb | The fact that she forgot doesn't surprise me. | Use "The fact that" or "The idea that" to make the sentence sound more natural. |
-| Non-referential "It" | It + Verb/Adjective + that + Clause | It is obvious that I am helping her. | "It" acts as a placeholder. You cannot use "the fact that" with this "it" structure. |
-| Following Adjectives | Subject + Be + Adjective + that + Clause | Emily is grateful that she has a friend. | Often used to express emotions or states (e.g., happy, sure, surprised, grateful). |
-| Quoted and Reported Speech: Infinitives, Gerunds, and Noun Clauses |
-| --- |
-| Category | Sub-Type / Function | Structure / Rule | Key Elements | Example |
-| Reported Speech | Direct Speech | Exact words in quotation marks | Quotation marks | She said, "I am tired." |
-|  | Indirect Speech | Reporting verb + (that) + noun clause | say, tell, etc. | She said that she was tired |
-|  | Tense Backshift | Present → Past | Verb change | "I eat" → He said he ate |
-|  | Future Change | will → would | Modal shift | "I will go" → He said he would go |
-|  | Modal Change | Can → could, may → might, must → had to | Modal verbs | "I can swim" → He said he could swim |
-|  | No Change Rule | Facts / immediate / present reporting | Exception | He said the sun rises in the east |
-| Reporting Verbs | Neutral | Used for general reporting | say, tell, explain, report | He said that… |
-|  | Opinion | Express belief | think, believe, assume | She believes that… |
-|  | Strong Statement | Emphasis/assertion | claim, insist, argue | He insisted that… |
-|  | Suggestion | Advice/recommendation | suggest, recommend, advise | She suggested that… |
-|  | Request / Command | Asking or ordering | ask, order, instruct | He told me to… |
-|  | Agreement | Acceptance/denial | agree, admit, deny | She admitted that… |
-|  | Feeling / Reaction | Emotional response | warn, complain, apologize | He apologized that… |
-| Noun Clauses | Basic Structure | Reporting verb + (that) + clause | Subject + verb | He said that he was busy |
-|  | Function | Acts as object of verb | Completes meaning | I think that he is right |
-| WH + Infinitive | who | WH + to + verb | infinitive form | I know who to call |
-|  | what | WH + to + verb | infinitive form | She knows what to do |
-|  | when | WH + to + verb | infinitive form | He asked when to leave |
-|  | why | WH + to + verb | infinitive form | I understand why to act |
-|  | which | WH + to + verb | infinitive form | Choose which to buy |
-|  | whom | WH + to + verb | infinitive form | He knows whom to invite |
-|  | how | WH + to + verb | infinitive form | She explained how to solve it |
-|  | where | WH + to + verb | infinitive form | I know where to go |
-| Verb Patterns | That-Clause | Verb + that + clause | Full clause | She suggested that we leave |
-|  | Gerund Phrase | Verb + verb-ing | Shortened form | She suggested leaving |
-|  | Dual Use Verbs | That clause / gerund | recommend, suggest, admit, deny, etc. | He admitted that… / He admitted doing… |
-| Verb List (Usage) | Column 1 | Common verbs | recommend, suggest, propose, deny, admit | She suggested leaving |
-|  | Column 2 | Common verbs | acknowledge, mention, recall, appreciate, report | He mentioned going |
-|  | Column 3 | Common verbs | imagine, anticipate, recollect, understand | I imagine doing it |
-| Reported Questions | Yes/No Question | asked + if/whether + clause | No inversion | He asked if I was ready |
-|  | WH Question | asked + WH + clause | No question form | She asked where I lived |
-| Commands / Requests | Infinitive Form | tell/ask + object + to + verb | Instruction | He told me to study |
-| Say vs Tell | Usage Rule | tell + object, say (no object) | Grammar rule | He told me / He said that |
-| Comparison | That Clause | Formal, full structure | complete clause | She admitted that she lied |
-|  | Gerund | Short, natural | verb-ing | She admitted lying |
-|  | WH + Infinitive | Reduced clause | to + verb | I know what to do |
-| Use of “Ever” Words |
-| --- |
-| Category | Word | Meaning (ANY form) | Function | Example | Key Rule / Insight |
-| Core Meaning | However | In any way | Adverb clause | You can dress however you want. | Expresses manner (no restriction) |
-| Core Meaning | Whatever | Anything | Noun clause / informal | Do whatever you want. | Shows openness or no limitation |
-| Core Meaning | Whenever | Any time | Adverb clause | Come whenever you like. | Refers to time |
-| Core Meaning | Wherever | Any place | Adverb clause | Sit wherever you feel comfortable. | Refers to place |
-| Core Meaning | Whoever | Anyone (subject) | Noun clause (subject) | Whoever comes first wins. | Must be followed by a verb |
-| Core Meaning | Whomever | Anyone (object) | Noun clause (object) | She invites whomever she likes. | Used as object (him/her) |
-| Core Meaning | Whichever | Any (limited choice) | Noun clause | Choose whichever you prefer. | Used when options are limited |
-| Real Conditionals (Present & Future) |
-| --- |
-| Core Idea: | Real conditionals describe likely or possible situations in present and future |
-| Structure Rule: | If + present → result (present / future / modal / command) |
-| Critical Warning: | Never use future tense in the “if” clause |
-|  |
-| Category | Concept / Rule | Structure | Example | Key Insight |
-| Basic Structure | Conditional sentences have two clauses | If + condition (dependent) + result (independent) | If it rains, the ground gets wet. | Two parts: condition + result |
-| Clause Type | Dependent vs Independent | Dependent = condition, Independent = result | If it rains (dep.), the ground gets wet (ind.) | Dependent clause cannot stand alone |
-| Word Usage | Use of “if” | Usually introduces condition | If it rains, I stay home. | Not all conditionals require “if” |
-| Clause Order | Flexible order | If clause + result OR result + if clause | I stay home if it rains. | Meaning does not change |
-| Comma Rule | Comma usage | Comma needed if dependent clause comes first | If it rains, I stay home. | No comma if “if” clause is last |
-| Verb Tense Rule | Dependent clause tense | Always simple present | If it rains… | Never use future tense in “if” clause |
-| Result Clause Options | Simple Present | If it rains, I wear boots. | Used for habits |  |
-| Result Clause Options | Future (will / going to) | If it rains, I will stay home. | Used for future events |  |
-| Result Clause Options | Modal verbs | If it rains, I should take an umbrella. | Shows advice, possibility |  |
-| Result Clause Options | Imperative (command) | If it rains, take an umbrella. | Gives instruction |  |
-| Habit Use | Repeated actions | If + present, present | If it rains, I usually wear boots. | Often includes adverbs (usually, always) |
-| Future Use | Likely future events | If + present, will / going to | If it rains tomorrow, I will stay home. | Time markers (tomorrow) indicate future |
-| Modal Use | Possibility / advice | If + present, modal | If I am not careful, I may fall. | Modal adds nuance |
-| Imperative Use | Commands | If + present, command | If you ride, wear a helmet. | Direct instruction |
-| Common Error | Future in “if” clause (No) | (No) If it will rain… | (Yes) If it rains… | Never use “will” in dependent clause |
-| Key Rule | Tense consistency | If clause = present, result varies | — | Core grammar principle |
-| Other Ways to Express Condition |
-| --- |
-| Only if / Provided / As long as | Strong condition (requirement) |
-| If so / If not | Short replacements |
-| Unless | Negative condition (if not) |
-| “Only if” and “Unless” | Behave like opposites |
-|  |
-| Category | Expression / Rule | Meaning / Function | Structure / Grammar | Example | Key Insight |
-| Core Idea | Alternative condition words | Replace or strengthen “if” | — | — | English has multiple ways to express conditions beyond “if” |
-| Emphasis | Only if | Strong condition (strict requirement) | Main clause + only if + condition | I will go only if you come. | Stronger than “if” |
-| Inversion Rule | Only if (sentence start) | Requires inversion | Only if + clause, auxiliary + subject | Only if it rains, do I stay home. | Auxiliary comes before subject |
-| Short Form | If so | Replaces repeated condition (positive) | Used after a question/statement | Are you tired? If so, rest. | Avoids repetition |
-| Short Form | If not | Replaces negative condition | Used after statement | Study hard. If not, you will fail. | Shortened negative condition |
-| Formal Condition | Provided (that) | Means “only if” (formal) | Provided (that) + condition | You can go provided that you finish work. | Formal alternative |
-| Variation | Providing / Providing that | Same as provided | Same usage | Providing you agree, we proceed. | Same meaning |
-| Common Condition | As long as | Means “only if” (less formal) | As long as + condition | I will help as long as you try. | More common in speech |
-| Negative Condition | Unless | Means “if not” / “except if” | Unless + condition | I will go unless it rains. | Opposite of “only if” |
-| Logical Relation | Unless vs Only if | Opposite meanings | — | Only if → condition must happen; Unless → condition must not happen | Contrast important |
-| Transformation | Unless = If not | Equivalent structure | If not + condition | Unless you study = If you don’t study | Same meaning |
-| Usage Context | Formal vs Informal | Provided = formal, As long as = common | — | — | Choose based on context |
-| Key Grammar Rule | Conditional structure | Condition + result | — | — | Same logic as “if” conditionals |
-| Final Insight | Overall concept | Multiple ways to express condition | — | — | Improves flexibility and precision in English |
-| Wishes and Clauses that Follow “Wish” |
-| --- |
-| Category | Usage / Meaning | Structure (Formula) | Verb Changes | Key Rules | Examples |
-| General Concept | Expresses a desire for something different from reality (unreal or imaginary situation) | wish + noun clause | Tense shifts away from reality | Shows dissatisfaction; “the grass is always greener” idea | I wish I had more money. |
-| Wish About the Future | Want a future situation to change (unlikely or impossible) | wish + would + base verb | will → would | Do not use willUse would✔ “be” → were | I wish he would cancel work tomorrow. |
-| Wish About the Present | Situation is not true now (unreal present) | wish + past simple | present → pastam/is/are → were | Do not use present tenseAlways use were for “be” | I wish I were taller.He wishes he had more time. |
-| Wish About the Past | Regret about a past situation (cannot change) | wish + past perfect (had + V3) | past → past perfect | Used for regrets Action already finished | I wish I had worn an apron. |
-| Modal Changes | Modal verbs also shift in wish clauses | — | will → wouldcan → couldcould → could have + V3 | Maintain unreal meaning | I wish I could travel.I wish I could have gone. |
-| “Be” Verb Rule | Special rule for all wish types | — | am/is/are → were | Always use were (not was) in unreal situations | I wish she were here. |
-| Grammar Note | Noun clause follows “wish” | wish (that) + clause | “that” optional | Never use present tense after wish for unreal meaning | I wish (that) I had a car. |
-| Conditional Sentences – Real + Present Unreal + Past Unreal |
-| --- |
-| Conditional Type | Structure (Rule) | Regular Example | Converted Example |
-| Real Conditional (Present) | If + simple present, simple present | If it rains, I bring my umbrella. | If I study regularly, I pass the exam. |
-| Unreal Conditional (Present) | If + simple past, would/could + base verb | If I had a car, I would not need to hitchhike. | If I knew the answer, I would tell you. |
-| Unreal Conditional (Past) | If + past perfect, would/could have + past participle | If I had brought my passport, I could have traveled. | If I had studied harder, I would have passed the exam. |
-|  |
-| Section | Content |
-| Present Unreal – Definition | Imaginary or unreal situation in the present |
-| Present Unreal – Structure | If + past simple → would/could + base verb |
-| Present Unreal – Example | If I had a car, I would drive to work. |
-| Present Unreal – Reality | I do not have a car → imagined: I had a car |
-| Present Unreal – If-Clause Rule | Use past simple (meaning = present/future unreal) |
-| Present Unreal – Result Rule | Use would/could/might + base verb |
-| Present Unreal – Verb Change Rule | Present reality → past form (I don’t have → If I had) |
-| Present Unreal – “Would” Use | More certain/expected result (I would help) |
-| Present Unreal – “Could” Use | Ability or possibility (I could walk) |
-| Present Unreal – “Be” Rule | Formal: use were for all subjects (If I were you) |
-| Present Unreal – Advice Use | Common for advice (If I were you, I would study more) |
-| Real Conditional (Reference) | If + present → present / will (If you study, you will improve) |
-| Past Unreal – Definition | Imagines a different result for a past situation (regret/alternative past) |
-| Past Unreal – Structure | If + past perfect (had + V3) → would/could have + V3 |
-| Past Unreal – Example | If I had woken up earlier, I would not have been late. |
-| Past Unreal – Meaning | I did not wake up early, so I was late |
-| Past Unreal – If-Clause Rule | Use had + past participle |
-| Past Unreal – Result Rule | Use would have / could have + V3 |
-| Past Unreal – “Would vs Could” | Would = definite result; Could = possibility |
-| Past Unreal – Transformation Logic | Real: I woke up late → I was late → Unreal: If I had woken up early, I would not have been late |
-| Identification Rule | Past simple → Present unreal; Past perfect → Past unreal |
-| Correct Example (Past Unreal) | You would have gotten an A if you had studied. |
-| Correct Example (Past Unreal) | If you had closed the door, the dog would not have run outside. |
-| Incorrect Type Example | If you watched less TV, you would do better. → Present unreal (not past) |
-| Key Concept Mapping | Past simple → Unreal present/future; Past perfect → Unreal past (impossible) |
-| Negative Conditionals (Omitting “If”) |
-| --- |
-| Type | Structure | Example Sentence | Full Form (with if) |
-| Present Unreal | Were + subject + not + … | Were I not so tired, I’d help you. | If I were not so tired, I would help you. |
-| Past Unreal | Had + subject + not + past participle | Had you not eaten my lunch, you would not feel so sick now. | If you had not eaten my lunch, you would not feel so sick. |
-| Real / Future | Should + subject + not + … | Should you not be able to come to work tomorrow, let me know. | If you should not be able to come to work tomorrow… |
+  ----------------------------------------------------------------------------
+  **Blending                                               
+  Tenses - Adverb                                          
+  Clauses**                                                
+  --------------- ------------------------ --------------- -------------------
+  **Topic**       **Definition / Rule**    **Key Words /   **Example**
+                                           Structure**     
 
-**Below is the scenario, followed by a professional update using the tenses we discussed.**
+  Clause          A group of words that    Subject + Verb  She studies every
+                  contains a subject and a                 night.
+                  verb.                                    
 
-**The Scenario: "idol wave" Project Launch**
+  Independent     A clause with a subject  Complete        Gymnasts are
+  Clause          and verb that expresses  sentence        amazing athletes.
+                  a complete thought and                   
+                  can stand alone.                         
 
-*   **Past:** You finished the website coding yesterday (Simple Past).
-*   **Present Connection:** You have managed this project for three months (Present Perfect).
-*   **Currently:** Your team is designing the "mass user friendly" service packages right now (Present Progressive).
-*   **Future Goal:** By next Friday, you will have launched the full campaign (Future Perfect).
+  Dependent       A clause with a subject  Subordinating   Because she was
+  Clause          and verb but does not    conjunction +   tired
+                  express a complete       clause          
+                  thought and must be                      
+                  connected to an                          
+                  independent clause.                      
+
+  Complex         A sentence that contains Independent     She stayed home
+  Sentence        one independent clause   clause +        because she was
+                  and one dependent        dependent       sick.
+                  clause.                  clause          
+
+  Adverb Clause   A dependent clause that  Subordinating   I fell when I tried
+                  functions as an adverb   conjunction +   to stand on my
+                  and gives information    subject + verb  hands.
+                  about time, reason,                      
+                  condition, place,                        
+                  contrast, or purpose.                    
+
+  Subordinating   A word used to connect a because,        She left because
+  Conjunction     dependent clause to an   although, if,   she was tired.
+                  independent clause.      when, since     
+
+  Time            Shows when something     after, before,  I called her after
+  Relationship    happens.                 when, whenever, I finished work.
+                                           while, until,   
+                                           since           
+
+  Condition       Shows a condition that   if, even if,    I will go if it
+                  must happen first.       unless,         stops raining.
+                                           provided that,  
+                                           in case         
+
+  Cause           Shows reason or cause.   because, since, She stayed home
+                                           now that        because she was
+                                                           sick.
+
+  Unexpected      Shows contrast or        although,       Although it was
+  Result          unexpected results.      though, even    raining, we went
+  (Concession)                             though          outside.
+
+  Place           Shows location.          where, wherever Sit wherever you
+                                                           like.
+
+  Direct Contrast Shows contrast between   while, whereas  I walk to work
+                  two ideas.                               whereas he drives.
+
+  Purpose         Shows intention or       so that, in     He studies hard so
+                  purpose.                 order that      that he can pass.
+
+  Adverb Clause   When an adverb clause    Dependent       Because she was
+  at Beginning    starts a sentence, a     clause +        tired, she went to
+                  comma is used after it.  comma + main    bed.
+                                           clause          
+
+  Adverb Clause   When the adverb clause   Main clause +   She went to bed
+  at End          comes at the end,        dependent       because she was
+                  usually no comma is      clause          tired.
+                  used.                                    
+
+  Adverb Clause   When the clause appears  Main clause,    Elephants, although
+  in Middle       in the middle, commas    clause, main    it may surprise
+                  appear before and after  clause          you, are
+                  it.                                      intelligent.
+
+  Special Rule    When used to show        whereas, while  I walk to work,
+  (Whereas /      contrast, a comma is                     whereas he drives.
+  While)          used.                                    
+
+  Multiple Adverb A sentence may contain   Clause + main   Even though Jake
+  Clauses         more than one adverb     clause + clause lacks cooking
+                  clause.                                  skills, Emily asked
+                                                           for help because
+                                                           she did not want to
+                                                           hurt his feelings.
+
+  Missing Comma   A comma is required when Because +       Because Jake is
+  Error           the adverb clause begins clause          clumsy, Emily does
+                  the sentence.                            not want help.
+
+  Wrong           Using the wrong          because vs      Although I am not
+  Conjunction     conjunction changes the  although        good at dancing, I
+  Error           meaning of the sentence.                 like dancing.
+
+  Incomplete      The clause after a       because +       I like this food
+  Clause Error    subordinating            subject + verb  because it is
+                  conjunction must contain                 delicious.
+                  a subject and verb.                      
+
+  Sentence        A dependent clause       unless + clause Emily will not ask
+  Fragment Error  cannot stand alone as a                  Jake for help
+                  sentence.                                unless he learns
+                                                           cooking.
+
+  Extra           Do not use both a        although + but  Although Emily is a
+  Conjunction     subordinating            (incorrect)     good cook, Jake is
+  Error           conjunction and a                        not.
+                  coordinating conjunction                 
+                  together.                                
+
+  Transition      Subordinating            after vs after  After that, the pie
+  Confusion       conjunctions should not  that            shrunk.
+                  be used as sentence                      
+                  transitions with commas.                 
+  ----------------------------------------------------------------------------
+
++----+---+---------+---+---+------------------------------+---+----------------------+
+| *  |   |         |   |   |                              |   |                      |
+| *R |   |         |   |   |                              |   |                      |
+| ed |   |         |   |   |                              |   |                      |
+| uc |   |         |   |   |                              |   |                      |
+| ed |   |         |   |   |                              |   |                      |
+| Ad |   |         |   |   |                              |   |                      |
+| ve |   |         |   |   |                              |   |                      |
+| rb |   |         |   |   |                              |   |                      |
+| C  |   |         |   |   |                              |   |                      |
+| la |   |         |   |   |                              |   |                      |
+| us |   |         |   |   |                              |   |                      |
+| es |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
++====+===+=========+===+===+==============================+===+======================+
+| *  |   |         |   |   |                              |   |                      |
+| *P |   |         |   |   |                              |   |                      |
+| ri |   |         |   |   |                              |   |                      |
+| nc |   |         |   |   |                              |   |                      |
+| ip |   |         |   |   |                              |   |                      |
+| al |   |         |   |   |                              |   |                      |
+| Ru |   |         |   |   |                              |   |                      |
+| le |   |         |   |   |                              |   |                      |
+| s: |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| 1  |   |         |   |   |                              |   |                      |
+| .  |   |         |   |   |                              |   |                      |
+|  * |   |         |   |   |                              |   |                      |
+| *T |   |         |   |   |                              |   |                      |
+| he |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  [ |   |         |   |   |                              |   |                      |
+| su |   |         |   |   |                              |   |                      |
+| bj |   |         |   |   |                              |   |                      |
+| ec |   |         |   |   |                              |   |                      |
+| t] |   |         |   |   |                              |   |                      |
+| {. |   |         |   |   |                              |   |                      |
+| un |   |         |   |   |                              |   |                      |
+| de |   |         |   |   |                              |   |                      |
+| rl |   |         |   |   |                              |   |                      |
+| in |   |         |   |   |                              |   |                      |
+| e} |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| mu |   |         |   |   |                              |   |                      |
+| st |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| be |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  t |   |         |   |   |                              |   |                      |
+| he |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| [s |   |         |   |   |                              |   |                      |
+| am |   |         |   |   |                              |   |                      |
+| e] |   |         |   |   |                              |   |                      |
+| {. |   |         |   |   |                              |   |                      |
+| un |   |         |   |   |                              |   |                      |
+| de |   |         |   |   |                              |   |                      |
+| rl |   |         |   |   |                              |   |                      |
+| in |   |         |   |   |                              |   |                      |
+| e} |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| in |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  [ |   |         |   |   |                              |   |                      |
+| bo |   |         |   |   |                              |   |                      |
+| th |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  c |   |         |   |   |                              |   |                      |
+| la |   |         |   |   |                              |   |                      |
+| us |   |         |   |   |                              |   |                      |
+| es |   |         |   |   |                              |   |                      |
+| ]{ |   |         |   |   |                              |   |                      |
+| .u |   |         |   |   |                              |   |                      |
+| nd |   |         |   |   |                              |   |                      |
+| er |   |         |   |   |                              |   |                      |
+| li |   |         |   |   |                              |   |                      |
+| ne |   |         |   |   |                              |   |                      |
+| }. |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| 2. |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| Re |   |         |   |   |                              |   |                      |
+| mo |   |         |   |   |                              |   |                      |
+| ve |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  t |   |         |   |   |                              |   |                      |
+| he |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  * |   |         |   |   |                              |   |                      |
+| *[ |   |         |   |   |                              |   |                      |
+| su |   |         |   |   |                              |   |                      |
+| bj |   |         |   |   |                              |   |                      |
+| ec |   |         |   |   |                              |   |                      |
+| t] |   |         |   |   |                              |   |                      |
+| {. |   |         |   |   |                              |   |                      |
+| un |   |         |   |   |                              |   |                      |
+| de |   |         |   |   |                              |   |                      |
+| rl |   |         |   |   |                              |   |                      |
+| in |   |         |   |   |                              |   |                      |
+| e} |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  a |   |         |   |   |                              |   |                      |
+| nd |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+| [c |   |         |   |   |                              |   |                      |
+| on |   |         |   |   |                              |   |                      |
+| ju |   |         |   |   |                              |   |                      |
+| nc |   |         |   |   |                              |   |                      |
+| ti |   |         |   |   |                              |   |                      |
+| on |   |         |   |   |                              |   |                      |
+| ]{ |   |         |   |   |                              |   |                      |
+| .u |   |         |   |   |                              |   |                      |
+| nd |   |         |   |   |                              |   |                      |
+| er |   |         |   |   |                              |   |                      |
+| li |   |         |   |   |                              |   |                      |
+| ne |   |         |   |   |                              |   |                      |
+| }* |   |         |   |   |                              |   |                      |
+| *. |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| 3  |   |         |   |   |                              |   |                      |
+| .  |   |         |   |   |                              |   |                      |
+|  F |   |         |   |   |                              |   |                      |
+| or |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  * |   |         |   |   |                              |   |                      |
+| *p |   |         |   |   |                              |   |                      |
+| re |   |         |   |   |                              |   |                      |
+| se |   |         |   |   |                              |   |                      |
+| nt |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| me |   |         |   |   |                              |   |                      |
+| an |   |         |   |   |                              |   |                      |
+| in |   |         |   |   |                              |   |                      |
+| g* |   |         |   |   |                              |   |                      |
+| *, |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  u |   |         |   |   |                              |   |                      |
+| se |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+| V- |   |         |   |   |                              |   |                      |
+| in |   |         |   |   |                              |   |                      |
+| g* |   |         |   |   |                              |   |                      |
+| *. |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| 4  |   |         |   |   |                              |   |                      |
+| .  |   |         |   |   |                              |   |                      |
+|  F |   |         |   |   |                              |   |                      |
+| or |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+| pa |   |         |   |   |                              |   |                      |
+| st |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| me |   |         |   |   |                              |   |                      |
+| an |   |         |   |   |                              |   |                      |
+| in |   |         |   |   |                              |   |                      |
+| g* |   |         |   |   |                              |   |                      |
+| *, |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  u |   |         |   |   |                              |   |                      |
+| se |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+| ha |   |         |   |   |                              |   |                      |
+| vi |   |         |   |   |                              |   |                      |
+| ng |   |         |   |   |                              |   |                      |
+|  + |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| pa |   |         |   |   |                              |   |                      |
+| st |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  p |   |         |   |   |                              |   |                      |
+| ar |   |         |   |   |                              |   |                      |
+| ti |   |         |   |   |                              |   |                      |
+| ci |   |         |   |   |                              |   |                      |
+| pl |   |         |   |   |                              |   |                      |
+| e* |   |         |   |   |                              |   |                      |
+| *. |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| 5. |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| In |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| ma |   |         |   |   |                              |   |                      |
+| ny |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| ca |   |         |   |   |                              |   |                      |
+| se |   |         |   |   |                              |   |                      |
+| s, |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+| wh |   |         |   |   |                              |   |                      |
+| il |   |         |   |   |                              |   |                      |
+| e, |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  w |   |         |   |   |                              |   |                      |
+| he |   |         |   |   |                              |   |                      |
+| n, |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| si |   |         |   |   |                              |   |                      |
+| nc |   |         |   |   |                              |   |                      |
+| e, |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  a |   |         |   |   |                              |   |                      |
+| nd |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  * |   |         |   |   |                              |   |                      |
+| *b |   |         |   |   |                              |   |                      |
+| ec |   |         |   |   |                              |   |                      |
+| au |   |         |   |   |                              |   |                      |
+| se |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  c |   |         |   |   |                              |   |                      |
+| an |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| be |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  o |   |         |   |   |                              |   |                      |
+| mi |   |         |   |   |                              |   |                      |
+| tt |   |         |   |   |                              |   |                      |
+| ed |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  c |   |         |   |   |                              |   |                      |
+| om |   |         |   |   |                              |   |                      |
+| pl |   |         |   |   |                              |   |                      |
+| et |   |         |   |   |                              |   |                      |
+| el |   |         |   |   |                              |   |                      |
+| y. |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| 6. |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+| Al |   |         |   |   |                              |   |                      |
+| th |   |         |   |   |                              |   |                      |
+| ou |   |         |   |   |                              |   |                      |
+| gh |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  u |   |         |   |   |                              |   |                      |
+| su |   |         |   |   |                              |   |                      |
+| al |   |         |   |   |                              |   |                      |
+| ly |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  r |   |         |   |   |                              |   |                      |
+| em |   |         |   |   |                              |   |                      |
+| ai |   |         |   |   |                              |   |                      |
+| ns |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| to |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| pr |   |         |   |   |                              |   |                      |
+| es |   |         |   |   |                              |   |                      |
+| er |   |         |   |   |                              |   |                      |
+| ve |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| co |   |         |   |   |                              |   |                      |
+| nt |   |         |   |   |                              |   |                      |
+| ra |   |         |   |   |                              |   |                      |
+| st |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| me |   |         |   |   |                              |   |                      |
+| an |   |         |   |   |                              |   |                      |
+| in |   |         |   |   |                              |   |                      |
+| g. |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  R |   |         |   |   |                              |   |                      |
+| ul |   |         |   |   |                              |   |                      |
+| e: |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+| Al |   |         |   |   |                              |   |                      |
+| th |   |         |   |   |                              |   |                      |
+| ou |   |         |   |   |                              |   |                      |
+| gh |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+|  + |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  * |   |         |   |   |                              |   |                      |
+| *c |   |         |   |   |                              |   |                      |
+| la |   |         |   |   |                              |   |                      |
+| us |   |         |   |   |                              |   |                      |
+| e* |   |         |   |   |                              |   |                      |
+| *, |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+| ma |   |         |   |   |                              |   |                      |
+| in |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| cl |   |         |   |   |                              |   |                      |
+| au |   |         |   |   |                              |   |                      |
+| se |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| (c |   |         |   |   |                              |   |                      |
+| on |   |         |   |   |                              |   |                      |
+| tr |   |         |   |   |                              |   |                      |
+| as |   |         |   |   |                              |   |                      |
+| t) |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| 7. |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+| Be |   |         |   |   |                              |   |                      |
+| fo |   |         |   |   |                              |   |                      |
+| re |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  a |   |         |   |   |                              |   |                      |
+| nd |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  a |   |         |   |   |                              |   |                      |
+| ft |   |         |   |   |                              |   |                      |
+| er |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  u |   |         |   |   |                              |   |                      |
+| su |   |         |   |   |                              |   |                      |
+| al |   |         |   |   |                              |   |                      |
+| ly |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  r |   |         |   |   |                              |   |                      |
+| em |   |         |   |   |                              |   |                      |
+| ai |   |         |   |   |                              |   |                      |
+| ns |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  / |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+| mu |   |         |   |   |                              |   |                      |
+| st |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  s |   |         |   |   |                              |   |                      |
+| ta |   |         |   |   |                              |   |                      |
+| y. |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| 8. |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
+| Mu |   |         |   |   |                              |   |                      |
+| lt |   |         |   |   |                              |   |                      |
+| ip |   |         |   |   |                              |   |                      |
+| le |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  r |   |         |   |   |                              |   |                      |
+| ed |   |         |   |   |                              |   |                      |
+| uc |   |         |   |   |                              |   |                      |
+| ed |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  f |   |         |   |   |                              |   |                      |
+| or |   |         |   |   |                              |   |                      |
+| ms |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  c |   |         |   |   |                              |   |                      |
+| an |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| ha |   |         |   |   |                              |   |                      |
+| ve |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  t |   |         |   |   |                              |   |                      |
+| he |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| sa |   |         |   |   |                              |   |                      |
+| me |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  m |   |         |   |   |                              |   |                      |
+| ea |   |         |   |   |                              |   |                      |
+| ni |   |         |   |   |                              |   |                      |
+| ng |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  b |   |         |   |   |                              |   |                      |
+| ut |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|  d |   |         |   |   |                              |   |                      |
+| if |   |         |   |   |                              |   |                      |
+| fe |   |         |   |   |                              |   |                      |
+| re |   |         |   |   |                              |   |                      |
+| nt |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+| st |   |         |   |   |                              |   |                      |
+| yl |   |         |   |   |                              |   |                      |
+| e. |   |         |   |   |                              |   |                      |
+| ** |   |         |   |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| *  |   | **      | * |   |                              |   | **Example**          |
+| *S |   | Topic** | * |   |                              |   |                      |
+| ec |   |         | E |   |                              |   |                      |
+| ti |   |         | x |   |                              |   |                      |
+| on |   |         | p |   |                              |   |                      |
+| ** |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 1  |   | Def     | A |   |                              |   | Before you complete  |
+|    |   | inition | * |   |                              |   | this lesson →        |
+|    |   |         | * |   |                              |   | **Before completing  |
+|    |   |         | R |   |                              |   | this lesson**        |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | A |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | C |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | k |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
+|    |   |         | I |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | j |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 2  |   | Alte    | R |   |                              |   | After you finish the |
+|    |   | rnative | e |   |                              |   | course → **After     |
+|    |   | Names   | d |   |                              |   | finishing the        |
+|    |   |         | u |   |                              |   | course**             |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | y |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 3  |   | Purpose | U |   |                              |   | After she finished   |
+|    |   |         | s |   |                              |   | the assignment, she  |
+|    |   |         | e |   |                              |   | submitted it →       |
+|    |   |         | d |   |                              |   | **After finishing    |
+|    |   |         | t |   |                              |   | the assignment, she  |
+|    |   |         | o |   |                              |   | submitted it**       |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | k |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 4  |   | Adverb  | A |   |                              |   | After she finished   |
+|    |   | Clause  | n |   |                              |   | the work → **After   |
+|    |   | vs      | a |   |                              |   | finishing the work** |
+|    |   | Reduced | d |   |                              |   |                      |
+|    |   | Clause  | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | j |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         | + |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | j |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | - |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 5  |   | Im      | R |   |                              |   | After Polly rolled   |
+|    |   | portant | e |   |                              |   | in the mud, she was  |
+|    |   | Rule    | d |   |                              |   | dirty → **After      |
+|    |   |         | u |   |                              |   | rolling in the mud,  |
+|    |   |         | c |   |                              |   | Polly was dirty**    |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | y |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | j |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 6  |   | In      | I |   |                              |   | After Polly rolled   |
+|    |   | correct | f |   |                              |   | in the mud, Pablo    |
+|    |   | Re      | t |   |                              |   | laughed (cannot      |
+|    |   | duction | h |   |                              |   | reduce)              |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | j |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 7  |   | Types   | G |   |                              |   | After you finish the |
+|    |   | of      | e |   |                              |   | course → **After     |
+|    |   | Clauses | n |   |                              |   | finishing the        |
+|    |   | That    | e |   |                              |   | course**             |
+|    |   | Can Be  | r |   |                              |   |                      |
+|    |   | Reduced | a |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | y |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | x |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 8  |   | Time    | C |   |                              |   | After you finish the |
+|    |   | Subord  | o |   |                              |   | lesson → **After     |
+|    |   | inators | m |   |                              |   | finishing the        |
+|    |   |         | m |   |                              |   | lesson**             |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 9  |   | Cause   | C |   |                              |   | Because she was      |
+|    |   | Subord  | a |   |                              |   | tired, she went home |
+|    |   | inators | u |   |                              |   | early → **Being      |
+|    |   |         | s |   |                              |   | tired, she went home |
+|    |   |         | e |   |                              |   | early**              |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 10 |   | C       | C |   |                              |   | Though the exam was  |
+|    |   | ontrast | o |   |                              |   | difficult, she       |
+|    |   | Subord  | n |   |                              |   | passed → **Though    |
+|    |   | inators | t |   |                              |   | difficult, the exam  |
+|    |   |         | r |   |                              |   | was manageable**     |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 11 |   | Step 1  | * |   |                              |   | before she talked →  |
+|    |   | (Re     | * |   |                              |   | before talked        |
+|    |   | duction | R |   |                              |   |                      |
+|    |   | Rule)   | e |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | j |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 12 |   | Step 2  | * |   |                              |   | while she was        |
+|    |   | (Re     | * |   |                              |   | working → **while    |
+|    |   | duction | R |   |                              |   | working**            |
+|    |   | Rule)   | e |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | " |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | " |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 13 |   | Step 3  | I |   |                              |   | before she talked →  |
+|    |   | (Re     | f |   |                              |   | **before talking**   |
+|    |   | duction | t |   |                              |   |                      |
+|    |   | Rule)   | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | ( |   |                              |   |                      |
+|    |   |         | - |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | ) |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 14 |   | Example | A |   |                              |   | Before she talked to |
+|    |   | Re      | p |   |                              |   | Jake → **Before      |
+|    |   | duction | p |   |                              |   | talking to Jake**    |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | y |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | y |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 15 |   | Re      | C |   |                              |   | When Emily entered   |
+|    |   | duction | l |   |                              |   | the room → **Upon    |
+|    |   | with    | a |   |                              |   | entering the room**  |
+|    |   | "When"  | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | y |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 16 |   | Pos     | R |   |                              |   | **While doing        |
+|    |   | ition - | e |   |                              |   | homework,** you      |
+|    |   | Be      | d |   |                              |   | should not watch TV  |
+|    |   | ginning | u |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | y |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 17 |   | Pos     | R |   |                              |   | You should not watch |
+|    |   | ition - | e |   |                              |   | TV **while doing     |
+|    |   | End     | d |   |                              |   | homework**           |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | y |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 18 |   | Pos     | R |   |                              |   | Emily, **while       |
+|    |   | ition - | e |   |                              |   | walking into the     |
+|    |   | Middle  | d |   |                              |   | room**, struck a     |
+|    |   |         | u |   |                              |   | pose                 |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | y |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 19 |   | Pronoun | E |   |                              |   | When Emily walked    |
+|    |   | Clarity | n |   |                              |   | into the room, she   |
+|    |   |         | s |   |                              |   | struck a pose →      |
+|    |   |         | u |   |                              |   | **When walking into  |
+|    |   |         | r |   |                              |   | the room, Emily      |
+|    |   |         | e |   |                              |   | struck a pose**      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | j |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
+|    |   |         | S |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 20 |   | Common  | C |   |                              |   | After you complete   |
+|    |   | Str     | o |   |                              |   | the course → **After |
+|    |   | uctures | m |   |                              |   | completing the       |
+|    |   |         | m |   |                              |   | course**             |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         | + |   |                              |   |                      |
+|    |   |         | V |   |                              |   |                      |
+|    |   |         | - |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | b |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         | + |   |                              |   |                      |
+|    |   |         | V |   |                              |   |                      |
+|    |   |         | - |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         | + |   |                              |   |                      |
+|    |   |         | V |   |                              |   |                      |
+|    |   |         | - |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | h |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         | + |   |                              |   |                      |
+|    |   |         | V |   |                              |   |                      |
+|    |   |         | - |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         | + |   |                              |   |                      |
+|    |   |         | V |   |                              |   |                      |
+|    |   |         | - |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 21 |   | Adv     | R |   |                              |   | After she finished   |
+|    |   | antages | e |   |                              |   | the lesson, she      |
+|    |   |         | d |   |                              |   | practiced → **After  |
+|    |   |         | u |   |                              |   | finishing the        |
+|    |   |         | c |   |                              |   | lesson, she          |
+|    |   |         | e |   |                              |   | practiced**          |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | u |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | m |   |                              |   |                      |
+|    |   |         | p |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | v |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | y |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | c |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | f |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | o |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | , |   |                              |   |                      |
+|    |   |         | a |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | d |   |                              |   |                      |
+|    |   |         | w |   |                              |   |                      |
+|    |   |         | r |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | i |   |                              |   |                      |
+|    |   |         | n |   |                              |   |                      |
+|    |   |         | g |   |                              |   |                      |
+|    |   |         | s |   |                              |   |                      |
+|    |   |         | t |   |                              |   |                      |
+|    |   |         | y |   |                              |   |                      |
+|    |   |         | l |   |                              |   |                      |
+|    |   |         | e |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | * |   |                              |   |                      |
+|    |   |         | . |   |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 22 | T |         |   | I |                              |   | While sitting in the |
+|    | y |         |   | n |                              |   | office, she saw      |
+|    | p |         |   | t |                              |   | Emily → Sitting in   |
+|    | e |         |   | h |                              |   | the office, she saw  |
+|    | 2 |         |   | i |                              |   | Emily                |
+|    | R |         |   | s |                              |   |                      |
+|    | e |         |   | l |                              |   |                      |
+|    | d |         |   | e |                              |   |                      |
+|    | u |         |   | s |                              |   |                      |
+|    | c |         |   | s |                              |   |                      |
+|    | t |         |   | o |                              |   |                      |
+|    | i |         |   | n |                              |   |                      |
+|    | o |         |   | , |                              |   |                      |
+|    | n |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | v |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | f |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | y |                              |   |                      |
+|    |   |         |   | w |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | - |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | v |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 23 | S |         |   | F |                              |   | While Emily was      |
+|    | p |         |   | o |                              |   | working quietly at   |
+|    | e |         |   | r |                              |   | her desk, she was    |
+|    | c |         |   | a |                              |   | thinking about her   |
+|    | i |         |   | * |                              |   | hair → Working       |
+|    | a |         |   | * |                              |   | quietly at her desk, |
+|    | l |         |   | t |                              |   | she was thinking     |
+|    | R |         |   | i |                              |   | about her hair       |
+|    | u |         |   | m |                              |   |                      |
+|    | l |         |   | e |                              |   |                      |
+|    | e |         |   | c |                              |   |                      |
+|    | f |         |   | l |                              |   |                      |
+|    | o |         |   | a |                              |   |                      |
+|    | r |         |   | u |                              |   |                      |
+|    | * |         |   | s |                              |   |                      |
+|    | * |         |   | e |                              |   |                      |
+|    | w |         |   | * |                              |   |                      |
+|    | h |         |   | * |                              |   |                      |
+|    | i |         |   | w |                              |   |                      |
+|    | l |         |   | i |                              |   |                      |
+|    | e |         |   | t |                              |   |                      |
+|    | * |         |   | h |                              |   |                      |
+|    | * |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | w |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | " |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | , |                              |   |                      |
+|    |   |         |   | " |                              |   |                      |
+|    |   |         |   | w |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | p |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | w |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | , |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | j |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | , |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | v |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 24 | O |         |   | A |                              |   | While Jake was       |
+|    | n |         |   | m |                              |   | sitting in the       |
+|    | l |         |   | o |                              |   | office, she saw      |
+|    | y |         |   | n |                              |   | Emily → Sitting in   |
+|    | * |         |   | g |                              |   | the office, she saw  |
+|    | * |         |   | t |                              |   | Emily                |
+|    | w |         |   | i |                              |   |                      |
+|    | h |         |   | m |                              |   |                      |
+|    | i |         |   | e |                              |   |                      |
+|    | l |         |   | c |                              |   |                      |
+|    | e |         |   | l |                              |   |                      |
+|    | * |         |   | a |                              |   |                      |
+|    | * |         |   | u |                              |   |                      |
+|    | A |         |   | s |                              |   |                      |
+|    | l |         |   | e |                              |   |                      |
+|    | l |         |   | s |                              |   |                      |
+|    | o |         |   | , |                              |   |                      |
+|    | w |         |   | o |                              |   |                      |
+|    | s |         |   | n |                              |   |                      |
+|    | T |         |   | l |                              |   |                      |
+|    | h |         |   | y |                              |   |                      |
+|    | i |         |   | c |                              |   |                      |
+|    | s |         |   | l |                              |   |                      |
+|    | T |         |   | a |                              |   |                      |
+|    | i |         |   | u |                              |   |                      |
+|    | m |         |   | s |                              |   |                      |
+|    | e |         |   | e |                              |   |                      |
+|    | R |         |   | s |                              |   |                      |
+|    | e |         |   | b |                              |   |                      |
+|    | d |         |   | e |                              |   |                      |
+|    | u |         |   | g |                              |   |                      |
+|    | c |         |   | i |                              |   |                      |
+|    | t |         |   | n |                              |   |                      |
+|    | i |         |   | n |                              |   |                      |
+|    | o |         |   | i |                              |   |                      |
+|    | n |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | w |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | w |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | y |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | p |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | y |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | v |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | w |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | - |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 25 | * |         |   | W |                              |   | Before Judy bought a |
+|    | * |         |   | i |                              |   | house, she looked at |
+|    | B |         |   | t |                              |   | many homes → Before  |
+|    | e |         |   | h |                              |   | buying a house, Judy |
+|    | f |         |   | * |                              |   | looked at many homes |
+|    | o |         |   | * |                              |   |                      |
+|    | r |         |   | b |                              |   |                      |
+|    | e |         |   | e |                              |   |                      |
+|    | * |         |   | f |                              |   |                      |
+|    | * |         |   | o |                              |   |                      |
+|    | C |         |   | r |                              |   |                      |
+|    | a |         |   | e |                              |   |                      |
+|    | n |         |   | * |                              |   |                      |
+|    | n |         |   | * |                              |   |                      |
+|    | o |         |   | , |                              |   |                      |
+|    | t |         |   | w |                              |   |                      |
+|    | B |         |   | e |                              |   |                      |
+|    | e |         |   | m |                              |   |                      |
+|    | D |         |   | a |                              |   |                      |
+|    | r |         |   | y |                              |   |                      |
+|    | o |         |   | r |                              |   |                      |
+|    | p |         |   | e |                              |   |                      |
+|    | p |         |   | d |                              |   |                      |
+|    | e |         |   | u |                              |   |                      |
+|    | d |         |   | c |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | , |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | w |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | k |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | p |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | f |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
+|    |   |         |   | W |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | y |                              |   |                      |
+|    |   |         |   | w |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | - |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | v |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 26 | I |         |   | D |                              |   | Before Jake cut her  |
+|    | n |         |   | r |                              |   | hair, she was sad →  |
+|    | c |         |   | o |                              |   | **Not:** Cutting her |
+|    | o |         |   | p |                              |   | hair, she was sad    |
+|    | r |         |   | p |                              |   |                      |
+|    | r |         |   | i |                              |   |                      |
+|    | e |         |   | n |                              |   |                      |
+|    | c |         |   | g |                              |   |                      |
+|    | t |         |   | * |                              |   |                      |
+|    | T |         |   | * |                              |   |                      |
+|    | i |         |   | b |                              |   |                      |
+|    | m |         |   | e |                              |   |                      |
+|    | e |         |   | f |                              |   |                      |
+|    | R |         |   | o |                              |   |                      |
+|    | e |         |   | r |                              |   |                      |
+|    | d |         |   | e |                              |   |                      |
+|    | u |         |   | * |                              |   |                      |
+|    | c |         |   | * |                              |   |                      |
+|    | t |         |   | m |                              |   |                      |
+|    | i |         |   | a |                              |   |                      |
+|    | o |         |   | k |                              |   |                      |
+|    | n |         |   | e |                              |   |                      |
+|    | w |         |   | s |                              |   |                      |
+|    | i |         |   | t |                              |   |                      |
+|    | t |         |   | h |                              |   |                      |
+|    | h |         |   | e |                              |   |                      |
+|    | * |         |   | s |                              |   |                      |
+|    | * |         |   | e |                              |   |                      |
+|    | b |         |   | n |                              |   |                      |
+|    | e |         |   | t |                              |   |                      |
+|    | f |         |   | e |                              |   |                      |
+|    | o |         |   | n |                              |   |                      |
+|    | r |         |   | c |                              |   |                      |
+|    | e |         |   | e |                              |   |                      |
+|    | * |         |   | i |                              |   |                      |
+|    | * |         |   | n |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 27 | C |         |   | I |                              |   | Because Jake has     |
+|    | a |         |   | n |                              |   | short hair, she was  |
+|    | u |         |   | * |                              |   | unrecognizable →     |
+|    | s |         |   | * |                              |   | Having short hair,   |
+|    | e |         |   | b |                              |   | Jake was             |
+|    | - |         |   | e |                              |   | unrecognizable       |
+|    | a |         |   | c |                              |   |                      |
+|    | n |         |   | a |                              |   |                      |
+|    | d |         |   | u |                              |   |                      |
+|    | - |         |   | s |                              |   |                      |
+|    | E |         |   | e |                              |   |                      |
+|    | f |         |   | * |                              |   |                      |
+|    | f |         |   | * |                              |   |                      |
+|    | e |         |   | a |                              |   |                      |
+|    | c |         |   | n |                              |   |                      |
+|    | t |         |   | d |                              |   |                      |
+|    | T |         |   | * |                              |   |                      |
+|    | y |         |   | * |                              |   |                      |
+|    | p |         |   | s |                              |   |                      |
+|    | e |         |   | i |                              |   |                      |
+|    | 2 |         |   | n |                              |   |                      |
+|    | R |         |   | c |                              |   |                      |
+|    | e |         |   | e |                              |   |                      |
+|    | d |         |   | * |                              |   |                      |
+|    | u |         |   | * |                              |   |                      |
+|    | c |         |   | c |                              |   |                      |
+|    | t |         |   | l |                              |   |                      |
+|    | i |         |   | a |                              |   |                      |
+|    | o |         |   | u |                              |   |                      |
+|    | n |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | x |                              |   |                      |
+|    |   |         |   | p |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | , |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | j |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | j |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | , |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | v |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | - |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 28 | D |         |   | I |                              |   | Because she was      |
+|    | o |         |   | n |                              |   | tired, she went home |
+|    | N |         |   | t |                              |   | early → **Not:**     |
+|    | o |         |   | h |                              |   | Because being tired, |
+|    | t |         |   | i |                              |   | she went home early  |
+|    | K |         |   | s |                              |   |                      |
+|    | e |         |   | r |                              |   |                      |
+|    | e |         |   | e |                              |   |                      |
+|    | p |         |   | d |                              |   |                      |
+|    | * |         |   | u |                              |   |                      |
+|    | * |         |   | c |                              |   |                      |
+|    | b |         |   | t |                              |   |                      |
+|    | e |         |   | i |                              |   |                      |
+|    | c |         |   | o |                              |   |                      |
+|    | a |         |   | n |                              |   |                      |
+|    | u |         |   | t |                              |   |                      |
+|    | s |         |   | y |                              |   |                      |
+|    | e |         |   | p |                              |   |                      |
+|    | * |         |   | e |                              |   |                      |
+|    | * |         |   | , |                              |   |                      |
+|    | i |         |   | * |                              |   |                      |
+|    | n |         |   | * |                              |   |                      |
+|    | T |         |   | b |                              |   |                      |
+|    | y |         |   | e |                              |   |                      |
+|    | p |         |   | c |                              |   |                      |
+|    | e |         |   | a |                              |   |                      |
+|    | 2 |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | v |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 29 | * |         |   | * |                              |   | Since Jake wants to  |
+|    | * |         |   | * |                              |   | look like Emily, she |
+|    | S |         |   | S |                              |   | decided to cut her   |
+|    | i |         |   | i |                              |   | hair too → Wanting   |
+|    | n |         |   | n |                              |   | to look like Emily,  |
+|    | c |         |   | c |                              |   | Jake decided to cut  |
+|    | e |         |   | e |                              |   | her hair too         |
+|    | * |         |   | * |                              |   |                      |
+|    | * |         |   | * |                              |   |                      |
+|    | a |         |   | c |                              |   |                      |
+|    | s |         |   | a |                              |   |                      |
+|    | C |         |   | n |                              |   |                      |
+|    | a |         |   | b |                              |   |                      |
+|    | u |         |   | e |                              |   |                      |
+|    | s |         |   | r |                              |   |                      |
+|    | e |         |   | e |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | w |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | y |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | y |                              |   |                      |
+|    |   |         |   | w |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | , |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | w |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 30 | P |         |   | F |                              |   | Since Jake wants to  |
+|    | r |         |   | o |                              |   | look like Emily,     |
+|    | e |         |   | r |                              |   | Jake decided to cut  |
+|    | s |         |   | p |                              |   | her hair too →       |
+|    | e |         |   | r |                              |   | Wanting to look like |
+|    | n |         |   | e |                              |   | Emily, Jake decided  |
+|    | t |         |   | s |                              |   | to cut her hair too  |
+|    | / |         |   | e |                              |   |                      |
+|    | G |         |   | n |                              |   |                      |
+|    | e |         |   | t |                              |   |                      |
+|    | n |         |   | o |                              |   |                      |
+|    | e |         |   | r |                              |   |                      |
+|    | r |         |   | g |                              |   |                      |
+|    | a |         |   | e |                              |   |                      |
+|    | l |         |   | n |                              |   |                      |
+|    | C |         |   | e |                              |   |                      |
+|    | a |         |   | r |                              |   |                      |
+|    | u |         |   | a |                              |   |                      |
+|    | s |         |   | l |                              |   |                      |
+|    | e |         |   | m |                              |   |                      |
+|    | F |         |   | e |                              |   |                      |
+|    | o |         |   | a |                              |   |                      |
+|    | r |         |   | n |                              |   |                      |
+|    | m |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | , |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | v |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   | + |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | f |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | v |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | j |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | j |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 31 | P |         |   | I |                              |   | Because Jake had cut |
+|    | a |         |   | f |                              |   | her hair, Jake was   |
+|    | s |         |   | t |                              |   | unrecognizable →     |
+|    | t |         |   | h |                              |   | Having cut her hair, |
+|    | C |         |   | e |                              |   | Jake was             |
+|    | a |         |   | o |                              |   | unrecognizable       |
+|    | u |         |   | r |                              |   |                      |
+|    | s |         |   | i |                              |   |                      |
+|    | e |         |   | g |                              |   |                      |
+|    | F |         |   | i |                              |   |                      |
+|    | o |         |   | n |                              |   |                      |
+|    | r |         |   | a |                              |   |                      |
+|    | m |         |   | l |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | p |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | p |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | f |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | f |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | , |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | v |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   |   |                              |   |                      |
+|    |   |         |   | + |                              |   |                      |
+|    |   |         |   | p |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | p |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | p |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | * |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 32 | M |         |   | * |                              |   | Having stayed up     |
+|    | e |         |   | * |                              |   | late last night,     |
+|    | a |         |   | H |                              |   | Molly has been tired |
+|    | n |         |   | a |                              |   | all day today        |
+|    | i |         |   | v |                              |   |                      |
+|    | n |         |   | i |                              |   |                      |
+|    | g |         |   | n |                              |   |                      |
+|    | o |         |   | g |                              |   |                      |
+|    | f |         |   |   |                              |   |                      |
+|    | * |         |   | + |                              |   |                      |
+|    | * |         |   | p |                              |   |                      |
+|    | h |         |   | a |                              |   |                      |
+|    | a |         |   | s |                              |   |                      |
+|    | v |         |   | t |                              |   |                      |
+|    | i |         |   | p |                              |   |                      |
+|    | n |         |   | a |                              |   |                      |
+|    | g |         |   | r |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    | + |         |   | i |                              |   |                      |
+|    | p |         |   | c |                              |   |                      |
+|    | a |         |   | i |                              |   |                      |
+|    | s |         |   | p |                              |   |                      |
+|    | t |         |   | l |                              |   |                      |
+|    | p |         |   | e |                              |   |                      |
+|    | a |         |   | * |                              |   |                      |
+|    | r |         |   | * |                              |   |                      |
+|    | t |         |   | s |                              |   |                      |
+|    | i |         |   | h |                              |   |                      |
+|    | c |         |   | o |                              |   |                      |
+|    | i |         |   | w |                              |   |                      |
+|    | p |         |   | s |                              |   |                      |
+|    | l |         |   | a |                              |   |                      |
+|    | e |         |   | p |                              |   |                      |
+|    | * |         |   | a |                              |   |                      |
+|    | * |         |   | s |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | p |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 33 | S |         |   | T |                              |   | Because Jake had cut |
+|    | a |         |   | y |                              |   | her hair, Emily did  |
+|    | m |         |   | p |                              |   | not recognize her →  |
+|    | e |         |   | e |                              |   | cannot reduce        |
+|    | S |         |   | 2 |                              |   |                      |
+|    | u |         |   | r |                              |   |                      |
+|    | b |         |   | e |                              |   |                      |
+|    | j |         |   | d |                              |   |                      |
+|    | e |         |   | u |                              |   |                      |
+|    | c |         |   | c |                              |   |                      |
+|    | t |         |   | t |                              |   |                      |
+|    | S |         |   | i |                              |   |                      |
+|    | t |         |   | o |                              |   |                      |
+|    | i |         |   | n |                              |   |                      |
+|    | l |         |   | i |                              |   |                      |
+|    | l |         |   | s |                              |   |                      |
+|    | R |         |   | o |                              |   |                      |
+|    | e |         |   | n |                              |   |                      |
+|    | q |         |   | l |                              |   |                      |
+|    | u |         |   | y |                              |   |                      |
+|    | i |         |   | p |                              |   |                      |
+|    | r |         |   | o |                              |   |                      |
+|    | e |         |   | s |                              |   |                      |
+|    | d |         |   | s |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | w |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | v |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | j |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 34 | P |         |   | A |                              |   | Having short hair,   |
+|    | r |         |   | f |                              |   | **Jake** was         |
+|    | o |         |   | t |                              |   | unrecognizable       |
+|    | n |         |   | e |                              |   |                      |
+|    | o |         |   | r |                              |   |                      |
+|    | u |         |   | r |                              |   |                      |
+|    | n |         |   | e |                              |   |                      |
+|    | C |         |   | d |                              |   |                      |
+|    | l |         |   | u |                              |   |                      |
+|    | a |         |   | c |                              |   |                      |
+|    | r |         |   | t |                              |   |                      |
+|    | i |         |   | i |                              |   |                      |
+|    | t |         |   | o |                              |   |                      |
+|    | y |         |   | n |                              |   |                      |
+|    | i |         |   | , |                              |   |                      |
+|    | n |         |   | i |                              |   |                      |
+|    | T |         |   | t |                              |   |                      |
+|    | y |         |   | i |                              |   |                      |
+|    | p |         |   | s |                              |   |                      |
+|    | e |         |   | o |                              |   |                      |
+|    | 2 |         |   | f |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | p |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | f |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | p |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 35 | S |         |   | T |                              |   | While sitting in the |
+|    | t |         |   | h |                              |   | office, she saw      |
+|    | y |         |   | e |                              |   | Emily = Sitting in   |
+|    | l |         |   | f |                              |   | the office, she saw  |
+|    | e |         |   | u |                              |   | Emily                |
+|    | D |         |   | l |                              |   |                      |
+|    | i |         |   | l |                              |   |                      |
+|    | f |         |   | c |                              |   |                      |
+|    | f |         |   | l |                              |   |                      |
+|    | e |         |   | a |                              |   |                      |
+|    | r |         |   | u |                              |   |                      |
+|    | e |         |   | s |                              |   |                      |
+|    | n |         |   | e |                              |   |                      |
+|    | c |         |   | , |                              |   |                      |
+|    | e |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | w |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | b |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | , |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | o |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | u |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | y |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | v |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | g |                              |   |                      |
+|    |   |         |   | ; |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | h |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | d |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | f |                              |   |                      |
+|    |   |         |   | f |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | r |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | c |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | m |                              |   |                      |
+|    |   |         |   | a |                              |   |                      |
+|    |   |         |   | i |                              |   |                      |
+|    |   |         |   | n |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | y |                              |   |                      |
+|    |   |         |   | s |                              |   |                      |
+|    |   |         |   | t |                              |   |                      |
+|    |   |         |   | y |                              |   |                      |
+|    |   |         |   | l |                              |   |                      |
+|    |   |         |   | e |                              |   |                      |
+|    |   |         |   | . |                              |   |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 36 | T |         |   |   | Type 3 reduction is used for | B |                      |
+|    | y |         |   |   | past meaning, especially     | e |                      |
+|    | p |         |   |   | with **because** or          | c |                      |
+|    | e |         |   |   | **after**, and often begins  | a |                      |
+|    | 3 |         |   |   | with **having + past         | u |                      |
+|    | O |         |   |   | participle**.                | s |                      |
+|    | v |         |   |   |                              | e |                      |
+|    | e |         |   |   |                              | J |                      |
+|    | r |         |   |   |                              | a |                      |
+|    | v |         |   |   |                              | k |                      |
+|    | i |         |   |   |                              | e |                      |
+|    | e |         |   |   |                              | g |                      |
+|    | w |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | → |                      |
+|    |   |         |   |   |                              | H |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | v |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | t |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 37 | P |         |   |   | When the reduced clause      | B |                      |
+|    | a |         |   |   | expresses a past cause or    | e |                      |
+|    | s |         |   |   | earlier completed action,    | c |                      |
+|    | t |         |   |   | use **having + past          | a |                      |
+|    | M |         |   |   | participle**.                | u |                      |
+|    | e |         |   |   |                              | s |                      |
+|    | a |         |   |   |                              | e |                      |
+|    | n |         |   |   |                              | I |                      |
+|    | i |         |   |   |                              | d |                      |
+|    | n |         |   |   |                              | r |                      |
+|    | g |         |   |   |                              | a |                      |
+|    | R |         |   |   |                              | n |                      |
+|    | u |         |   |   |                              | k |                      |
+|    | l |         |   |   |                              | 3 |                      |
+|    | e |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | I |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | x |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | → |                      |
+|    |   |         |   |   |                              | H |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | v |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | k |                      |
+|    |   |         |   |   |                              | 3 |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | I |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | x |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | s |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 38 | S |         |   |   | Both **simple past** and     | B |                      |
+|    | i |         |   |   | **past perfect** clauses may | e |                      |
+|    | m |         |   |   | reduce to the same           | c |                      |
+|    | p |         |   |   | **having + past participle** | a |                      |
+|    | l |         |   |   | form.                        | u |                      |
+|    | e |         |   |   |                              | s |                      |
+|    | P |         |   |   |                              | e |                      |
+|    | a |         |   |   |                              | J |                      |
+|    | s |         |   |   |                              | a |                      |
+|    | t |         |   |   |                              | k |                      |
+|    | a |         |   |   |                              | e |                      |
+|    | n |         |   |   |                              | h |                      |
+|    | d |         |   |   |                              | a |                      |
+|    | P |         |   |   |                              | d |                      |
+|    | a |         |   |   |                              | c |                      |
+|    | s |         |   |   |                              | u |                      |
+|    | t |         |   |   |                              | t |                      |
+|    | P |         |   |   |                              | h |                      |
+|    | e |         |   |   |                              | e |                      |
+|    | r |         |   |   |                              | r |                      |
+|    | f |         |   |   |                              | h |                      |
+|    | e |         |   |   |                              | a |                      |
+|    | c |         |   |   |                              | i |                      |
+|    | t |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | w |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | z |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | b |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | → |                      |
+|    |   |         |   |   |                              | H |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | v |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | J |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | k |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | w |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | z |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | b |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | e |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 39 | P |         |   |   | Use **verb + ing** for       | B |                      |
+|    | r |         |   |   | present/general cause, but   | e |                      |
+|    | e |         |   |   | use **having + past          | c |                      |
+|    | s |         |   |   | participle** for past cause. | a |                      |
+|    | e |         |   |   |                              | u |                      |
+|    | n |         |   |   |                              | s |                      |
+|    | t |         |   |   |                              | e |                      |
+|    | v |         |   |   |                              | I |                      |
+|    | s |         |   |   |                              | w |                      |
+|    | P |         |   |   |                              | a |                      |
+|    | a |         |   |   |                              | n |                      |
+|    | s |         |   |   |                              | t |                      |
+|    | t |         |   |   |                              | t |                      |
+|    | C |         |   |   |                              | o |                      |
+|    | o |         |   |   |                              | i |                      |
+|    | n |         |   |   |                              | m |                      |
+|    | t |         |   |   |                              | p |                      |
+|    | r |         |   |   |                              | r |                      |
+|    | a |         |   |   |                              | o |                      |
+|    | s |         |   |   |                              | v |                      |
+|    | t |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | I |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | y |                      |
+|    |   |         |   |   |                              | → |                      |
+|    |   |         |   |   |                              | W |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | m |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | v |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | I |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | y |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 40 | B |         |   |   | If the original clause uses  | B |                      |
+|    | e |         |   |   | **be** in the past, it may   | e |                      |
+|    | V |         |   |   | reduce to **having been +    | c |                      |
+|    | e |         |   |   | complement**.                | a |                      |
+|    | r |         |   |   |                              | u |                      |
+|    | b |         |   |   |                              | s |                      |
+|    | i |         |   |   |                              | e |                      |
+|    | n |         |   |   |                              | E |                      |
+|    | P |         |   |   |                              | m |                      |
+|    | a |         |   |   |                              | i |                      |
+|    | s |         |   |   |                              | l |                      |
+|    | t |         |   |   |                              | y |                      |
+|    | R |         |   |   |                              | w |                      |
+|    | e |         |   |   |                              | a |                      |
+|    | d |         |   |   |                              | s |                      |
+|    | u |         |   |   |                              | u |                      |
+|    | c |         |   |   |                              | n |                      |
+|    | t |         |   |   |                              | a |                      |
+|    | i |         |   |   |                              | b |                      |
+|    | o |         |   |   |                              | l |                      |
+|    | n |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | z |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | J |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | k |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | w |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | → |                      |
+|    |   |         |   |   |                              | H |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | v |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | b |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | b |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | z |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | J |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | k |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | E |                      |
+|    |   |         |   |   |                              | m |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | y |                      |
+|    |   |         |   |   |                              | w |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 41 | F |         |   |   | A clause with **having       | H |                      |
+|    | u |         |   |   | been** may sometimes be      | a |                      |
+|    | r |         |   |   | reduced further to           | v |                      |
+|    | t |         |   |   | **being**.                   | i |                      |
+|    | h |         |   |   |                              | n |                      |
+|    | e |         |   |   |                              | g |                      |
+|    | r |         |   |   |                              | b |                      |
+|    | R |         |   |   |                              | e |                      |
+|    | e |         |   |   |                              | e |                      |
+|    | d |         |   |   |                              | n |                      |
+|    | u |         |   |   |                              | u |                      |
+|    | c |         |   |   |                              | n |                      |
+|    | t |         |   |   |                              | a |                      |
+|    | i |         |   |   |                              | b |                      |
+|    | o |         |   |   |                              | l |                      |
+|    | n |         |   |   |                              | e |                      |
+|    | w |         |   |   |                              | t |                      |
+|    | i |         |   |   |                              | o |                      |
+|    | t |         |   |   |                              | r |                      |
+|    | h |         |   |   |                              | e |                      |
+|    | B |         |   |   |                              | c |                      |
+|    | e |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | z |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | J |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | k |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | E |                      |
+|    |   |         |   |   |                              | m |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | y |                      |
+|    |   |         |   |   |                              | w |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | → |                      |
+|    |   |         |   |   |                              | B |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | b |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | z |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | J |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | k |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | E |                      |
+|    |   |         |   |   |                              | m |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | y |                      |
+|    |   |         |   |   |                              | w |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 42 | S |         |   |   | In some cases, the reduced   | B |                      |
+|    | h |         |   |   | clause can begin directly    | e |                      |
+|    | o |         |   |   | with an adjective or         | i |                      |
+|    | r |         |   |   | complement.                  | n |                      |
+|    | t |         |   |   |                              | g |                      |
+|    | e |         |   |   |                              | u |                      |
+|    | s |         |   |   |                              | n |                      |
+|    | t |         |   |   |                              | a |                      |
+|    | S |         |   |   |                              | b |                      |
+|    | t |         |   |   |                              | l |                      |
+|    | y |         |   |   |                              | e |                      |
+|    | l |         |   |   |                              | t |                      |
+|    | e |         |   |   |                              | o |                      |
+|    | w |         |   |   |                              | r |                      |
+|    | i |         |   |   |                              | e |                      |
+|    | t |         |   |   |                              | c |                      |
+|    | h |         |   |   |                              | o |                      |
+|    | B |         |   |   |                              | g |                      |
+|    | e |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | z |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | J |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | k |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | E |                      |
+|    |   |         |   |   |                              | m |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | y |                      |
+|    |   |         |   |   |                              | w |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | → |                      |
+|    |   |         |   |   |                              | U |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | b |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | z |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | J |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | k |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | E |                      |
+|    |   |         |   |   |                              | m |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | y |                      |
+|    |   |         |   |   |                              | w |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 43 | S |         |   |   | Full clause, reduced clause, | B |                      |
+|    | a |         |   |   | and further reduced clause   | e |                      |
+|    | m |         |   |   | can keep the same meaning;   | c |                      |
+|    | e |         |   |   | the difference is mainly     | a |                      |
+|    | M |         |   |   | stylistic.                   | u |                      |
+|    | e |         |   |   |                              | s |                      |
+|    | a |         |   |   |                              | e |                      |
+|    | n |         |   |   |                              | E |                      |
+|    | i |         |   |   |                              | m |                      |
+|    | n |         |   |   |                              | i |                      |
+|    | g |         |   |   |                              | l |                      |
+|    | , |         |   |   |                              | y |                      |
+|    | D |         |   |   |                              | w |                      |
+|    | i |         |   |   |                              | a |                      |
+|    | f |         |   |   |                              | s |                      |
+|    | f |         |   |   |                              | u |                      |
+|    | e |         |   |   |                              | n |                      |
+|    | r |         |   |   |                              | a |                      |
+|    | e |         |   |   |                              | b |                      |
+|    | n |         |   |   |                              | l |                      |
+|    | t |         |   |   |                              | e |                      |
+|    | S |         |   |   |                              | t |                      |
+|    | t |         |   |   |                              | o |                      |
+|    | y |         |   |   |                              | r |                      |
+|    | l |         |   |   |                              | e |                      |
+|    | e |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | z |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | J |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | k |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | w |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | = |                      |
+|    |   |         |   |   |                              | H |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | v |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | b |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | b |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | z |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | J |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | k |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | E |                      |
+|    |   |         |   |   |                              | m |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | y |                      |
+|    |   |         |   |   |                              | w |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | = |                      |
+|    |   |         |   |   |                              | U |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | b |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | z |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | J |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | k |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | E |                      |
+|    |   |         |   |   |                              | m |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | y |                      |
+|    |   |         |   |   |                              | w |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 44 | A |         |   |   | Clauses beginning with       | A |                      |
+|    | f |         |   |   | **after** and referring to   | f |                      |
+|    | t |         |   |   | past action may also reduce  | t |                      |
+|    | e |         |   |   | to **having + past           | e |                      |
+|    | r |         |   |   | participle**.                | r |                      |
+|    |   |         |   |   |                              | t |                      |
+|    | + |         |   |   |                              | h |                      |
+|    | P |         |   |   |                              | e |                      |
+|    | a |         |   |   |                              | t |                      |
+|    | s |         |   |   |                              | e |                      |
+|    | t |         |   |   |                              | a |                      |
+|    | M |         |   |   |                              | c |                      |
+|    | e |         |   |   |                              | h |                      |
+|    | a |         |   |   |                              | e |                      |
+|    | n |         |   |   |                              | r |                      |
+|    | i |         |   |   |                              | h |                      |
+|    | n |         |   |   |                              | a |                      |
+|    | g |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | j |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | → |                      |
+|    |   |         |   |   |                              | H |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | v |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | j |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | t |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 45 | T |         |   |   | A past **after** clause may  | A |                      |
+|    | w |         |   |   | reduce either to **after +   | f |                      |
+|    | o |         |   |   | V-ing** or to **having +     | t |                      |
+|    | V |         |   |   | past participle**.           | e |                      |
+|    | a |         |   |   |                              | r |                      |
+|    | l |         |   |   |                              | t |                      |
+|    | i |         |   |   |                              | h |                      |
+|    | d |         |   |   |                              | e |                      |
+|    | R |         |   |   |                              | t |                      |
+|    | e |         |   |   |                              | e |                      |
+|    | d |         |   |   |                              | a |                      |
+|    | u |         |   |   |                              | c |                      |
+|    | c |         |   |   |                              | h |                      |
+|    | t |         |   |   |                              | e |                      |
+|    | i |         |   |   |                              | r |                      |
+|    | o |         |   |   |                              | s |                      |
+|    | n |         |   |   |                              | t |                      |
+|    | s |         |   |   |                              | a |                      |
+|    | w |         |   |   |                              | r |                      |
+|    | i |         |   |   |                              | t |                      |
+|    | t |         |   |   |                              | e |                      |
+|    | h |         |   |   |                              | d |                      |
+|    | A |         |   |   |                              | c |                      |
+|    | f |         |   |   |                              | l |                      |
+|    | t |         |   |   |                              | a |                      |
+|    | e |         |   |   |                              | s |                      |
+|    | r |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | j |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | → |                      |
+|    |   |         |   |   |                              | A |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | j |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | / |                      |
+|    |   |         |   |   |                              | H |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | v |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | j |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | t |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 46 | M |         |   |   | **Having + past participle** | H |                      |
+|    | e |         |   |   | shows that the action in the | a |                      |
+|    | a |         |   |   | reduced clause happened      | v |                      |
+|    | n |         |   |   | earlier than the main        | i |                      |
+|    | i |         |   |   | clause.                      | n |                      |
+|    | n |         |   |   |                              | g |                      |
+|    | g |         |   |   |                              | f |                      |
+|    | o |         |   |   |                              | i |                      |
+|    | f |         |   |   |                              | n |                      |
+|    | H |         |   |   |                              | i |                      |
+|    | a |         |   |   |                              | s |                      |
+|    | v |         |   |   |                              | h |                      |
+|    | i |         |   |   |                              | e |                      |
+|    | n |         |   |   |                              | d |                      |
+|    | g |         |   |   |                              | t |                      |
+|    | F |         |   |   |                              | h |                      |
+|    | o |         |   |   |                              | e |                      |
+|    | r |         |   |   |                              | r |                      |
+|    | m |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | p |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | b |                      |
+|    |   |         |   |   |                              | m |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | t |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 47 | S |         |   |   | Type 3 reduction is only     | B |                      |
+|    | u |         |   |   | correct when the reduced     | e |                      |
+|    | b |         |   |   | clause and the main clause   | c |                      |
+|    | j |         |   |   | have the same subject.       | a |                      |
+|    | e |         |   |   |                              | u |                      |
+|    | c |         |   |   |                              | s |                      |
+|    | t |         |   |   |                              | e |                      |
+|    | R |         |   |   |                              | J |                      |
+|    | u |         |   |   |                              | a |                      |
+|    | l |         |   |   |                              | k |                      |
+|    | e |         |   |   |                              | e |                      |
+|    | S |         |   |   |                              | h |                      |
+|    | t |         |   |   |                              | a |                      |
+|    | i |         |   |   |                              | d |                      |
+|    | l |         |   |   |                              | c |                      |
+|    | l |         |   |   |                              | u |                      |
+|    | A |         |   |   |                              | t |                      |
+|    | p |         |   |   |                              | h |                      |
+|    | p |         |   |   |                              | e |                      |
+|    | l |         |   |   |                              | r |                      |
+|    | i |         |   |   |                              | h |                      |
+|    | e |         |   |   |                              | a |                      |
+|    | s |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | E |                      |
+|    |   |         |   |   |                              | m |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | y |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | z |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | → |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | e |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 48 | T |         |   |   | In past **because** clauses, | B |                      |
+|    | y |         |   |   | remove **because** and the   | e |                      |
+|    | p |         |   |   | subject, then use **having + | c |                      |
+|    | e |         |   |   | past participle**.           | a |                      |
+|    | 3 |         |   |   |                              | u |                      |
+|    | w |         |   |   |                              | s |                      |
+|    | i |         |   |   |                              | e |                      |
+|    | t |         |   |   |                              | J |                      |
+|    | h |         |   |   |                              | a |                      |
+|    | B |         |   |   |                              | k |                      |
+|    | e |         |   |   |                              | e |                      |
+|    | c |         |   |   |                              | g |                      |
+|    | a |         |   |   |                              | o |                      |
+|    | u |         |   |   |                              | t |                      |
+|    | s |         |   |   |                              | a |                      |
+|    | e |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | → |                      |
+|    |   |         |   |   |                              | H |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | v |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | c |                      |
+|    |   |         |   |   |                              | o |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | t |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 49 | T |         |   |   | In past **after** clauses,   | A |                      |
+|    | y |         |   |   | reduction may begin with     | f |                      |
+|    | p |         |   |   | **having + past participle** | t |                      |
+|    | e |         |   |   | to emphasize completed prior | e |                      |
+|    | 3 |         |   |   | action.                      | r |                      |
+|    | w |         |   |   |                              | t |                      |
+|    | i |         |   |   |                              | h |                      |
+|    | t |         |   |   |                              | e |                      |
+|    | h |         |   |   |                              | m |                      |
+|    | A |         |   |   |                              | e |                      |
+|    | f |         |   |   |                              | e |                      |
+|    | t |         |   |   |                              | t |                      |
+|    | e |         |   |   |                              | i |                      |
+|    | r |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | w |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | → |                      |
+|    |   |         |   |   |                              | H |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | v |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | m |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | w |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | t |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+| 50 | P |         |   |   | Use **V-ing** for            | W |                      |
+|    | r |         |   |   | present/general cause, and   | a |                      |
+|    | a |         |   |   | **having + past participle** | n |                      |
+|    | c |         |   |   | for past cause or earlier    | t |                      |
+|    | t |         |   |   | completed past action.       | i |                      |
+|    | i |         |   |   |                              | n |                      |
+|    | c |         |   |   |                              | g |                      |
+|    | a |         |   |   |                              | t |                      |
+|    | l |         |   |   |                              | o |                      |
+|    | S |         |   |   |                              | i |                      |
+|    | u |         |   |   |                              | m |                      |
+|    | m |         |   |   |                              | p |                      |
+|    | m |         |   |   |                              | r |                      |
+|    | a |         |   |   |                              | o |                      |
+|    | r |         |   |   |                              | v |                      |
+|    | y |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | I |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | y |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | y |                      |
+|    |   |         |   |   |                              | / |                      |
+|    |   |         |   |   |                              | H |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | v |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | s |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | u |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
+|    |   |         |   |   |                              | a |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | n |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | g |                      |
+|    |   |         |   |   |                              | h |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | , |                      |
+|    |   |         |   |   |                              | I |                      |
+|    |   |         |   |   |                              | f |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | l |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | t |                      |
+|    |   |         |   |   |                              | i |                      |
+|    |   |         |   |   |                              | r |                      |
+|    |   |         |   |   |                              | e |                      |
+|    |   |         |   |   |                              | d |                      |
++----+---+---------+---+---+------------------------------+---+----------------------+
+
++------+--------+-------------+---------------------------------------+
+| *    |        |             |                                       |
+| *Ide |        |             |                                       |
+| ntif |        |             |                                       |
+| ying |        |             |                                       |
+| Noun |        |             |                                       |
+| Cla  |        |             |                                       |
+| uses |        |             |                                       |
+| Pa   |        |             |                                       |
+| rt - |        |             |                                       |
+| 01** |        |             |                                       |
++======+========+=============+=======================================+
+| **Pr | **     | **Purpose** | **Definition + Example**              |
+| iori | Rule** |             |                                       |
+| ty** |        |             |                                       |
++------+--------+-------------+---------------------------------------+
+| **P  | **Fu   | Does it act | **Subject:** performs action / main   |
+| rima | nction | as subject  | topic → *That he left early*          |
+| ry** | test** | / object /  | surprised me. **Object:** receives    |
+|      |        | complement? | action → I know *that he left early*. |
+|      |        |             | **Complement:** completes meaning     |
+|      |        |             | (after linking verb) → My concern was |
+|      |        |             | *whether he left early*.              |
++------+--------+-------------+---------------------------------------+
+| **P  | **R    | Can you     | **Subject:** *That he left early* →   |
+| rima | eplace | replace it  | *It* surprised me                     |
+| ry** | test** | with "it"?  |                                       |
+|      |        |             | **Object:** I know *that he left      |
+|      |        |             | early* → I know *it*                  |
+|      |        |             |                                       |
+|      |        |             | **Complement:** My concern was        |
+|      |        |             | *whether he left early* → My concern  |
+|      |        |             | was *it*                              |
++------+--------+-------------+---------------------------------------+
+| *    | **Qu   | Does it     | **Subject:** *What* surprised me? →   |
+| *Sec | estion | answer      | *That he left early*                  |
+| onda | test** | What? /     |                                       |
+| ry** |        | Who?        | **Object:** I know *what*? → *that he |
+|      |        |             | left early*                           |
+|      |        |             |                                       |
+|      |        |             | **Complement:** My concern was        |
+|      |        |             | *what*? → *whether he left early*     |
++------+--------+-------------+---------------------------------------+
+| **S  | **Intr | Only a      | Words like **that, whether, if**      |
+| uppo | oducer | clue, not   | signal a clause → *I think that he is |
+| rt** | w      | proof       | right*                                |
+|      | ords** |             |                                       |
++------+--------+-------------+---------------------------------------+
+| **S  | **     | Not         | All noun clauses are dependent → does |
+| uppo | Depend | decisive    | not determine function                |
+| rt** | ency** | (all        |                                       |
+|      |        | clauses can |                                       |
+|      |        | be          |                                       |
+|      |        | dependent)  |                                       |
++------+--------+-------------+---------------------------------------+
+
++---+------------+-------------------------------------+----------------+
+| * |            |                                     |                |
+| * |            |                                     |                |
+| I |            |                                     |                |
+| d |            |                                     |                |
+| e |            |                                     |                |
+| n |            |                                     |                |
+| t |            |                                     |                |
+| i |            |                                     |                |
+| f |            |                                     |                |
+| y |            |                                     |                |
+| i |            |                                     |                |
+| n |            |                                     |                |
+| g |            |                                     |                |
+| N |            |                                     |                |
+| o |            |                                     |                |
+| u |            |                                     |                |
+| n |            |                                     |                |
+| C |            |                                     |                |
+| l |            |                                     |                |
+| a |            |                                     |                |
+| u |            |                                     |                |
+| s |            |                                     |                |
+| e |            |                                     |                |
+| s |            |                                     |                |
+| p |            |                                     |                |
+| a |            |                                     |                |
+| r |            |                                     |                |
+| t |            |                                     |                |
+|   |            |                                     |                |
+| - |            |                                     |                |
+| 0 |            |                                     |                |
+| 2 |            |                                     |                |
+| ( |            |                                     |                |
+| W |            |                                     |                |
+| H |            |                                     |                |
+| ) |            |                                     |                |
+| * |            |                                     |                |
+| * |            |                                     |                |
++===+============+=====================================+================+
+| * | **who**\   | Ex. Do you know **where** I put my  | **= Noun       |
+| * | **where**\ | pencil?                             | Clause**       |
+| 1 | **what**\  |                                     |                |
+| * | **why**\   | **subject + verb**                  |                |
+| * | **how**\   |                                     |                |
+|   | **when**\  | Ex. Yeah, I know **where** you put  |                |
+|   | **which**  | your pencil.                        |                |
++---+------------+-------------------------------------+----------------+
+| * | **I        |                                     |                |
+| * | ndependent |                                     |                |
+| 2 | clause +   |                                     |                |
+| * | Wh +       |                                     |                |
+| * | Subject +  |                                     |                |
+|   | Helping    |                                     |                |
+|   | verb +     |                                     |                |
+|   | Verb =     |                                     |                |
+|   | Noun       |                                     |                |
+|   | Clause     |                                     |                |
+|   | (D         |                                     |                |
+|   | ependent** |                                     |                |
+|   | *          |                                     |                |
+|   | *clause)** |                                     |                |
++---+------------+-------------------------------------+----------------+
+| * | **Wh +     |                                     |                |
+| * | Subject +  |                                     |                |
+| 3 | Helping    |                                     |                |
+| * | verb +     |                                     |                |
+| * | Verb =     |                                     |                |
+|   | Noun       |                                     |                |
+|   | Clause     |                                     |                |
+|   | (Dependent |                                     |                |
+|   | clause) +  |                                     |                |
+|   | I          |                                     |                |
+|   | ndependent |                                     |                |
+|   | clause**   |                                     |                |
++---+------------+-------------------------------------+----------------+
+
+  -----------------------------------------------------------------------------
+  **Identifying                                           
+  Noun Clauses                                            
+  part - 03                                               
+  (Yes/No)**                                              
+  --------------- -------------------------- ------------ ---------------------
+  **Concept**     **Rule**                   **Yes/No     **Example**
+                                             Question**   
+
+  Purpose         Used for **yes/no embedded Is he        She wonders **if he
+                  questions**                coming?      is coming**.
+
+  Clause Type     Functions as a **noun      **Will he    **Whether he comes**
+                  (subject/object)**         come?**      is unclear.
+
+  If vs Whether   Same meaning; **whether =  Do you       Tell me **whether you
+                  more formal**              agree?       agree**.
+
+  Word Order      Use **statement order (no  Is it        if **it is raining**
+                  inversion)**               raining?     
+
+  Auxiliary Rule  **No "do/did"** in noun    Did she find if she **found it**
+                  clause                     it?          
+
+  With "or not"   Optional; all forms        Do, Does,    whether (or not) / if
+                  acceptable                 Did ...      (or not)
+
+  As Object       After verbs (know, wonder, Was it       She asked **if it was
+                  ask)                       ready?       ready**.
+
+  As Subject      Clause at sentence start   **Will he    **Whether he wins**
+                                             win?**       matters.
+
+  Incorrect       No question structure      if **is it   if **is it raining
+  Pattern         allowed                    raining**    (No)**
+  -----------------------------------------------------------------------------
+
+  ---------------------------------------------------------------------------------
+  **Identifying Noun                                      
+  Clauses part - 04                                       
+  (That)**                                                
+  ------------------- ------------------ ---------------- -------------------------
+  **Function**        **Sentence         **Examples**     **Key Rules**
+                      Structure**                         
+
+  **Object of a       Subject + Verb +   I believe        In spoken English,
+  Verb**              (that) + Clause    **(that) you     \"that\" is optional. In
+                                         will find        formal writing, it is
+                                         them**.          preferred.
+
+  **Subject of a      **That** +         **That she has   \"That\" is **required**
+  Sentence**          Clause + Verb      forgotten** is   if it starts the
+                                         my belief.       sentence. This structure
+                                                          is rare in casual speech.
+
+  **Natural Subject** **The fact         **The fact that  Use \"The fact that\" or
+                      that** + Clause +  she forgot**     \"The idea that\" to make
+                      Verb               doesn\'t         the sentence sound more
+                                         surprise me.     natural.
+
+  **Non-referential   **It** +           **It** is        \"It\" acts as a
+  \"It\"**            Verb/Adjective +   obvious **that I placeholder. You
+                      **that** + Clause  am helping       **cannot** use \"the fact
+                                         her**.           that\" with this \"it\"
+                                                          structure.
+
+  **Following         Subject + Be +     Emily is         Often used to express
+  Adjectives**        Adjective +        grateful **that  emotions or states (e.g.,
+                      **that** + Clause  she has a        *happy, sure, surprised,
+                                         friend**.        grateful*).
+  ---------------------------------------------------------------------------------
+
++---------+--------+-------------------+---------------+-------------+
+| *       |        |                   |               |             |
+| *Quoted |        |                   |               |             |
+| and     |        |                   |               |             |
+| R       |        |                   |               |             |
+| eported |        |                   |               |             |
+| Speech: |        |                   |               |             |
+| Infin   |        |                   |               |             |
+| itives, |        |                   |               |             |
+| G       |        |                   |               |             |
+| erunds, |        |                   |               |             |
+| and     |        |                   |               |             |
+| Noun    |        |                   |               |             |
+| Cl      |        |                   |               |             |
+| auses** |        |                   |               |             |
++=========+========+===================+===============+=============+
+| **Cat   | **Su   | **Struct**        | **Key         | **Example** |
+| egory** | b-Type |                   | Elements**    |             |
+|         | /      | **ure / Rule**    |               |             |
+|         | Func   |                   |               |             |
+|         | tion** |                   |               |             |
++---------+--------+-------------------+---------------+-------------+
+| **R     | Direct | Exact words in    | Quotation     | She said,   |
+| eported | Speech | quotation marks   | marks         | \"I am      |
+| S       |        |                   |               | tired.\"    |
+| peech** |        |                   |               |             |
++---------+--------+-------------------+---------------+-------------+
+|         | In     | Reporting verb +  | say, tell,    | She said    |
+|         | direct | (that) + noun     | etc.          | that she    |
+|         | Speech | clause            |               | was tired   |
++---------+--------+-------------------+---------------+-------------+
+|         | Tense  | Present → Past    | Verb change   | \"I eat\" → |
+|         | Bac    |                   |               | He said he  |
+|         | kshift |                   |               | ate         |
++---------+--------+-------------------+---------------+-------------+
+|         | Future | will → would      | Modal shift   | \"I will    |
+|         | Change |                   |               | go\" → He   |
+|         |        |                   |               | said he     |
+|         |        |                   |               | would go    |
++---------+--------+-------------------+---------------+-------------+
+|         | Modal  | Can → could, may  | Modal verbs   | \"I can     |
+|         | Change | → might, must →   |               | swim\" → He |
+|         |        | had to            |               | said he     |
+|         |        |                   |               | could swim  |
++---------+--------+-------------------+---------------+-------------+
+|         | No     | Facts / immediate | Exception     | He said the |
+|         | Change | / present         |               | sun rises   |
+|         | Rule   | reporting         |               | in the east |
++---------+--------+-------------------+---------------+-------------+
+| **Re    | N      | Used for general  | say, tell,    | He said     |
+| porting | eutral | reporting         | explain,      | that...     |
+| Verbs** |        |                   | report        |             |
++---------+--------+-------------------+---------------+-------------+
+|         | O      | Express belief    | think,        | She         |
+|         | pinion |                   | believe,      | believes    |
+|         |        |                   | assume        | that...     |
++---------+--------+-------------------+---------------+-------------+
+|         | Strong | E                 | claim,        | He insisted |
+|         | Sta    | mphasis/assertion | insist, argue | that...     |
+|         | tement |                   |               |             |
++---------+--------+-------------------+---------------+-------------+
+|         | Sugg   | Advi              | suggest,      | She         |
+|         | estion | ce/recommendation | recommend,    | suggested   |
+|         |        |                   | advise        | that...     |
++---------+--------+-------------------+---------------+-------------+
+|         | R      | Asking or         | ask, order,   | He told me  |
+|         | equest | ordering          | instruct      | to...       |
+|         | /      |                   |               |             |
+|         | C      |                   |               |             |
+|         | ommand |                   |               |             |
++---------+--------+-------------------+---------------+-------------+
+|         | Agr    | Acceptance/denial | agree, admit, | She         |
+|         | eement |                   | deny          | admitted    |
+|         |        |                   |               | that...     |
++---------+--------+-------------------+---------------+-------------+
+|         | F      | Emotional         | warn,         | He          |
+|         | eeling | response          | complain,     | apologized  |
+|         | /      |                   | apologize     | that...     |
+|         | Re     |                   |               |             |
+|         | action |                   |               |             |
++---------+--------+-------------------+---------------+-------------+
+| **Noun  | Basic  | Reporting verb +  | Subject +     | He said     |
+| Cl      | Str    | (that) + clause   | verb          | that he was |
+| auses** | ucture |                   |               | busy        |
++---------+--------+-------------------+---------------+-------------+
+|         | Fu     | Acts as object of | Completes     | I think     |
+|         | nction | verb              | meaning       | that he is  |
+|         |        |                   |               | right       |
++---------+--------+-------------------+---------------+-------------+
+| **WH +  | who    | WH + to + verb    | infinitive    | I know who  |
+| Infin   |        |                   | form          | to call     |
+| itive** |        |                   |               |             |
++---------+--------+-------------------+---------------+-------------+
+|         | what   | WH + to + verb    | infinitive    | She knows   |
+|         |        |                   | form          | what to do  |
++---------+--------+-------------------+---------------+-------------+
+|         | when   | WH + to + verb    | infinitive    | He asked    |
+|         |        |                   | form          | when to     |
+|         |        |                   |               | leave       |
++---------+--------+-------------------+---------------+-------------+
+|         | why    | WH + to + verb    | infinitive    | I           |
+|         |        |                   | form          | understand  |
+|         |        |                   |               | why to act  |
++---------+--------+-------------------+---------------+-------------+
+|         | which  | WH + to + verb    | infinitive    | Choose      |
+|         |        |                   | form          | which to    |
+|         |        |                   |               | buy         |
++---------+--------+-------------------+---------------+-------------+
+|         | whom   | WH + to + verb    | infinitive    | He knows    |
+|         |        |                   | form          | whom to     |
+|         |        |                   |               | invite      |
++---------+--------+-------------------+---------------+-------------+
+|         | how    | WH + to + verb    | infinitive    | She         |
+|         |        |                   | form          | explained   |
+|         |        |                   |               | how to      |
+|         |        |                   |               | solve it    |
++---------+--------+-------------------+---------------+-------------+
+|         | where  | WH + to + verb    | infinitive    | I know      |
+|         |        |                   | form          | where to go |
++---------+--------+-------------------+---------------+-------------+
+| **Verb  | That-  | Verb + that +     | Full clause   | She         |
+| Pat     | Clause | clause            |               | suggested   |
+| terns** |        |                   |               | that we     |
+|         |        |                   |               | leave       |
++---------+--------+-------------------+---------------+-------------+
+|         | Gerund | Verb + verb-ing   | Shortened     | She         |
+|         | Phrase |                   | form          | suggested   |
+|         |        |                   |               | leaving     |
++---------+--------+-------------------+---------------+-------------+
+|         | Dual   | That clause /     | recommend,    | He admitted |
+|         | Use    | gerund            | suggest,      | that... /   |
+|         | Verbs  |                   | admit, deny,  | He admitted |
+|         |        |                   | etc.          | doing...    |
++---------+--------+-------------------+---------------+-------------+
+| **Verb  | Column | Common verbs      | recommend,    | She         |
+| List    | 1      |                   | suggest,      | suggested   |
+| (U      |        |                   | propose,      | leaving     |
+| sage)** |        |                   | deny, admit   |             |
++---------+--------+-------------------+---------------+-------------+
+|         | Column | Common verbs      | acknowledge,  | He          |
+|         | 2      |                   | mention,      | mentioned   |
+|         |        |                   | recall,       | going       |
+|         |        |                   | appreciate,   |             |
+|         |        |                   | report        |             |
++---------+--------+-------------------+---------------+-------------+
+|         | Column | Common verbs      | imagine,      | I imagine   |
+|         | 3      |                   | anticipate,   | doing it    |
+|         |        |                   | recollect,    |             |
+|         |        |                   | understand    |             |
++---------+--------+-------------------+---------------+-------------+
+| **R     | Yes/No | asked +           | No inversion  | He asked if |
+| eported | Qu     | if/whether +      |               | I was ready |
+| Ques    | estion | clause            |               |             |
+| tions** |        |                   |               |             |
++---------+--------+-------------------+---------------+-------------+
+|         | WH     | asked + WH +      | No question   | She asked   |
+|         | Qu     | clause            | form          | where I     |
+|         | estion |                   |               | lived       |
++---------+--------+-------------------+---------------+-------------+
+| **C     | Infi   | tell/ask +        | Instruction   | He told me  |
+| ommands | nitive | object + to +     |               | to study    |
+| /       | Form   | verb              |               |             |
+| Req     |        |                   |               |             |
+| uests** |        |                   |               |             |
++---------+--------+-------------------+---------------+-------------+
+| **Say   | Usage  | tell + object,    | Grammar rule  | He told me  |
+| vs      | Rule   | say (no object)   |               | / He said   |
+| Tell**  |        |                   |               | that        |
++---------+--------+-------------------+---------------+-------------+
+| **Compa | That   | Formal, full      | complete      | She         |
+| rison** | Clause | structure         | clause        | admitted    |
+|         |        |                   |               | that she    |
+|         |        |                   |               | lied        |
++---------+--------+-------------------+---------------+-------------+
+|         | Gerund | Short, natural    | verb-ing      | She         |
+|         |        |                   |               | admitted    |
+|         |        |                   |               | lying       |
++---------+--------+-------------------+---------------+-------------+
+|         | WH +   | Reduced clause    | to + verb     | I know what |
+|         | Infi   |                   |               | to do       |
+|         | nitive |                   |               |             |
++---------+--------+-------------------+---------------+-------------+
+
+  ---------------------------------------------------------------------------------------
+  **Use of                                                               
+  "Ever" Words**                                                         
+  -------------- ----------- ----------- -------------- ---------------- ----------------
+  **Category**   **Word**    **Meaning   **Function**   **Example**      **Key Rule /
+                             (ANY                                        Insight**
+                             form)**                                     
+
+  Core Meaning   However     In any way  Adverb clause  You can dress    Expresses manner
+                                                        however you      (no restriction)
+                                                        want.            
+
+  Core Meaning   Whatever    Anything    Noun clause /  Do whatever you  Shows openness
+                                         informal       want.            or no limitation
+
+  Core Meaning   Whenever    Any time    Adverb clause  Come whenever    Refers to time
+                                                        you like.        
+
+  Core Meaning   Wherever    Any place   Adverb clause  Sit wherever you Refers to place
+                                                        feel             
+                                                        comfortable.     
+
+  Core Meaning   Whoever     Anyone      Noun clause    Whoever comes    Must be followed
+                             (subject)   (subject)      first wins.      by a verb
+
+  Core Meaning   Whomever    Anyone      Noun clause    She invites      Used as object
+                             (object)    (object)       whomever she     (him/her)
+                                                        likes.           
+
+  Core Meaning   Whichever   Any         Noun clause    Choose whichever Used when
+                             (limited                   you prefer.      options are
+                             choice)                                     limited
+  ---------------------------------------------------------------------------------------
+
+  --------------------------------------------------------------------------
+  **Real                                                      
+  Conditionals                                                
+  (Present &                                                  
+  Future)**                                                   
+  -------------- -------------- --------------- ------------- --------------
+  **Core Idea:** **Real                                       
+                 conditionals                                 
+                 describe                                     
+                 likely or                                    
+                 possible                                     
+                 situations in                                
+                 present and                                  
+                 future**                                     
+
+  **Structure    **If + present                               
+  Rule:**        → result                                     
+                 (present /                                   
+                 future / modal                               
+                 / command)**                                 
+
+  **Critical     **Never use                                  
+  Warning:**     future tense                                 
+                 in the "if"                                  
+                 clause**                                     
+
+                                                              
+
+  **Category**   **Concept /    **Structure**   **Example**   **Key
+                 Rule**                                       Insight**
+
+  Basic          Conditional    If + condition  If it rains,  Two parts:
+  Structure      sentences have (dependent) +   the ground    condition +
+                 **two          result          gets wet.     result
+                 clauses**      (independent)                 
+
+  Clause Type    Dependent vs   Dependent =     If it rains   Dependent
+                 Independent    condition,      (dep.), the   clause cannot
+                                Independent =   ground gets   stand alone
+                                result          wet (ind.)    
+
+  Word Usage     Use of "if"    Usually         If it rains,  Not all
+                                introduces      I stay home.  conditionals
+                                condition                     require "if"
+
+  Clause Order   Flexible order If clause +     I stay home   Meaning does
+                                result OR       if it rains.  not change
+                                result + if                   
+                                clause                        
+
+  Comma Rule     Comma usage    Comma needed if If it rains,  No comma if
+                                dependent       I stay home.  "if" clause is
+                                clause comes                  last
+                                first                         
+
+  Verb Tense     Dependent      Always **simple If it         Never use
+  Rule           clause tense   present**       rains...      future tense
+                                                              in "if" clause
+
+  Result Clause  Simple Present If it rains, I  Used for      
+  Options                       wear boots.     habits        
+
+  Result Clause  Future (will / If it rains, I  Used for      
+  Options        going to)      will stay home. future events 
+
+  Result Clause  Modal verbs    If it rains, I  Shows advice, 
+  Options                       should take an  possibility   
+                                umbrella.                     
+
+  Result Clause  Imperative     If it rains,    Gives         
+  Options        (command)      take an         instruction   
+                                umbrella.                     
+
+  Habit Use      Repeated       If + present,   If it rains,  Often includes
+                 actions        present         I usually     adverbs
+                                                wear boots.   (usually,
+                                                              always)
+
+  Future Use     Likely future  If + present,   If it rains   Time markers
+                 events         will / going to tomorrow, I   (tomorrow)
+                                                will stay     indicate
+                                                home.         future
+
+  Modal Use      Possibility /  If + present,   If I am not   Modal adds
+                 advice         modal           careful, I    nuance
+                                                may fall.     
+
+  Imperative Use Commands       If + present,   If you ride,  Direct
+                                command         wear a        instruction
+                                                helmet.       
+
+  Common Error   Future in "if" **(No)** If it  **(Yes)** If  Never use
+                 clause         will rain...    it rains...   "will" in
+                 **(No)**                                     dependent
+                                                              clause
+
+  Key Rule       Tense          If clause =     ---           Core grammar
+                 consistency    present, result               principle
+                                varies                        
+  --------------------------------------------------------------------------
+
+  ------------------------------------------------------------------------------------------------
+  **Other Ways to                                                                   
+  Express                                                                           
+  Condition**                                                                       
+  ---------------- -------------- -------------- -------------------- ------------- --------------
+  **Only if /                                    Strong condition                   
+  Provided / As                                  (requirement)                      
+  long as**                                                                         
+
+  **If so / If                                   Short replacements                 
+  not**                                                                             
+
+  **Unless**                                     Negative condition                 
+                                                 (if not)                           
+
+  **"Only if" and                                Behave like                        
+  "Unless"**                                     opposites                          
+
+                                                                                    
+
+  **Category**     **Expression / **Meaning /    **Structure /        **Example**   **Key
+                   Rule**         Function**     Grammar**                          Insight**
+
+  Core Idea        Alternative    Replace or     ---                  ---           English has
+                   condition      strengthen                                        multiple ways
+                   words          "if"                                              to express
+                                                                                    conditions
+                                                                                    beyond "if"
+
+  Emphasis         Only if        Strong         Main clause + only   I will go     Stronger than
+                                  condition      if + condition       only if you   "if"
+                                  (strict                             come.         
+                                  requirement)                                      
+
+  Inversion Rule   Only if        Requires       Only if + clause,    Only if it    Auxiliary
+                   (sentence      inversion      auxiliary + subject  rains, do I   comes before
+                   start)                                             stay home.    subject
+
+  Short Form       If so          Replaces       Used after a         Are you       Avoids
+                                  repeated       question/statement   tired? If so, repetition
+                                  condition                           rest.         
+                                  (positive)                                        
+
+  Short Form       If not         Replaces       Used after statement Study hard.   Shortened
+                                  negative                            If not, you   negative
+                                  condition                           will fail.    condition
+
+  Formal Condition Provided       Means "only    Provided (that) +    You can go    Formal
+                   (that)         if" (formal)   condition            provided that alternative
+                                                                      you finish    
+                                                                      work.         
+
+  Variation        Providing /    Same as        Same usage           Providing you Same meaning
+                   Providing that provided                            agree, we     
+                                                                      proceed.      
+
+  Common Condition As long as     Means "only    As long as +         I will help   More common in
+                                  if" (less      condition            as long as    speech
+                                  formal)                             you try.      
+
+  Negative         Unless         Means "if not" Unless + condition   I will go     Opposite of
+  Condition                       / "except if"                       unless it     "only if"
+                                                                      rains.        
+
+  Logical Relation Unless vs Only Opposite       ---                  Only if →     Contrast
+                   if             meanings                            condition     important
+                                                                      must happen;  
+                                                                      Unless →      
+                                                                      condition     
+                                                                      must not      
+                                                                      happen        
+
+  Transformation   Unless = If    Equivalent     If not + condition   Unless you    Same meaning
+                   not            structure                           study = If    
+                                                                      you don't     
+                                                                      study         
+
+  Usage Context    Formal vs      Provided =     ---                  ---           Choose based
+                   Informal       formal, As                                        on context
+                                  long as =                                         
+                                  common                                            
+
+  Key Grammar Rule Conditional    Condition +    ---                  ---           Same logic as
+                   structure      result                                            "if"
+                                                                                    conditionals
+
+  Final Insight    Overall        Multiple ways  ---                  ---           Improves
+                   concept        to express                                        flexibility
+                                  condition                                         and precision
+                                                                                    in English
+  ------------------------------------------------------------------------------------------------
+
++-------+--------------+--------+------------+-------------+----------+
+| **W   |              |        |            |             |          |
+| ishes |              |        |            |             |          |
+| and   |              |        |            |             |          |
+| Cl    |              |        |            |             |          |
+| auses |              |        |            |             |          |
+| that  |              |        |            |             |          |
+| F     |              |        |            |             |          |
+| ollow |              |        |            |             |          |
+| "Wi   |              |        |            |             |          |
+| sh"** |              |        |            |             |          |
++=======+==============+========+============+=============+==========+
+| **    | **Usage /    | **Str  | **Verb     | **Key       | **Ex     |
+| Categ | Meaning**    | ucture | Changes**  | Rules**     | amples** |
+| ory** |              | (Form  |            |             |          |
+|       |              | ula)** |            |             |          |
++-------+--------------+--------+------------+-------------+----------+
+| **Ge  | Expresses a  | wish + | Tense      | Shows       | *I wish  |
+| neral | desire for   | noun   | shifts     | dissa       | I had    |
+| Conc  | something    | clause | away from  | tisfaction; | more     |
+| ept** | different    |        | reality    | "the grass  | money.*  |
+|       | from reality |        |            | is always   |          |
+|       | (unreal or   |        |            | greener"    |          |
+|       | imaginary    |        |            | idea        |          |
+|       | situation)   |        |            |             |          |
++-------+--------------+--------+------------+-------------+----------+
+| *     | Want a       | wish + | will →     | Do not use  | *I wish  |
+| *Wish | future       | w      | would      | *will*      | he would |
+| About | situation to | ould + |            |             | cancel   |
+| the   | change       | base   |            | Use         | work     |
+| Fut   | (unlikely or | verb   |            | *would*✔    | to       |
+| ure** | impossible)  |        |            | "be" →      | morrow.* |
+|       |              |        |            | *were*      |          |
++-------+--------------+--------+------------+-------------+----------+
+| *     | Situation is | wish + | present →  | Do not use  | *I wish  |
+| *Wish | not true now | past   | pas        | present     | I were   |
+| About | (unreal      | simple | tam/is/are | tense       | t        |
+| the   | present)     |        | → were     |             | aller.He |
+| Pres  |              |        |            | Always use  | wishes   |
+| ent** |              |        |            | *were* for  | he had   |
+|       |              |        |            | "be"        | more     |
+|       |              |        |            |             | time.*   |
++-------+--------------+--------+------------+-------------+----------+
+| *     | Regret about | wish + | past →     | Used for    | *I wish  |
+| *Wish | a past       | past   | past       | regrets     | I had    |
+| About | situation    | p      | perfect    | Action      | worn an  |
+| the   | (cannot      | erfect |            | already     | apron.*  |
+| P     | change)      | (had + |            | finished    |          |
+| ast** |              | V3)    |            |             |          |
++-------+--------------+--------+------------+-------------+----------+
+| **    | Modal verbs  | ---    | will →     | Maintain    | *I wish  |
+| Modal | also shift   |        | wouldcan → | unreal      | I could  |
+| Chan  | in wish      |        | couldcould | meaning     | travel.I |
+| ges** | clauses      |        | → could    |             | wish I   |
+|       |              |        | have + V3  |             | could    |
+|       |              |        |            |             | have     |
+|       |              |        |            |             | gone.*   |
++-------+--------------+--------+------------+-------------+----------+
+| *     | Special rule | ---    | am/is/are  | Always use  | *I wish  |
+| *"Be" | for all wish |        | → were     | *were* (not | she were |
+| Verb  | types        |        |            | was) in     | here.*   |
+| R     |              |        |            | unreal      |          |
+| ule** |              |        |            | situations  |          |
++-------+--------------+--------+------------+-------------+----------+
+| **Gr  | Noun clause  | wish   | "that"     | Never use   | *I wish  |
+| ammar | follows      | (t     | optional   | present     | (that) I |
+| N     | "wish"       | hat) + |            | tense after | had a    |
+| ote** |              | clause |            | wish for    | car.*    |
+|       |              |        |            | unreal      |          |
+|       |              |        |            | meaning     |          |
++-------+--------------+--------+------------+-------------+----------+
+
+  -----------------------------------------------------------------------------
+  **Conditional                                                  
+  Sentences -- Real +                                            
+  Present Unreal + Past                                          
+  Unreal**                                                       
+  ---------------------- ----------------------- --------------- --------------
+  **Conditional Type**   **Structure (Rule)**    **Regular       **Converted
+                                                 Example**       Example**
+
+  Real Conditional       If + **simple           If it rains, I  If I study
+  (Present)              present**, **simple     bring my        regularly, I
+                         present**               umbrella.       pass the exam.
+
+  Unreal Conditional     If + **simple past**,   If I had a car, If I knew the
+  (Present)              **would/could + base    I would not     answer, I
+                         verb**                  need to         would tell
+                                                 hitchhike.      you.
+
+  Unreal Conditional     If + **past perfect**,  If I had        If I had
+  (Past)                 **would/could have +    brought my      studied
+                         past participle**       passport, I     harder, I
+                                                 could have      would have
+                                                 traveled.       passed the
+                                                                 exam.
+
+                                                                 
+
+  **Section**            **Content**                             
+
+  **Present Unreal --    Imaginary or unreal                     
+  Definition**           situation in the                        
+                         present                                 
+
+  **Present Unreal --    If + **past simple** →                  
+  Structure**            would/could + base verb                 
+
+  **Present Unreal --    *If I had a car, I                      
+  Example**              would drive to work.*                   
+
+  **Present Unreal --    I **do not have a car**                 
+  Reality**              → imagined: I had a car                 
+
+  **Present Unreal --    Use **past simple**                     
+  If-Clause Rule**       (meaning =                              
+                         present/future unreal)                  
+
+  **Present Unreal --    Use                                     
+  Result Rule**          **would/could/might +                   
+                         base verb**                             
+
+  **Present Unreal --    Present reality → past                  
+  Verb Change Rule**     form (*I don't have →                   
+                         If I had*)                              
+
+  **Present Unreal --    More certain/expected                   
+  "Would" Use**          result (*I would help*)                 
+
+  **Present Unreal --    Ability or possibility                  
+  "Could" Use**          (*I could walk*)                        
+
+  **Present Unreal --    Formal: use **were**                    
+  "Be" Rule**            for all subjects (*If I                 
+                         were you*)                              
+
+  **Present Unreal --    Common for advice (*If                  
+  Advice Use**           I were you, I would                     
+                         study more*)                            
+
+  **Real Conditional     If + present → present                  
+  (Reference)**          / will (*If you study,                  
+                         you will improve*)                      
+
+  **Past Unreal --       Imagines a different                    
+  Definition**           result for a past                       
+                         situation                               
+                         (regret/alternative                     
+                         past)                                   
+
+  **Past Unreal --       If + **past perfect                     
+  Structure**            (had + V3)** →                          
+                         would/could have + V3                   
+
+  **Past Unreal --       *If I had woken up                      
+  Example**              earlier, I would not                    
+                         have been late.*                        
+
+  **Past Unreal --       I **did not wake up                     
+  Meaning**              early**, so I **was                     
+                         late**                                  
+
+  **Past Unreal --       Use **had + past                        
+  If-Clause Rule**       participle**                            
+
+  **Past Unreal --       Use **would have /                      
+  Result Rule**          could have + V3**                       
+
+  **Past Unreal --       **Would** = definite                    
+  "Would vs Could"**     result; **Could** =                     
+                         possibility                             
+
+  **Past Unreal --       Real: *I woke up late →                 
+  Transformation Logic** I was late* → Unreal:                   
+                         *If I had woken up                      
+                         early, I would not have                 
+                         been late*                              
+
+  **Identification       **Past simple → Present                 
+  Rule**                 unreal**; **Past                        
+                         perfect → Past unreal**                 
+
+  **Correct Example      *You would have gotten                  
+  (Past Unreal)**        an A if you had                         
+                         studied.*                               
+
+  **Correct Example      *If you had closed the                  
+  (Past Unreal)**        door, the dog would not                 
+                         have run outside.*                      
+
+  **Incorrect Type       *If you watched less                    
+  Example**              TV, you would do                        
+                         better.* → Present                      
+                         unreal (not past)                       
+
+  **Key Concept          **Past simple → Unreal                  
+  Mapping**              present/future**;                       
+                         **Past perfect → Unreal                 
+                         past (impossible)**                     
+  -----------------------------------------------------------------------------
+
+  ------------------------------------------------------------------------------
+  **Negative                                              
+  Conditionals                                            
+  (Omitting                                               
+  "If")**                                                 
+  -------------- --------------- ------------------------ ----------------------
+  **Type**       **Structure**   **Example Sentence**     **Full Form (with
+                                                          *if*)**
+
+  Present Unreal Were +          Were I not so tired, I'd If I were not so
+                 subject + not + help you.                tired, I would help
+                 ...                                      you.
+
+  Past Unreal    Had + subject + Had you not eaten my     If you had not eaten
+                 not + past      lunch, you would not     my lunch, you would
+                 participle      feel so sick now.        not feel so sick.
+
+  Real / Future  Should +        Should you not be able   If you should not be
+                 subject + not + to come to work          able to come to work
+                 ...             tomorrow, let me know.   tomorrow...
+  ------------------------------------------------------------------------------
+
+**Below is the scenario, followed by a professional update using the
+tenses we discussed.**
+
+**The Scenario: \"idol wave\" Project Launch**
+
+-   **Past:** You finished the website coding yesterday (Simple Past).
+
+-   **Present Connection:** You have managed this project for three
+    months (Present Perfect).
+
+-   **Currently:** Your team is designing the \"mass user friendly\"
+    service packages right now (Present Progressive).
+
+-   **Future Goal:** By next Friday, you will have launched the full
+    campaign (Future Perfect).
 
 **Project Status Update**
 
@@ -1094,11 +6767,24 @@ Hi Team,
 
 I am writing to provide a technical update on our progress.
 
-We **have been working** (Present Perfect Progressive) on this strategy **since** November, and I am pleased to report that we **have reached** (Present Perfect) a major milestone. Our developers **finalized** (Simple Past) the core website architecture yesterday. **After** they **had completed** (Past Perfect) the backend testing, they **migrated** (Simple Past) the data to the live server.
+We **have been working** (Present Perfect Progressive) on this strategy
+**since** November, and I am pleased to report that we **have reached**
+(Present Perfect) a major milestone. Our developers **finalized**
+(Simple Past) the core website architecture yesterday. **After** they
+**had completed** (Past Perfect) the backend testing, they **migrated**
+(Simple Past) the data to the live server.
 
-Currently, our creative team **is designing** (Present Progressive) the new service names to ensure they **feel** (Simple Present - _Stative Verb_) mass user-friendly. We **understand** (Simple Present - _Stative Verb_) the need for rapid revenue, so we **are prioritizing** (Present Progressive) the high-conversion landing pages.
+Currently, our creative team **is designing** (Present Progressive) the
+new service names to ensure they **feel** (Simple Present - *Stative
+Verb*) mass user-friendly. We **understand** (Simple Present - *Stative
+Verb*) the need for rapid revenue, so we **are prioritizing** (Present
+Progressive) the high-conversion landing pages.
 
-Looking ahead, we **will be conducting** (Future Progressive) user-testing throughout next week. **By** next week, we **will have launched** (Future Perfect) the entire campaign. **As soon as** the site **goes** (Simple Present - _Future Time Clause_) live, we **will send** (Simple Future) you the access credentials.
+Looking ahead, we **will be conducting** (Future Progressive)
+user-testing throughout next week. **By** next week, we **will have
+launched** (Future Perfect) the entire campaign. **As soon as** the site
+**goes** (Simple Present - *Future Time Clause*) live, we **will send**
+(Simple Future) you the access credentials.
 
 Best regards,
 
@@ -1108,16 +6794,21 @@ Amein
 
 **Technical Breakdown of Tenses Used**
 
-| Tense / Rule | Why it was used here |
-| --- | --- |
-| Present Perfect Progressive | Shows the duration of the project from the start until now. |
-| Past Perfect + Simple Past | Shows that testing was fully finished before the migration started. |
-| Stative Verbs (feel, understand) | We used Simple Present because these are mental states/emotions. |
-| Future Perfect | Used with "By next Friday" to show a completed deadline. |
-| The Future-Present Rule | We used "goes live" (Simple Present) after the connector "As soon as." |
+  -----------------------------------------------------------------------
+  **Tense / Rule**       **Why it was used here**
+  ---------------------- ------------------------------------------------
+  **Present Perfect      Shows the duration of the project from the start
+  Progressive**          until now.
 
+  **Past Perfect +       Shows that testing was *fully finished* before
+  Simple Past**          the migration started.
 
+  **Stative Verbs        We used Simple Present because these are mental
+  (*feel, understand*)** states/emotions.
 
+  **Future Perfect**     Used with \"By next Friday\" to show a completed
+                         deadline.
 
-
-
+  **The Future-Present   We used \"goes live\" (Simple Present) after the
+  Rule**                 connector \"As soon as.\"
+  -----------------------------------------------------------------------
