@@ -568,6 +568,32 @@ Example: Have you finished?
 
 
 
+=======================================================================================================================================      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -1116,5 +1142,4 @@ To practice our master tense rules, let’s imagine a situation at **idol wave**
 | Present Unreal | Were \+ subject \+ not \+ … | Were I not so tired, I’d help you. | If I were not so tired, I would help you. |
 | Past Unreal | Had \+ subject \+ not \+ past participle | Had you not eaten my lunch, you would not feel so sick now. | If you had not eaten my lunch, you would not feel so sick. |
 | Real / Future | Should \+ subject \+ not \+ … | Should you not be able to come to work tomorrow, let me know. | If you should not be able to come to work tomorrow… |
-
 
