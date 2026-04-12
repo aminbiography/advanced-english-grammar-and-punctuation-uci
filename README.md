@@ -16,8 +16,7 @@ Live URL: https://aminbiography.github.io/advanced-english-grammar-and-punctuati
 
 # **Advanced Grammar & Punctuation Project**
 
-A structured **HTML/CSS/JavaScript application** developed as a supporting repository for an official **Graphic Organizer Chart and Graphic Organizer Web**, based on coursework from the **University of California, Irvine (International Programs)**, offered through Coursera.
-
+A structured **HTML/CSS/JavaScript application** developed as a supporting repository for an official **Graphic Organizer Chart and Graphic Organizer Web**, based on coursework from the **University of California, Irvine (International Programs)**, offered through *Coursera*.
 
 ---
 
