@@ -16,86 +16,81 @@ Live URL: https://aminbiography.github.io/advanced-english-grammar-and-punctuati
 
 # **Advanced Grammar & Punctuation Project**
 
-A structured **HTML/CSS/JavaScript application** developed as a supporting repository for an official **Graphic Organizer Chart and Graphic Organizer Web**, based on coursework from the **University of California, Irvine (International Programs)**, *offered through Coursera*.
+A structured *HTML/CSS/JavaScript application* developed as a supporting repository for an official *Graphic Organizer Chart and Graphic Organizer Web*, based on coursework from the *University of California, Irvine (International Programs)*, delivered through *Coursera*.
 
 ---
 
-## Overview
+## **Overview**
 
-This project provides a visual and structured representation of the English grammar system, integrating verb tenses, clause structures, punctuation, conjunctions, and discourse transitions into a unified conceptual model.
+This project presents a visual and structured model of the English grammar system, integrating verb tenses, clause structures, punctuation, conjunctions, and discourse transitions into a unified conceptual framework.
 
-It supports the **Graphic Organizer Chart/Web** by:
-
-* Expanding individual grammar components
-* Providing detailed explanations and structure
-* Enabling scalable content development beyond the main diagram
+It functions as a *graphical support layer*, expanding and clarifying relationships within the primary organizer through modular and scalable design.
 
 ---
 
-## Academic Context
+## **Academic Context**
 
-* **Institution:** University of California, Irvine
-* **Program:** International Programs
-* **Platform:** Coursera
+* **Institution:** *University of California, Irvine*
+* **Program:** *International Programs*
 
-This repository supports an official **Graphic Organizer Chart/Web** developed from course material. It serves as an extended learning and structural reference and does not represent independent certification or institutional endorsement.
+This work is developed as an independent academic extension aligned with course-based learning.
 
 ---
 
-## Conceptual Scope
+## **Conceptual Scope**
 
 The system organizes English grammar into interconnected modules:
 
-### 1. Verb Tenses
+### **1. Verb Tenses**
 
 * **Past:** Simple Past, Past Progressive, Past Perfect, Past Perfect Progressive
 * **Present:** Simple Present, Present Progressive, Present Perfect, Present Perfect Progressive
 * **Future:** Simple Future (will/going to), Future Progressive, Future Perfect, Future Perfect Progressive
 
-Tense forms are constructed through the combination of **time (past, present, future)** and **aspect (simple, progressive, perfect, perfect progressive)**.
+Tense forms are constructed through the combination of *time* and *aspect*.
 
 ---
 
-### 2. Clause Structures
+### **2. Clause Structures**
 
 * **Independent Clauses**
-* **Dependent Clauses** (Time, Cause, Contrast, Condition)
-* **Reduced Clauses** (V-ing, Having + V3)
+* **Dependent Clauses** (*Time, Cause, Contrast, Condition*)
+* **Reduced Clauses** (*V-ing, Having + V3*)
 
-This module explains how sentence structures are formed and how ideas are logically connected.
+This module explains how sentences are formed and how ideas are logically connected.
 
 ---
 
-### 3. Punctuation
+### **3. Punctuation**
 
 * Comma (,), Semicolon (;)
 * Colon (:), Period (.)
 * Functional usage in lists, clauses, and sentence boundaries
 
-Punctuation ensures clarity, separation, and coherence in writing.
+Punctuation ensures *clarity, separation, and coherence* in writing.
 
 ---
 
-### 4. Conjunctions
+### **4. Conjunctions**
 
-* **Coordinating:** FANBOYS (For, And, Nor, But, Or, Yet, So)
-* **Subordinating:** because, if, and related forms
+* **Coordinating:** *FANBOYS* (For, And, Nor, But, Or, Yet, So)
+* **Subordinating:** *because, if,* and related forms
 
-Conjunctions define relationships between ideas and connect sentence elements.
+Conjunctions connect ideas and define relationships between sentence elements.
 
 ---
 
-### 5. Discourse Elements
+### **5. Discourse Elements**
 
-* Transitions (Addition, Contrast)
+* Transitions (*Addition, Contrast*)
 * Cause and Effect expressions
 * Example structures
 
-These elements improve coherence and flow in extended writing.
+These elements improve *coherence and flow* in extended writing.
 
 ---
 
-## Project Structure
+## **Project Structure**
 
 ```plaintext
 /project-root
@@ -112,28 +107,28 @@ These elements improve coherence and flow in extended writing.
 
 ---
 
-## Design Approach
+## **Design Approach**
 
-* Visual-first learning through a **Graphic Organizer model**
-* Modular expansion of each grammar component
+* Visual-first learning through a *Graphic Organizer model*
+* Modular expansion of grammar components
 * Centralized data handling via `data.js`
-* Consistent UI through shared styling
+* Consistent interface through shared styling
 
 ---
 
-## Purpose
+## **Purpose**
 
 This repository is designed to:
 
-* Support and extend the **Graphic Organizer Chart/Web**
+* Support and extend the *Graphic Organizer Chart/Web*
 * Provide structured explanations of grammar concepts
 * Enable scalable expansion (rules, examples, exercises)
 * Demonstrate organized knowledge representation using front-end technologies
 
 ---
 
-## Disclaimer
+## **Disclaimer**
 
-This repository functions as a **supporting implementation of an official Graphic Organizer Chart/Web** based on academic coursework. It is intended for educational use and does not independently confer certification or institutional endorsement.
+This repository is provided as a supporting graphical reference aligned with an official *Graphic Organizer Chart/Web* derived from academic coursework. It is an independently developed implementation intended to illustrate and extend the underlying concepts and does not represent an official institutional deliverable or endorsement.
 
 ---
