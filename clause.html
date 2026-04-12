@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Clause Structures</title>
+  <link rel="stylesheet" href="shared.css" />
+  <script src="data.js"></script>
+</head>
+<body>
+  <div class="page">
+    <div class="project-header">
+      <h1>Advanced Grammar &amp; Punctuation Project</h1>
+      <h2>University of California, Irvine</h2>
+      <p class="program">International Programs</p>
+      <p class="platform">Offered through Coursera</p>  
+      <p class="platform">Instructors: Emily Ellis - Nicole Jacobs - Brad Gilpin - Tamy Chapman</p>
+    </div>
+
+    <div class="topbar">
+      <h3>Clause Structures</h3>
+      <div class="nav-links">
+        <a class="nav-link" href="index.html">Diagram</a>
+        <a class="nav-link" href="tense.html">Tenses</a>
+        <a class="nav-link active" href="clause.html">Clause Structures</a>
+        <a class="nav-link" href="punctuation.html">Punctuation</a>
+        <a class="nav-link" href="conjunction.html">Conjunctions</a>
+        <a class="nav-link" href="transitions.html">Transitions</a>
+      </div>
+    </div>
+
+    <div class="card-grid">
+      <div class="card">
+        <div class="badges"><span class="badge badge-green">Independent Clause</span></div>
+        <h4>Topics</h4>
+        <ul id="independentList"></ul>
+      </div>
+
+      <div class="card">
+        <div class="badges"><span class="badge badge-green">Dependent Clause</span></div>
+        <h4>Topics</h4>
+        <ul id="dependentList"></ul>
+      </div>
+    </div>
+
+    <div class="grid-2" style="margin-top:18px; margin-bottom:18px;">
+      <div class="panel">
+        <h3 class="section-title">Interpretation 1</h3>
+        <div class="info-grid">
+          <div class="info-box">
+            <h4>Independent Clause</h4>
+            <div class="content">An independent clause is a complete grammatical unit that expresses a full idea and can stand alone as a sentence. Independent clauses act as the structural backbone of English sentences, while dependent and reduced clauses expand meaning, detail, and relationships.
+            </div>
+          </div>
+          
+          <div class="info-box">
+            <h4>Dependent Clause</h4>
+            <div class="content">A dependent clause is a group of words that contains a subject and a verb but cannot stand alone as a complete sentence. Dependent clauses add depth, logic, and connection to sentences, but they always rely on an independent clause to complete the meaning.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel">
+        <h3 class="section-title">Interpretation 2</h3>
+        <div class="info-grid">
+          <div class="info-box">
+            <h4>Independent Clause</h4>
+            <div class="content">Independent clauses function as the core structure of a sentence. They carry the main message and can form complete sentences on their own. Other elements, such as dependent and reduced clauses, attach to them to expand meaning and provide additional detail.
+            </div>
+          </div>
+          
+          <div class="info-box">
+            <h4>Dependent Clause</h4>
+            <div class="content">Dependent clauses function as supporting elements in a sentence. They cannot stand alone and must connect to an independent clause to express complete meaning. They help show relationships such as time, cause, contrast, and condition.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+      <div class="topbar">
+      <h3>Clause Structures</h3>
+      <div class="nav-links">
+        <a class="nav-link" href="index.html">Diagram</a>
+        <a class="nav-link" href="tense.html">Tenses</a>
+        <a class="nav-link active" href="clause.html">Clause Structures</a>
+        <a class="nav-link" href="punctuation.html">Punctuation</a>
+        <a class="nav-link" href="conjunction.html">Conjunctions</a>
+        <a class="nav-link" href="transitions.html">Transitions</a>
+      </div>
+    </div>
+
+  <script>
+    document.getElementById('independentList').innerHTML = grammarData.clauses.independent.map(item => `<li>${item}</li>`).join('');
+    document.getElementById('dependentList').innerHTML = grammarData.clauses.dependent.map(item => `<li>${item}</li>`).join('');
+  </script>
+  </div>
+
+</body>
+</html>

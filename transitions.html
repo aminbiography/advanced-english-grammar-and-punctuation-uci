@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Transitions</title>
+  <link rel="stylesheet" href="shared.css" />
+  <script src="data.js"></script>
+</head>
+<body>
+  <div class="page">
+    <div class="project-header">
+      <h1>Advanced Grammar &amp; Punctuation Project</h1>
+      <h2>University of California, Irvine</h2>
+      <p class="program">International Programs</p>
+      <p class="platform">Offered through Coursera</p>  
+      <p class="platform">Instructors: Emily Ellis - Nicole Jacobs - Brad Gilpin - Tamy Chapman</p>
+    </div>
+
+    <div class="topbar">
+      <h3>Transitions</h3>
+      <div class="nav-links">
+        <a class="nav-link" href="index.html">Diagram</a>
+        <a class="nav-link" href="tense.html">Tenses</a>
+        <a class="nav-link" href="clause.html">Clause Structures</a>
+        <a class="nav-link" href="punctuation.html">Punctuation</a>
+        <a class="nav-link" href="conjunction.html">Conjunctions</a>
+        <a class="nav-link active" href="transitions.html">Transitions</a>
+      </div>
+    </div>
+
+    <div class="card-grid" style="margin-bottom: 18px;">
+      <div class="card" id="transitions"><div class="badges"><span class="badge badge-blue">Transitions</span></div><ul id="trans1"></ul><hr /><ul id="trans2"></ul></div>
+      <div class="card" id="contrast"><div class="badges"><span class="badge badge-purple">Contrast</span></div><ul id="contrastList"></ul></div>
+      <div class="card" id="cause-effect"><div class="badges"><span class="badge badge-blue">Cause/Effect</span></div><ul id="causeList"></ul></div>
+      <div class="card" id="example"><div class="badges"><span class="badge badge-blue">Example</span></div><ul id="exampleList"></ul></div>
+    </div>
+
+     <div class="topbar">
+      <h3>Transitions</h3>
+      <div class="nav-links">
+        <a class="nav-link" href="index.html">Diagram</a>
+        <a class="nav-link" href="tense.html">Tenses</a>
+        <a class="nav-link" href="clause.html">Clause Structures</a>
+        <a class="nav-link" href="punctuation.html">Punctuation</a>
+        <a class="nav-link" href="conjunction.html">Conjunctions</a>
+        <a class="nav-link active" href="transitions.html">Transitions</a>
+      </div>
+    </div>
+
+  </div>
+  <script>
+    document.getElementById('trans1').innerHTML = grammarData.transitions.transitions1.map(item => `<li>${item}</li>`).join('');
+    document.getElementById('trans2').innerHTML = grammarData.transitions.transitions2.map(item => `<li>${item}</li>`).join('');
+    document.getElementById('contrastList').innerHTML = grammarData.transitions.contrast.map(item => `<li>${item}</li>`).join('');
+    document.getElementById('causeList').innerHTML = grammarData.transitions.causeEffect.map(item => `<li>${item}</li>`).join('');
+    document.getElementById('exampleList').innerHTML = grammarData.transitions.example.map(item => `<li>${item}</li>`).join('');
+  </script>
+</body>
+</html>

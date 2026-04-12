@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Conjunctions</title>
+  <link rel="stylesheet" href="shared.css" />
+  <script src="data.js"></script>
+</head>
+<body>
+  <div class="page">
+    <div class="project-header">
+      <h1>Advanced Grammar &amp; Punctuation Project</h1>
+      <h2>University of California, Irvine</h2>
+      <p class="program">International Programs</p>
+      <p class="platform">Offered through Coursera</p>  
+      <p class="platform">Instructors: Emily Ellis - Nicole Jacobs - Brad Gilpin - Tamy Chapman</p>
+    </div>
+
+    <div class="topbar">
+      <h3>Conjunctions</h3><div class="nav-links">
+        <a class="nav-link" href="index.html">Diagram</a>
+        <a class="nav-link" href="tense.html">Tenses</a>
+        <a class="nav-link" href="clause.html">Clause Structures</a>
+        <a class="nav-link" href="punctuation.html">Punctuation</a>
+        <a class="nav-link active" href="conjunction.html">Conjunctions</a>
+        <a class="nav-link" href="transitions.html">Transitions</a>
+      </div>
+    </div>
+
+    <div class="card-grid">
+      <div class="card">
+        <div class="badges"><span class="badge badge-purple">FANBOYS</span>
+        </div>
+        <ul id="fanboysList"></ul>
+      </div>
+
+      <div class="card">
+        <div class="badges">
+          <span class="badge badge-purple">Subordinating</span>
+        </div>
+        <ul id="subList"></ul>
+      </div>
+    </div>
+
+    <div class="panel" style="margin-top:18px; margin-bottom: 18px;">
+      <h3 class="section-title">Use in Sentences and Writing</h3>
+      <div class="info-box">
+        <div class="content">Conjunctions connect words, phrases, and clauses to form clear, logical relationships in sentences and written communication. Coordinating conjunctions (FANBOYS) join equal elements such as independent clauses, while subordinating conjunctions introduce dependent clauses to express relationships like cause, condition, time, and contrast. Together, they improve sentence flow, coherence, and overall clarity in writing.
+        </div>
+      </div>
+    </div>
+
+      <div class="topbar">
+      <h3>Conjunctions</h3><div class="nav-links">
+        <a class="nav-link" href="index.html">Diagram</a>
+        <a class="nav-link" href="tense.html">Tenses</a>
+        <a class="nav-link" href="clause.html">Clause Structures</a>
+        <a class="nav-link" href="punctuation.html">Punctuation</a>
+        <a class="nav-link active" href="conjunction.html">Conjunctions</a>
+        <a class="nav-link" href="transitions.html">Transitions</a>
+      </div>
+    </div>
+
+  </div>
+  <script>
+    document.getElementById('fanboysList').innerHTML = grammarData.conjunctions.fanboys.map(item => `<li>${item}</li>`).join('');
+    document.getElementById('subList').innerHTML = grammarData.conjunctions.subordinating.map(item => `<li>${item}</li>`).join('');
+  </script>
+</body>
+</html>

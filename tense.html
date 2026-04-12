@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Verb Tenses</title>
+  <link rel="stylesheet" href="shared.css" />
+  <script src="data.js"></script>
+</head>
+<body>
+  <div class="page">
+    <div class="project-header">
+      <h1>Advanced Grammar &amp; Punctuation Project</h1>
+      <h2>University of California, Irvine</h2>
+      <p class="program">International Programs</p>
+      <p class="platform">Offered through Coursera</p>  
+      <p class="platform">Instructors: Emily Ellis - Nicole Jacobs - Brad Gilpin - Tamy Chapman</p>
+    </div>
+
+    <div class="topbar">
+      <h3>Verb Tenses</h3>
+      <div class="nav-links">
+        <a class="nav-link" href="index.html">Diagram</a>
+        <a class="nav-link active" href="tense.html">Tenses</a>
+        <a class="nav-link" href="clause.html">Clause Structures</a>
+        <a class="nav-link" href="punctuation.html">Punctuation</a>
+        <a class="nav-link" href="conjunction.html">Conjunctions</a>
+        <a class="nav-link" href="transitions.html">Transitions</a>
+      </div>
+    </div>
+
+    <div class="panel">
+      <div class="controls">
+        <div class="field">
+          <label for="timeSelect">Choose Time</label>
+          <select id="timeSelect"></select>
+        </div>
+        <div class="field">
+          <label for="aspectSelect">Choose Aspect</label>
+          <select id="aspectSelect"></select>
+        </div>
+        <div class="field">
+          <label>Actions</label>
+          <div style="display:flex; gap:10px; flex-wrap:wrap;">
+            <button class="btn btn-primary" id="randomBtn" type="button">Random Tense</button>
+            <button class="btn btn-secondary" id="resetBtn" type="button">Reset</button>
+          </div>
+        </div>
+      </div>
+      <div class="quick-grid" id="quickGrid"></div>
+    </div>
+
+    <div class="grid-2" style="margin-top:18px; margin-bottom:18px;">
+      <div class="panel">
+        <div id="heroCard" class="hero">
+          <div class="badges">
+            <span class="badge badge-blue" id="timeBadge">Past</span>
+            <span class="badge badge-purple" id="aspectBadge">Simple</span>
+          </div>
+          <h3 id="tenseName" style="margin:0 0 8px; font-size:32px; color:#203a6f;">Simple Past</h3>
+          <p id="coreFunction" style="margin:0; color:#4b5563;">Completed action at a definite past time.</p>
+        </div>
+        <div class="info-grid" style="margin-top:16px;">
+          <div class="info-box"><h4>Tense Verb Phrase</h4><div class="content" id="verbPhrase"></div></div>
+          <div class="info-box"><h4>Complete Professional Sentence Pattern</h4><div class="content" id="sentencePattern"></div></div>
+          <div class="info-box"><h4>Professional Example</h4><div class="content" id="exampleSentence"></div></div>
+        </div>
+      </div>
+      <div class="panel">
+        <h3 class="section-title">Tense Structure</h3>
+        <div class="info-grid">
+          <div class="info-box"><h4>Time</h4><div class="content">Past, Present, Future</div></div>
+          <div class="info-box"><h4>Aspect</h4><div class="content">Simple, Progressive, Perfect, Perfect Progressive</div></div>
+          <div class="info-box"><h4>Formula</h4><div class="content">Time + Aspect = Tense Form</div></div>
+          <div class="info-box"><h4>Note</h4><div class="content">Tense is formed by combining time (past, present, future) with aspect (simple, progressive, perfect, perfect progressive). This structure allows speakers to express not only when an action occurs, but also whether it is ongoing, completed, or connected to another point in time.
+          </div>
+        </div>
+        </div>
+      </div>
+    </div>
+
+      <div class="topbar">
+      <h3>Verb Tenses</h3>
+      <div class="nav-links">
+        <a class="nav-link" href="index.html">Diagram</a>
+        <a class="nav-link active" href="tense.html">Tenses</a>
+        <a class="nav-link" href="clause.html">Clause Structures</a>
+        <a class="nav-link" href="punctuation.html">Punctuation</a>
+        <a class="nav-link" href="conjunction.html">Conjunctions</a>
+        <a class="nav-link" href="transitions.html">Transitions</a>
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+    const tenseData = grammarData.tenses;
+    const timeSelect = document.getElementById("timeSelect");
+    const aspectSelect = document.getElementById("aspectSelect");
+    const quickGrid = document.getElementById("quickGrid");
+    const timeBadge = document.getElementById("timeBadge");
+    const aspectBadge = document.getElementById("aspectBadge");
+    const tenseName = document.getElementById("tenseName");
+    const coreFunction = document.getElementById("coreFunction");
+    const verbPhrase = document.getElementById("verbPhrase");
+    const sentencePattern = document.getElementById("sentencePattern");
+    const exampleSentence = document.getElementById("exampleSentence");
+    const heroCard = document.getElementById("heroCard");
+    const randomBtn = document.getElementById("randomBtn");
+    const resetBtn = document.getElementById("resetBtn");
+    const timeOrder = Object.keys(tenseData);
+    const aspectOrder = ["Simple", "Progressive", "Perfect", "Perfect Progressive"];
+    function getQueryParam(param) { return new URLSearchParams(window.location.search).get(param); }
+    function populateTimes() {
+      timeSelect.innerHTML = timeOrder.map(time => `<option value="${time}">${time}</option>`).join("");
+    }
+    function populateAspects(selectedTime) {
+      aspectSelect.innerHTML = aspectOrder.filter(aspect => tenseData[selectedTime][aspect]).map(aspect => `<option value="${aspect}">${aspect}</option>`).join("");
+    }
+    function updateTone(time) {
+      let bg = "#dbeafe";
+      if (time === "Present") bg = "#dcfce7";
+      if (time === "Future") bg = "#ffedd5";
+      heroCard.style.background = `linear-gradient(135deg, #ffffff 0%, ${bg} 100%)`;
+    }
+    function updateDisplay(time, aspect) {
+      const item = tenseData[time][aspect];
+      timeBadge.textContent = time;
+      aspectBadge.textContent = aspect;
+      tenseName.textContent = item.name;
+      coreFunction.textContent = item.coreFunction;
+      verbPhrase.textContent = item.verbPhrase;
+      sentencePattern.textContent = item.sentencePattern;
+      exampleSentence.textContent = item.example;
+      updateTone(time);
+    }
+    function buildQuickGrid() {
+      quickGrid.innerHTML = timeOrder.map(time => `
+        <div class="quick-card">
+          <h4>${time}</h4>
+          <div class="chip-list">
+            ${aspectOrder.map(aspect => `<button class="chip" data-time="${time}" data-aspect="${aspect}">${aspect}</button>`).join("")}
+          </div>
+        </div>
+      `).join("");
+      quickGrid.querySelectorAll('.chip').forEach(chip => {
+        chip.addEventListener('click', () => {
+          const { time, aspect } = chip.dataset;
+          timeSelect.value = time;
+          populateAspects(time);
+          aspectSelect.value = aspect;
+          updateDisplay(time, aspect);
+        });
+      });
+    }
+    function syncFromControls() { updateDisplay(timeSelect.value, aspectSelect.value); }
+    timeSelect.addEventListener('change', () => { populateAspects(timeSelect.value); aspectSelect.value = 'Simple'; syncFromControls(); });
+    aspectSelect.addEventListener('change', syncFromControls);
+    randomBtn.addEventListener('click', () => {
+      const randomTime = timeOrder[Math.floor(Math.random() * timeOrder.length)];
+      const randomAspect = aspectOrder[Math.floor(Math.random() * aspectOrder.length)];
+      timeSelect.value = randomTime; populateAspects(randomTime); aspectSelect.value = randomAspect; updateDisplay(randomTime, randomAspect);
+    });
+    resetBtn.addEventListener('click', () => { timeSelect.value = 'Past'; populateAspects('Past'); aspectSelect.value = 'Simple'; updateDisplay('Past', 'Simple'); });
+    function init() {
+      populateTimes();
+      const urlTime = getQueryParam('time');
+      const initialTime = urlTime && tenseData[urlTime] ? urlTime : 'Past';
+      timeSelect.value = initialTime; populateAspects(initialTime); aspectSelect.value = 'Simple'; buildQuickGrid(); updateDisplay(initialTime, 'Simple');
+    }
+    init();
+  </script>
+</body>
+</html>

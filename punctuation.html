@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Punctuation</title>
+  <link rel="stylesheet" href="shared.css" />
+  <script src="data.js"></script>
+</head>
+<body>
+  <div class="page">
+    <div class="project-header">
+      <h1>Advanced Grammar &amp; Punctuation Project</h1>
+      <h2>University of California, Irvine</h2>
+      <p class="program">International Programs</p>
+      <p class="platform">Offered through Coursera</p>  
+      <p class="platform">Instructors: Emily Ellis - Nicole Jacobs - Brad Gilpin - Tamy Chapman</p>
+    </div>
+    
+    <div class="topbar">
+      <h3>Punctuation</h3>
+      <div class="nav-links">
+        <a class="nav-link" href="index.html">Diagram</a>
+        <a class="nav-link" href="tense.html">Tenses</a>
+        <a class="nav-link" href="clause.html">Clause Structures</a>
+        <a class="nav-link active" href="punctuation.html">Punctuation</a>
+        <a class="nav-link" href="conjunction.html">Conjunctions</a>
+        <a class="nav-link" href="transitions.html">Transitions</a>
+      </div>
+    </div>
+
+      <div class="card-grid" id="punctGrid"></div>
+      <div class="panel" style="margin-top:18px; margin-bottom:18px;">
+        <h3 class="section-title">Use in Sentences and Writing</h3>
+        <div class="info-box"><div class="content">Punctuation marks control clarity, structure, and meaning in sentences and written communication. They help separate ideas, connect clauses, and organize information so that writing is clear, precise, and easy to understand.
+        </div>
+      </div>
+    </div>
+
+
+      <div class="topbar">
+      <h3>Punctuation</h3>
+      <div class="nav-links">
+        <a class="nav-link" href="index.html">Diagram</a>
+        <a class="nav-link" href="tense.html">Tenses</a>
+        <a class="nav-link" href="clause.html">Clause Structures</a>
+        <a class="nav-link active" href="punctuation.html">Punctuation</a>
+        <a class="nav-link" href="conjunction.html">Conjunctions</a>
+        <a class="nav-link" href="transitions.html">Transitions</a>
+      </div>
+    </div>
+
+  </div>
+
+
+  <script>
+    const items = [grammarData.punctuation.box1, grammarData.punctuation.box2, grammarData.punctuation.box3, grammarData.punctuation.box4];
+    document.getElementById('punctGrid').innerHTML = items.map((set, i) => `
+      <div class="card">
+        <div class="badges"><span class="badge badge-orange">Punctuation Block ${i + 1}</span></div>
+        <ul>${set.map(item => `<li>${item}</li>`).join('')}</ul>
+      </div>
+    `).join('');
+  </script>
+</body>
+</html>

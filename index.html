@@ -3,10 +3,14 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>English Grammar System</title>
+  <title>Advanced Grammar &amp; Punctuation Project</title>
   <style>
     * {
       box-sizing: border-box;
+    }
+
+    :root {
+      --diagram-scale: 1;
     }
 
     body {
@@ -16,19 +20,20 @@
       color: #1f2f4a;
     }
 
-    .board {
-      position: relative;
-      width: 1536px;
-      height: 1160px;
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    .page {
+      width: 100%;
       margin: 0 auto;
-      background: #ededed;
-      overflow: hidden;
+      padding: 20px 16px 40px;
     }
 
     .project-header {
-      height: 150px;
-      padding-top: 20px;
       text-align: center;
+      margin-bottom: 18px;
     }
 
     .project-header h1 {
@@ -42,7 +47,7 @@
       margin: 8px 0 0;
       font-size: 22px;
       font-weight: 600;
-      color: #e38b33;;
+      color: #e38b33;
     }
 
     .project-header .program {
@@ -58,10 +63,171 @@
       color: #4a6fa5;
     }
 
-    .diagram-area {
+    .top-nav-panel,
+    .diagram-panel,
+    .details-card {
+      background: #fff;
+      border: 1px solid #d6dce8;
+      border-radius: 20px;
+      padding: 18px;
+      box-shadow: 0 10px 28px rgba(15, 23, 42, 0.06);
+    }
+
+    .top-nav-panel {
+      width: min(1700px, 100%);
+      margin: 0 auto 18px;
+    }
+
+    .top-nav {
+      display: grid;
+      grid-template-columns: minmax(180px, 1fr) auto;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .top-nav-title {
+      margin: 0;
+      font-size: 24px;
+      color: #8f63c0;
+    }
+
+    .nav-links {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      justify-content: flex-end;
+    }
+
+    .nav-link {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 42px;
+      padding: 10px 16px;
+      border-radius: 12px;
+      border: 1px solid #cfd8ea;
+      background: #fff;
+      font-weight: 700;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
+      transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
+    }
+
+    .nav-link:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 8px 18px rgba(15, 23, 42, 0.08);
+      border-color: #8eb0f0;
+    }
+
+    .nav-link.active {
+      background: #eef4ff;
+      border-color: #79a2ea;
+      color: #224d95;
+    }
+
+    .workspace {
+      width: min(1700px, 100%);
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 300px;
+      gap: 18px;
+      align-items: start;
+    }
+
+    .diagram-panel {
+      overflow: visible;
+      min-width: 0;
+    }
+
+    .diagram-wrap {
+      width: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: flex-start;
+      overflow: hidden;
+      min-height: 200px;
+    }
+
+    .diagram-scale-box {
       position: relative;
+      width: calc(1536px * var(--diagram-scale));
+      height: calc(1245px * var(--diagram-scale));
+      flex: 0 0 auto;
+    }
+
+    .diagram-board {
+      position: absolute;
       top: 0;
       left: 0;
+      width: 1536px;
+      height: 1245px;
+      background: #ededed;
+      overflow: hidden;
+      transform: scale(var(--diagram-scale));
+      transform-origin: top left;
+      transition: transform 0.2s ease;
+    }
+
+    .details-panel {
+      position: sticky;
+      top: 20px;
+    }
+
+    .details-card h3 {
+      margin: 0 0 8px;
+      font-size: 24px;
+      color: #203a6f;
+    }
+
+    .details-badge {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 32px;
+      padding: 6px 12px;
+      border-radius: 999px;
+      font-size: 13px;
+      font-weight: 700;
+      margin-bottom: 12px;
+      color: #fff;
+    }
+
+    .badge-purple { background: #8f63c0; }
+    .badge-blue { background: #4b87cc; }
+    .badge-green { background: #56a15e; }
+    .badge-orange { background: #df8a33; }
+    .badge-cyan { background: #3ca6bc; }
+
+    .details-card p {
+      margin: 0 0 12px;
+      line-height: 1.6;
+      color: #334155;
+    }
+
+    .details-card ul {
+      margin: 0;
+      padding-left: 20px;
+      line-height: 1.7;
+    }
+
+    .details-card li {
+      margin: 4px 0;
+    }
+
+    .detail-section {
+      border-top: 1px solid #e2e8f0;
+      margin-top: 14px;
+      padding-top: 14px;
+    }
+
+    .detail-section h4 {
+      margin: 0 0 10px;
+      color: #274278;
+      font-size: 16px;
+    }
+
+    .hint {
+      font-size: 14px;
+      color: #64748b;
     }
 
     .node {
@@ -88,7 +254,7 @@
       padding: 10px 28px;
       min-height: 52px;
       border-radius: 14px;
-      color: #ffffff;
+      color: #fff;
       font-weight: 700;
       font-size: 22px;
       line-height: 1;
@@ -97,6 +263,7 @@
       box-shadow:
         inset 0 1px 0 rgba(255,255,255,0.35),
         0 1px 2px rgba(0,0,0,0.08);
+      transition: transform 0.18s ease, box-shadow 0.18s ease, filter 0.18s ease;
     }
 
     .pill.small {
@@ -137,32 +304,15 @@
       box-shadow: inset 0 1px 0 rgba(255,255,255,0.45);
       font-size: 16px;
       line-height: 1.45;
+      transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease, filter 0.18s ease;
+      border: 2px solid transparent;
     }
 
-    .blue-box {
-      background: #dbe4ef;
-      color: #202f49;
-    }
-
-    .green-box {
-      background: #dde4db;
-      color: #223628;
-    }
-
-    .orange-box {
-      background: #f1e0d1;
-      color: #53331f;
-    }
-
-    .purple-box {
-      background: #ddd2e8;
-      color: #3f3154;
-    }
-
-    .cyan-box {
-      background: #d9e9ee;
-      color: #21434f;
-    }
+    .blue-box { background: #dbe4ef; color: #202f49; }
+    .green-box { background: #dde4db; color: #223628; }
+    .orange-box { background: #f1e0d1; color: #53331f; }
+    .purple-box { background: #ddd2e8; color: #3f3154; }
+    .cyan-box { background: #d9e9ee; color: #21434f; }
 
     .box ul {
       margin: 0;
@@ -202,341 +352,665 @@
       box-shadow: inset 0 1px 0 rgba(255,255,255,0.5);
     }
 
-    /* Top title and line */
+    .interactive {
+      cursor: pointer;
+    }
+
+    .interactive:hover .pill,
+    .interactive:hover .box {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 18px rgba(15,23,42,0.12);
+      filter: brightness(1.01);
+    }
+
+    .interactive.active .pill,
+    .interactive.active .box {
+      transform: translateY(-2px);
+      box-shadow: 0 10px 18px rgba(15,23,42,0.14);
+      outline: 3px solid rgba(74, 111, 165, 0.22);
+      outline-offset: 2px;
+    }
+
     .verb-title { top: 48px; left: 647px; }
     .top-v { top: 101px; left: 766px; width: 4px; height: 16px; }
-    .top-h { top: 115px; left: 373px; width: 675px; height: 4px; }
-
-    .drop-past { top: 115px; left: 373px; width: 4px; height: 22px; }
-    .drop-present { top: 115px; left: 647px; width: 4px; height: 22px; }
+    .top-h { top: 115px; left: 360px; width: 690px; height: 4px; }
+    .drop-past { top: 115px; left: 360px; width: 4px; height: 22px; }
+    .drop-present { top: 115px; left: 649px; width: 4px; height: 22px; }
     .drop-future { top: 115px; left: 1046px; width: 4px; height: 22px; }
 
-    .past-title { top: 141px; left: 298px; }
+    .past-title { top: 141px; left: 292px; }
     .present-title { top: 141px; left: 567px; }
     .future-title { top: 141px; left: 973px; }
 
-    .past-box { top: 198px; left: 257px; width: 252px; min-height: 124px; }
-    .present-box { top: 198px; left: 530px; width: 210px; min-height: 126px; }
-    .future-box { top: 198px; left: 959px; width: 202px; min-height: 89px; }
+    .past-box { top: 198px; left: 230px; width: 290px; min-height: 170px; }
+    .present-box { top: 198px; left: 515px; width: 290px; min-height: 170px; }
+    .future-box { top: 198px; left: 922px; width: 300px; min-height: 170px; }
 
-    .past-down { top: 330px; left: 379px; width: 4px; height: 58px; }
-    .present-down { top: 329px; left: 675px; width: 4px; height: 60px; }
-    .future-down { top: 287px; left: 1060px; width: 4px; height: 101px; }
+    .past-down { top: 368px; left: 379px; width: 4px; height: 58px; }
+    .present-down { top: 368px; left: 675px; width: 4px; height: 58px; }
+    .future-down { top: 368px; left: 1060px; width: 4px; height: 58px; }
 
-    .top-bottom-h { top: 387px; left: 379px; width: 683px; height: 4px; }
-    .to-center-left { top: 387px; left: 744px; width: 4px; height: 40px; }
-    .to-center-right { top: 387px; left: 784px; width: 4px; height: 40px; }
+    .top-bottom-h { top: 425px; left: 379px; width: 683px; height: 4px; }
+    .to-center-left { top: 425px; left: 744px; width: 4px; height: 40px; }
+    .to-center-right { top: 425px; left: 784px; width: 4px; height: 40px; }
 
-    /* Left clause */
-    .clause-title { top: 387px; left: 84px; }
-    .clause-line { top: 423px; left: 323px; width: 233px; height: 3px; }
+    .clause-title { top: 425px; left: 84px; }
+    .clause-line { top: 461px; left: 323px; width: 233px; height: 3px; }
 
-    .independent-box { top: 459px; left: 50px; width: 245px; min-height: 250px; }
-    .dependent-box { top: 459px; left: 307px; width: 243px; min-height: 222px; }
+    .independent-box { top: 497px; left: 50px; width: 245px; min-height: 250px; }
+    .dependent-box { top: 497px; left: 307px; width: 243px; min-height: 222px; }
 
-    /* Center */
-    .center-node { top: 405px; left: 577px; }
+    .center-node { top: 443px; left: 577px; }
 
-    /* Right punctuation */
-    .punct-title { top: 387px; left: 1151px; }
-    .punct-line { top: 423px; left: 947px; width: 205px; height: 3px; }
+    .punct-title { top: 425px; left: 1151px; }
+    .punct-line { top: 461px; left: 947px; width: 205px; height: 3px; }
 
-    .punct-box-1 { top: 460px; left: 960px; width: 205px; min-height: 80px; }
-    .punct-box-2 { top: 458px; left: 1178px; width: 304px; min-height: 82px; }
-    .punct-box-3 { top: 549px; left: 960px; width: 203px; min-height: 76px; }
-    .punct-box-4 { top: 549px; left: 1178px; width: 304px; min-height: 76px; }
+    .punct-box-1 { top: 498px; left: 960px; width: 205px; min-height: 80px; }
+    .punct-box-2 { top: 496px; left: 1178px; width: 304px; min-height: 82px; }
+    .punct-box-3 { top: 587px; left: 960px; width: 203px; min-height: 76px; }
+    .punct-box-4 { top: 587px; left: 1178px; width: 304px; min-height: 76px; }
 
-    /* Down to conjunctions */
-    .main-down-purple { top: 525px; left: 746px; width: 4px; height: 72px; }
-    .main-down-cyan { top: 525px; left: 783px; width: 4px; height: 72px; }
+    .main-down-purple { top: 563px; left: 746px; width: 4px; height: 72px; }
+    .main-down-cyan { top: 563px; left: 783px; width: 4px; height: 72px; }
 
-    /* Conjunctions */
-    .conj-title { top: 596px; left: 646px; }
-    .fanboys-box { top: 662px; left: 566px; width: 193px; min-height: 112px; }
-    .subordinating-box { top: 662px; left: 778px; width: 193px; min-height: 112px; }
+    .conj-title { top: 634px; left: 646px; }
+    .fanboys-box { top: 700px; left: 566px; width: 193px; min-height: 112px; }
+    .subordinating-box { top: 700px; left: 778px; width: 193px; min-height: 112px; }
 
-    /* Bottom branch */
-    .bottom-v-left { top: 774px; left: 747px; width: 3px; height: 24px; }
-    .bottom-v-right { top: 774px; left: 784px; width: 3px; height: 24px; }
-    .bottom-h { top: 796px; left: 351px; width: 831px; height: 3px; }
+    .bottom-v-left { top: 812px; left: 747px; width: 3px; height: 24px; }
+    .bottom-v-right { top: 812px; left: 784px; width: 3px; height: 24px; }
+    .bottom-h { top: 834px; left: 351px; width: 831px; height: 3px; }
+    .bottom-drop-1 { top: 834px; left: 350px; width: 3px; height: 29px; }
+    .bottom-drop-2 { top: 834px; left: 649px; width: 3px; height: 29px; }
+    .bottom-drop-3 { top: 834px; left: 875px; width: 3px; height: 29px; }
+    .bottom-drop-4 { top: 834px; left: 1179px; width: 3px; height: 29px; }
 
-    .bottom-drop-1 { top: 796px; left: 350px; width: 3px; height: 29px; }
-    .bottom-drop-2 { top: 796px; left: 649px; width: 3px; height: 29px; }
-    .bottom-drop-3 { top: 796px; left: 875px; width: 3px; height: 29px; }
-    .bottom-drop-4 { top: 796px; left: 1179px; width: 3px; height: 29px; }
+    .trans-title { top: 866px; left: 227px; }
+    .contrast-title { top: 866px; left: 540px; }
+    .cause-title { top: 866px; left: 784px; }
+    .example-title { top: 866px; left: 1075px; }
 
-    .trans-title { top: 828px; left: 227px; }
-    .contrast-title { top: 828px; left: 540px; }
-    .cause-title { top: 828px; left: 784px; }
-    .example-title { top: 828px; left: 1075px; }
+    .trans-box-1 { top: 924px; left: 161px; width: 173px; min-height: 115px; }
+    .trans-box-2 { top: 924px; left: 349px; width: 139px; min-height: 115px; }
+    .contrast-box { top: 922px; left: 512px; width: 248px; min-height: 112px; }
+    .cause-box { top: 924px; left: 773px; width: 247px; min-height: 114px; }
+    .example-box { top: 924px; left: 1045px; width: 275px; min-height: 115px; }
 
-    .trans-box-1 { top: 886px; left: 161px; width: 173px; min-height: 115px; }
-    .trans-box-2 { top: 886px; left: 349px; width: 139px; min-height: 115px; }
-    .contrast-box { top: 884px; left: 512px; width: 248px; min-height: 112px; }
-    .cause-box { top: 886px; left: 773px; width: 247px; min-height: 114px; }
-    .example-box { top: 886px; left: 1045px; width: 275px; min-height: 115px; }
+    @media (max-width: 1200px) {
+      .workspace {
+        grid-template-columns: 1fr;
+      }
 
-    @media (max-width: 1560px) {
-      body {
-        overflow-x: auto;
+      .details-panel {
+        position: static;
+      }
+    }
+
+    @media (max-width: 1100px) {
+      .top-nav {
+        grid-template-columns: 1fr;
+      }
+
+      .nav-links {
+        justify-content: flex-start;
+      }
+    }
+
+    @media (max-width: 780px) {
+      .page {
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+
+      .project-header h1 {
+        font-size: 24px;
+      }
+
+      .project-header h2 {
+        font-size: 20px;
       }
     }
   </style>
 </head>
-  <body>
-  <div class="board">
-
+<body>
+  <div class="page">
     <div class="project-header">
-      <h1>Advanced Grammar & Punctuation Project</h1>
+      <h1>Advanced Grammar &amp; Punctuation Project</h1>
       <h2>University of California, Irvine</h2>
       <p class="program">International Programs</p>
-      <p class="platform">Offered through Coursera</p>
+      <p class="platform">Offered through Coursera</p>  
+      <p class="platform">Instructors: Emily Ellis - Nicole Jacobs - Brad Gilpin - Tamy Chapman</p>
     </div>
 
-    <div class="diagram-area">
-
-      <!-- Top: Verb Tenses -->
-      <div class="node verb-title">
-        <div class="pill purple-pill">Verb Tenses</div>
+    <div class="top-nav-panel">
+      <div class="top-nav">
+        <h3 class="top-nav-title">Diagram</h3>
+        <div class="nav-links">
+          <a class="nav-link active" href="index.html">Diagram</a>
+          <a class="nav-link" href="tense.html">Tenses</a>
+          <a class="nav-link" href="clause.html">Clause Structures</a>
+          <a class="nav-link" href="punctuation.html">Punctuation</a>
+          <a class="nav-link" href="conjunction.html">Conjunctions</a>
+          <a class="nav-link" href="transitions.html">Transitions</a>
+        </div>
       </div>
+    </div>
 
-      <div class="line top-v"></div>
-      <div class="line top-h"></div>
-      <div class="line drop-past"></div>
-      <div class="line drop-present"></div>
-      <div class="line drop-future"></div>
+    <div class="workspace">
+      <div class="diagram-panel">
+        <div class="diagram-wrap">
+          <div class="diagram-scale-box">
+            <div class="diagram-board">
+              <div class="diagram-area">
+                <div class="node verb-title interactive" data-topic="verb-tenses">
+                  <div class="pill purple-pill">Verb Tenses</div>
+                </div>
 
-      <div class="node past-title">
-        <div class="pill small blue-pill">Past</div>
-      </div>
+                <div class="line top-v"></div>
+                <div class="line top-h"></div>
+                <div class="line drop-past"></div>
+                <div class="line drop-present"></div>
+                <div class="line drop-future"></div>
 
-      <div class="node present-title">
-        <div class="pill small blue-pill">Present</div>
-      </div>
+                <div class="node past-title interactive" data-topic="past">
+                  <div class="pill small blue-pill">Past</div>
+                </div>
 
-      <div class="node future-title">
-        <div class="pill small blue-pill">Future</div>
-      </div>
+                <div class="node present-title interactive" data-topic="present">
+                  <div class="pill small blue-pill">Present</div>
+                </div>
 
-      <div class="node past-box">
-        <div class="box blue-box">
-          <ul>
-            <li>Simple Past</li>
-            <li>Past Perfect</li>
-            <li>Past Progressive</li>
-          </ul>
+                <div class="node future-title interactive" data-topic="future">
+                  <div class="pill small blue-pill">Future</div>
+                </div>
+
+                <div class="node past-box interactive" data-topic="past">
+                  <div class="box blue-box">
+                    <ul>
+                      <li>Simple Past</li>
+                      <li>Past Progressive</li>
+                      <li>Past Perfect</li>
+                      <li>Past Perfect Progressive</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="node present-box interactive" data-topic="present">
+                  <div class="box blue-box">
+                    <ul>
+                      <li>Simple Present</li>
+                      <li>Present Progressive</li>
+                      <li>Present Perfect</li>
+                      <li>Present Perfect Progressive</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="node future-box interactive" data-topic="future">
+                  <div class="box blue-box">
+                    <ul>
+                      <li>Simple Future (will / going to)</li>
+                      <li>Future Progressive</li>
+                      <li>Future Perfect</li>
+                      <li>Future Perfect Progressive</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="line past-down"></div>
+                <div class="line present-down"></div>
+                <div class="line future-down"></div>
+                <div class="line top-bottom-h"></div>
+                <div class="line to-center-left"></div>
+                <div class="line to-center-right"></div>
+
+                <div class="node clause-title interactive" data-topic="clause-structures">
+                  <div class="pill green-pill">Clause Structures</div>
+                </div>
+
+                <div class="line green clause-line"></div>
+
+                <div class="node independent-box interactive" data-topic="independent-clause">
+                  <div class="box green-box">
+                    <span class="mini-label">Independent Clause</span>
+                    <ul>
+                      <li>Adverb Clauses</li>
+                      <li>Time</li>
+                      <li>Cause</li>
+                      <li>Condition</li>
+                      <li><strong>Reduced Clauses</strong></li>
+                      <li>V-ing</li>
+                      <li>Having + V3</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="node dependent-box interactive" data-topic="dependent-clause">
+                  <div class="box green-box">
+                    <span class="mini-label">Dependent Clause</span>
+                    <ul>
+                      <li>Time</li>
+                      <li>Cause</li>
+                      <li>Contrast</li>
+                      <li>Condition</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="node center-node">
+                  <div class="main-center">
+                    ENGLISH<br />
+                    GRAMMAR SYSTEM
+                  </div>
+                </div>
+
+                <div class="node punct-title interactive" data-topic="punctuation">
+                  <div class="pill orange-pill">Punctuation</div>
+                </div>
+
+                <div class="line orange punct-line"></div>
+
+                <div class="node punct-box-1 interactive" data-topic="punctuation-basic">
+                  <div class="box orange-box">
+                    <ul>
+                      <li>Comma</li>
+                      <li>Semicolon (;)</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="node punct-box-2 interactive" data-topic="punctuation-comma">
+                  <div class="box orange-box">
+                    <ul>
+                      <li>Comma</li>
+                      <li>Lists, clauses, FANBOYS</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="node punct-box-3 interactive" data-topic="punctuation-colon">
+                  <div class="box orange-box">
+                    <ul>
+                      <li>Colon</li>
+                      <li>Introduce list</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="node punct-box-4 interactive" data-topic="punctuation-period">
+                  <div class="box orange-box">
+                    <ul>
+                      <li>Period</li>
+                      <li>End sentence</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="line purple main-down-purple"></div>
+                <div class="line cyan main-down-cyan"></div>
+
+                <div class="node conj-title interactive" data-topic="conjunctions">
+                  <div class="pill purple-pill">Conjunctions</div>
+                </div>
+
+                <div class="node fanboys-box interactive" data-topic="fanboys">
+                  <div class="box purple-box">
+                    <span class="mini-label">FANBOYS</span>
+                    <ul>
+                      <li>For, And, Nor,</li>
+                      <li>But, Or, Yet, So</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="node subordinating-box interactive" data-topic="subordinating">
+                  <div class="box purple-box">
+                    <span class="mini-label">Subordinating</span>
+                    <ul>
+                      <li>because, if</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="line purple bottom-v-left"></div>
+                <div class="line cyan bottom-v-right"></div>
+                <div class="line cyan bottom-h"></div>
+                <div class="line cyan bottom-drop-1"></div>
+                <div class="line purple bottom-drop-2"></div>
+                <div class="line purple bottom-drop-3"></div>
+                <div class="line cyan bottom-drop-4"></div>
+
+                <div class="node trans-title interactive" data-topic="transitions">
+                  <div class="pill cyan-pill">Transitions</div>
+                </div>
+
+                <div class="node contrast-title interactive" data-topic="contrast">
+                  <div class="pill purple-pill">Contrast</div>
+                </div>
+
+                <div class="node cause-title interactive" data-topic="cause-effect">
+                  <div class="pill cyan-pill">Cause/Effect</div>
+                </div>
+
+                <div class="node example-title interactive" data-topic="example">
+                  <div class="pill cyan-pill">Example</div>
+                </div>
+
+                <div class="node trans-box-1 interactive" data-topic="addition">
+                  <div class="box cyan-box">
+                    <ul>
+                      <li>Addition</li>
+                      <li>In addition, Moreover</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="node trans-box-2 interactive" data-topic="contrast">
+                  <div class="box cyan-box">
+                    <ul>
+                      <li>Contrast</li>
+                      <li>In contrast</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="node contrast-box interactive" data-topic="contrast">
+                  <div class="box purple-box">
+                    <ul>
+                      <li>However,</li>
+                      <li>In contrast</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="node cause-box interactive" data-topic="cause-effect">
+                  <div class="box cyan-box">
+                    <ul>
+                      <li>Therefore, As a result</li>
+                      <li>Therefore</li>
+                      <li>As a result</li>
+                    </ul>
+                  </div>
+                </div>
+
+                <div class="node example-box interactive" data-topic="example">
+                  <div class="box cyan-box">
+                    <ul>
+                      <li>For example, Such as</li>
+                      <li>For example,</li>
+                      <li>Such as</li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
 
-      <div class="node present-box">
-        <div class="box blue-box">
-          <ul>
-            <li>Simple Present</li>
-            <li>Present Perfect</li>
-            <li>Present Progressive</li>
-          </ul>
+      <aside class="details-panel">
+        <div class="details-card" id="detailsCard">
+          <div class="details-badge badge-purple" id="detailsBadge">Overview</div>
+          <h3 id="detailsTitle">English Grammar System</h3>
+          <p id="detailsText">
+            Select any colored part of the diagram to view its explanation here without leaving the page.
+          </p>
+
+          <div class="detail-section">
+            <h4>Key Items</h4>
+            <ul id="detailsList">
+              <li>Verb Tenses</li>
+              <li>Clause Structures</li>
+              <li>Punctuation</li>
+              <li>Conjunctions</li>
+              <li>Transitions</li>
+            </ul>
+          </div>
+
+          <div class="detail-section">
+            <h4>Note</h4>
+            <p class="hint" id="detailsNote">
+              This interactive panel helps you review grammar topics quickly from one visual page.
+            </p>
+          </div>
         </div>
-      </div>
-
-      <div class="node future-box">
-        <div class="box blue-box">
-          <ul>
-            <li>Will</li>
-            <li>Future Perfect</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="line past-down"></div>
-      <div class="line present-down"></div>
-      <div class="line future-down"></div>
-      <div class="line top-bottom-h"></div>
-      <div class="line to-center-left"></div>
-      <div class="line to-center-right"></div>
-
-      <!-- Left -->
-      <div class="node clause-title">
-        <div class="pill green-pill">Clause Structures</div>
-      </div>
-      <div class="line green clause-line"></div>
-
-      <div class="node independent-box">
-        <div class="box green-box">
-          <span class="mini-label">Independent Clause</span>
-          <ul>
-            <li>Adverb Clauses</li>
-            <li>Time</li>
-            <li>Cause</li>
-            <li>Condition</li>
-            <li><strong>Reduced Clauses</strong></li>
-            <li>V-ing</li>
-            <li>Having + V3</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="node dependent-box">
-        <div class="box green-box">
-          <span class="mini-label">Dependent Clause</span>
-          <ul>
-            <li>Time</li>
-            <li>Cause</li>
-            <li>Contrast</li>
-            <li>Condition</li>
-          </ul>
-        </div>
-      </div>
-
-      <!-- Center -->
-      <div class="node center-node">
-        <div class="main-center">
-          ENGLISH<br />
-          GRAMMAR SYSTEM
-        </div>
-      </div>
-
-      <!-- Right -->
-      <div class="node punct-title">
-        <div class="pill orange-pill">Punctuation</div>
-      </div>
-      <div class="line orange punct-line"></div>
-
-      <div class="node punct-box-1">
-        <div class="box orange-box">
-          <ul>
-            <li>Comma</li>
-            <li>Semicolon (:)</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="node punct-box-2">
-        <div class="box orange-box">
-          <ul>
-            <li>Comma</li>
-            <li>Lists, clauses, FANBOYS</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="node punct-box-3">
-        <div class="box orange-box">
-          <ul>
-            <li>Colon</li>
-            <li>Introduce list</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="node punct-box-4">
-        <div class="box orange-box">
-          <ul>
-            <li>Period</li>
-            <li>End sentence</li>
-          </ul>
-        </div>
-      </div>
-
-      <!-- Conjunctions -->
-      <div class="line purple main-down-purple"></div>
-      <div class="line cyan main-down-cyan"></div>
-
-      <div class="node conj-title">
-        <div class="pill purple-pill">Conjunctions</div>
-      </div>
-
-      <div class="node fanboys-box">
-        <div class="box purple-box">
-          <span class="mini-label">FANBOYS</span>
-          <ul>
-            <li>For, And, Nor,</li>
-            <li>But, Or, Yet, So</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="node subordinating-box">
-        <div class="box purple-box">
-          <span class="mini-label">Subordinating</span>
-          <ul>
-            <li>because, if</li>
-          </ul>
-        </div>
-      </div>
-
-      <!-- Bottom -->
-      <div class="line purple bottom-v-left"></div>
-      <div class="line cyan bottom-v-right"></div>
-      <div class="line cyan bottom-h"></div>
-      <div class="line cyan bottom-drop-1"></div>
-      <div class="line purple bottom-drop-2"></div>
-      <div class="line purple bottom-drop-3"></div>
-      <div class="line cyan bottom-drop-4"></div>
-
-      <div class="node trans-title">
-        <div class="pill cyan-pill">Transitions</div>
-      </div>
-
-      <div class="node contrast-title">
-        <div class="pill purple-pill">Contrast</div>
-      </div>
-
-      <div class="node cause-title">
-        <div class="pill cyan-pill">Cause/Effect</div>
-      </div>
-
-      <div class="node example-title">
-        <div class="pill cyan-pill">Example</div>
-      </div>
-
-      <div class="node trans-box-1">
-        <div class="box cyan-box">
-          <ul>
-            <li>Addition</li>
-            <li>In addition, Moreover</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="node trans-box-2">
-        <div class="box cyan-box">
-          <ul>
-            <li>Contrast</li>
-            <li>In contrast</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="node contrast-box">
-        <div class="box purple-box">
-          <ul>
-            <li>However,</li>
-            <li>In contrast</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="node cause-box">
-        <div class="box cyan-box">
-          <ul>
-            <li>Therefore, As a result</li>
-            <li>Therefore</li>
-            <li>As a result</li>
-          </ul>
-        </div>
-      </div>
-
-      <div class="node example-box">
-        <div class="box cyan-box">
-          <ul>
-            <li>For example, Such as</li>
-            <li>For example,</li>
-            <li>Such as</li>
-          </ul>
-        </div>
-      </div>
-
+      </aside>
     </div>
   </div>
+
+
+      <div class="top-nav-panel">
+      <div class="top-nav">
+        <h3 class="top-nav-title">Diagram</h3>
+        <div class="nav-links">
+          <a class="nav-link active" href="index.html">Diagram</a>
+          <a class="nav-link" href="tense.html">Tenses</a>
+          <a class="nav-link" href="clause.html">Clause Structures</a>
+          <a class="nav-link" href="punctuation.html">Punctuation</a>
+          <a class="nav-link" href="conjunction.html">Conjunctions</a>
+          <a class="nav-link" href="transitions.html">Transitions</a>
+        </div>
+      </div>
+    </div>
+
+
+  <script>
+    const detailsMap = {
+      "verb-tenses": {
+        badge: "Tenses",
+        badgeClass: "badge-purple",
+        title: "Verb Tenses",
+        text: "Verb tenses organize actions and states by time. This section groups them into Past, Present, and Future, then shows the main aspect patterns under each one.",
+        items: ["Past", "Present", "Future", "Simple", "Progressive", "Perfect", "Perfect Progressive"],
+        note: "Use time first, then aspect. That makes the whole system easier to understand."
+      },
+      "past": {
+        badge: "Past",
+        badgeClass: "badge-blue",
+        title: "Past Tense Group",
+        text: "The past group describes actions, events, or conditions connected to past time. It includes simple, progressive, perfect, and perfect progressive forms.",
+        items: ["Simple Past", "Past Progressive", "Past Perfect", "Past Perfect Progressive"],
+        note: "Use the past group when the reference time is fully before now."
+      },
+      "present": {
+        badge: "Present",
+        badgeClass: "badge-blue",
+        title: "Present Tense Group",
+        text: "The present group describes facts, routines, current actions, and situations connected to now. It also includes four major aspect forms.",
+        items: ["Simple Present", "Present Progressive", "Present Perfect", "Present Perfect Progressive"],
+        note: "The present perfect links past action to present relevance."
+      },
+      "future": {
+        badge: "Future",
+        badgeClass: "badge-blue",
+        title: "Future Tense Group",
+        text: "The future group describes predictions, plans, promises, or actions completed or continuing at a future point.",
+        items: ["Simple Future", "Future Progressive", "Future Perfect", "Future Perfect Progressive"],
+        note: "Use will, going to, will be, will have, and will have been carefully based on meaning."
+      },
+      "clause-structures": {
+        badge: "Clauses",
+        badgeClass: "badge-green",
+        title: "Clause Structures",
+        text: "Clause structure explains how ideas are built and connected. This includes independent and dependent clauses, along with common adverb-clause relationships.",
+        items: ["Independent Clause", "Dependent Clause", "Time", "Cause", "Condition", "Contrast"],
+        note: "Clause control improves sentence variety and professional writing."
+      },
+      "independent-clause": {
+        badge: "Independent",
+        badgeClass: "badge-green",
+        title: "Independent Clause",
+        text: "An independent clause can stand alone as a complete sentence. In this diagram, it is also linked to adverb-clause ideas and reduced-clause patterns.",
+        items: ["Adverb Clauses", "Time", "Cause", "Condition", "Reduced Clauses", "V-ing", "Having + V3"],
+        note: "A complete sentence usually needs one independent clause at minimum."
+      },
+      "dependent-clause": {
+        badge: "Dependent",
+        badgeClass: "badge-green",
+        title: "Dependent Clause",
+        text: "A dependent clause cannot stand alone. It supports another clause and often expresses time, cause, contrast, or condition.",
+        items: ["Time", "Cause", "Contrast", "Condition"],
+        note: "Dependent clauses often begin with subordinating words such as because, if, although, and when."
+      },
+      "punctuation": {
+        badge: "Punctuation",
+        badgeClass: "badge-orange",
+        title: "Punctuation",
+        text: "Punctuation controls sentence clarity, separation, and emphasis. This section highlights basic marks used for lists, clauses, and sentence boundaries.",
+        items: ["Comma", "Semicolon", "Colon", "Period"],
+        note: "Correct punctuation makes grammar easier to read and understand."
+      },
+      "punctuation-basic": {
+        badge: "Punctuation",
+        badgeClass: "badge-orange",
+        title: "Comma and Semicolon",
+        text: "Commas separate elements inside a sentence. Semicolons connect related independent clauses or separate complex list items.",
+        items: ["Comma", "Semicolon (;)"],
+        note: "Do not confuse a semicolon with a colon. Their functions are different."
+      },
+      "punctuation-comma": {
+        badge: "Comma",
+        badgeClass: "badge-orange",
+        title: "Comma Use",
+        text: "This part highlights comma use in lists, clause separation, and coordination with FANBOYS patterns.",
+        items: ["Lists", "Clauses", "FANBOYS coordination"],
+        note: "A comma before a FANBOYS coordinator is usually used when joining two independent clauses."
+      },
+      "punctuation-colon": {
+        badge: "Colon",
+        badgeClass: "badge-orange",
+        title: "Colon Use",
+        text: "A colon introduces a list, explanation, or elaboration after a complete statement.",
+        items: ["Colon", "Introduce list"],
+        note: "The part before the colon should usually be a complete clause."
+      },
+      "punctuation-period": {
+        badge: "Period",
+        badgeClass: "badge-orange",
+        title: "Period Use",
+        text: "A period closes a full sentence and marks a complete thought.",
+        items: ["Period", "End sentence"],
+        note: "Use periods to keep sentence boundaries clear and professional."
+      },
+      "conjunctions": {
+        badge: "Conjunctions",
+        badgeClass: "badge-purple",
+        title: "Conjunctions",
+        text: "Conjunctions connect words, phrases, and clauses. This diagram focuses on coordinating conjunctions and subordinating conjunctions.",
+        items: ["FANBOYS", "Subordinating conjunctions"],
+        note: "Conjunction choice changes the logical relationship between ideas."
+      },
+      "fanboys": {
+        badge: "FANBOYS",
+        badgeClass: "badge-purple",
+        title: "Coordinating Conjunctions",
+        text: "FANBOYS stands for the seven main coordinating conjunctions used to join equal grammatical units.",
+        items: ["For", "And", "Nor", "But", "Or", "Yet", "So"],
+        note: "When FANBOYS joins two independent clauses, a comma is often needed before it."
+      },
+      "subordinating": {
+        badge: "Subordinating",
+        badgeClass: "badge-purple",
+        title: "Subordinating Conjunctions",
+        text: "Subordinating conjunctions introduce dependent clauses and show relationships such as reason, condition, time, or contrast.",
+        items: ["because", "if"],
+        note: "A subordinating conjunction usually makes its clause dependent."
+      },
+      "transitions": {
+        badge: "Transitions",
+        badgeClass: "badge-cyan",
+        title: "Transitions",
+        text: "Transitions guide the reader from one idea to another. They improve coherence and signal logical movement across sentences or paragraphs.",
+        items: ["Addition", "Contrast", "Cause/Effect", "Example"],
+        note: "Transitions are especially helpful in essays, reports, and professional writing."
+      },
+      "addition": {
+        badge: "Addition",
+        badgeClass: "badge-cyan",
+        title: "Addition Transitions",
+        text: "Addition transitions introduce extra supporting information or another related point.",
+        items: ["In addition", "Moreover"],
+        note: "Use addition markers when expanding an existing argument or explanation."
+      },
+      "contrast": {
+        badge: "Contrast",
+        badgeClass: "badge-purple",
+        title: "Contrast Markers",
+        text: "Contrast markers show difference, opposition, or unexpected relation between ideas.",
+        items: ["However", "In contrast"],
+        note: "Contrast transitions are useful when comparing two positions, results, or examples."
+      },
+      "cause-effect": {
+        badge: "Cause/Effect",
+        badgeClass: "badge-cyan",
+        title: "Cause and Effect Markers",
+        text: "Cause/effect markers show result, consequence, or logical outcome.",
+        items: ["Therefore", "As a result"],
+        note: "These transitions work well when explaining consequences in academic and business writing."
+      },
+      "example": {
+        badge: "Example",
+        badgeClass: "badge-cyan",
+        title: "Example Markers",
+        text: "Example markers introduce illustrations, instances, or specific supporting details.",
+        items: ["For example", "Such as"],
+        note: "Examples strengthen explanation by making abstract ideas more concrete."
+      }
+    };
+
+    function updateDiagramScale() {
+      const panel = document.querySelector(".diagram-panel");
+      if (!panel) return;
+
+      const baseWidth = 1536;
+      const panelStyle = getComputedStyle(panel);
+      const horizontalPadding =
+        parseFloat(panelStyle.paddingLeft) + parseFloat(panelStyle.paddingRight);
+
+      const availableWidth = panel.clientWidth - horizontalPadding;
+
+      let scale = availableWidth / baseWidth;
+
+      if (scale > 1) scale = 1;
+      if (scale < 0.16) scale = 0.16;
+
+      document.documentElement.style.setProperty("--diagram-scale", scale.toFixed(4));
+    }
+
+    function renderDetails(topicKey) {
+      const topic = detailsMap[topicKey];
+      if (!topic) return;
+
+      const badge = document.getElementById("detailsBadge");
+      const title = document.getElementById("detailsTitle");
+      const text = document.getElementById("detailsText");
+      const list = document.getElementById("detailsList");
+      const note = document.getElementById("detailsNote");
+
+      badge.className = `details-badge ${topic.badgeClass}`;
+      badge.textContent = topic.badge;
+      title.textContent = topic.title;
+      text.textContent = topic.text;
+      list.innerHTML = topic.items.map(item => `<li>${item}</li>`).join("");
+      note.textContent = topic.note;
+
+      document.querySelectorAll(".interactive").forEach(el => {
+        el.classList.toggle("active", el.dataset.topic === topicKey);
+      });
+    }
+
+    document.querySelectorAll(".interactive").forEach(el => {
+      el.addEventListener("click", () => {
+        renderDetails(el.dataset.topic);
+      });
+    });
+
+    window.addEventListener("load", () => {
+      updateDiagramScale();
+      renderDetails("verb-tenses");
+    });
+
+    window.addEventListener("resize", updateDiagramScale);
+  </script>
 </body>
 </html>
