@@ -132,3 +132,7 @@ This repository is designed to:
 This repository is provided as a supporting graphical reference aligned with an official *Graphic Organizer Chart/Web* derived from academic coursework. It is an independently developed implementation intended to illustrate and extend the underlying concepts and does not represent an official institutional deliverable or endorsement.
 
 ---
+
+### © Mohammad Aminul Islam. All rights reserved.
+
+---
