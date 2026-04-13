@@ -133,6 +133,6 @@ This repository is provided as a supporting graphical reference aligned with an 
 
 ---
 
-### © Mohammad Aminul Islam. All rights reserved.
+© Mohammad Aminul Islam. All rights reserved.
 
 ---
