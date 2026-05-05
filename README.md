@@ -11,15 +11,11 @@ Live URL: https://aminbiography.github.io/advanced-english-grammar-and-punctuati
 ---   
 
 **IT Incident / Cybersecurity Grammar Lesson:**  
-https://youtu.be/XyPkN--kpwY
+[![IT Incident Grammar Lesson](https://img.youtube.com/vi/XyPkN--kpwY/0.jpg)](https://youtu.be/XyPkN--kpwY)
 
 ---
 
 **Interview-Based Grammar Lesson:**  
-https://youtu.be/5fAKZ6dwPXw
-
----
-
 [![Interview-Based Grammar Lesson](https://img.youtube.com/vi/5fAKZ6dwPXw/0.jpg)](https://youtu.be/5fAKZ6dwPXw)
 
 ---
